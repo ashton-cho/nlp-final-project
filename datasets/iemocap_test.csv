@@ -1,0 +1,2041 @@
+Dialogue_ID,Utterance_ID,Speaker,Emotion,Utterance
+0,0,Ses01M_script02_2_M,frustration,"It's not just me, okay?  Look at like all the people."
+0,1,Ses01M_script02_2_F,frustration,They're all told the same thing.
+0,2,Ses01M_script02_2_F,frustration,"Everybody is believes that it keeps them excited, you know it keeps them coming back for more."
+0,3,Ses01M_script02_2_F,frustration,"Everybody keeps thinking that they can just find the right spot, you know they'll get it on the action."
+0,4,Ses01M_script02_2_F,frustration,Their life will start then.
+0,5,Ses01M_script02_2_M,neutral,Are we talking about the same thing?
+0,6,Ses01M_script02_2_F,frustration,I'm sorry it still just fish to me.
+0,7,Ses01M_script02_2_M,neutral,Can I ask you a question?  Are you on your period?
+0,8,Ses01M_script02_2_F,anger,"Why do you ask me that?  God damn it, I told you not to ask me that I hate it when you ask me that. It's insulting."
+0,9,Ses01M_script02_2_M,neutral,"Okay, well then what's bugging you?"
+0,10,Ses01M_script02_2_F,anger,"I just, we just have different ideas of what this evening is supposed to look like."
+1,0,Ses02M_script03_1_M,neutral,I don't care then.
+1,1,Ses02M_script03_1_F,neutral,It's bound to come sooner or later.
+1,2,Ses02M_script03_1_M,neutral,Hello? Hello? What? Wrong number.
+1,3,Ses02M_script03_1_F,neutral,Oh. It sends shivers down my spine.
+1,4,Ses02M_script03_1_M,neutral,What do we do if they suddenly walk in on us?
+1,5,Ses02M_script03_1_F,happiness,Behave exquisitely.
+1,6,Ses02M_script03_1_M,happiness,With the most perfect poise.
+1,7,Ses02M_script03_1_F,happiness,"Yes, I should probably to a court curtsey."
+2,0,Ses02M_script02_1_M,neutral,We weren't in a good spot.
+2,1,Ses02M_script02_1_F,frustration,We didn't see them the first time either.
+2,2,Ses02M_script02_1_M,frustration,We just weren't in a good spot; this is a much better spot. I've got good instincts for these things.
+2,3,Ses02M_script02_1_M,neutral,"There is that, oh no that's just seaweed, isn't it?"
+2,4,Ses02M_script02_1_M,neutral,"This is, this is great, isn't it? I wouldn't miss this for anything. Now listen to this, I know you're not interested but just listen."
+2,5,Ses02M_script02_1_M,neutral,"Out there somewhere there is this huge mass of silver fish headed this way,"
+2,6,Ses02M_script02_1_M,neutral,"they don't why, we don't know why. They didn't take a vote or anything; they didn't get a map or an invitation."
+2,7,Ses02M_script02_1_M,neutral,"Just all as one. This little time sensitive firecracker, instinctual firecracker in their body just went off and all as one they turned and formed a line as long the California coast and started swimming. They're swimming right now as if that's the only thing that matters."
+3,0,Ses05M_script02_2_F,sadness,"For heavens sake, Augie, whatever I am doing, I'd rather it be with you."
+3,1,Ses05M_script02_2_M,neutral,Really?
+3,2,Ses05M_script02_2_F,sadness,"Yes.  Don't you know that? I mean, You're probably the one you wishes you were with somebody else, somebody who didn't take everything so hard and who knew how to enjoy herself."
+3,3,Ses05M_script02_2_M,happiness,"Actually, now that you mention it, no.  I don't."
+3,4,Ses05M_script02_2_F,neutral,"Okay.  Well, we're in the wrong spot but we're with the right person."
+3,5,Ses05M_script02_2_M,happiness,"I don't know.  I think this is a pretty good spot.  I mean, look at the view of the moon from here."
+3,6,Ses05M_script02_2_F,happiness,"Yes, I did notice that.  It does look really beautiful over the water.  Big old white moon."
+3,7,Ses05M_script02_2_M,happiness,"Oh, well look what we've got here."
+4,0,Ses05M_script02_1_M,neutral,"What time is it?  They're supposed to run around midnight.  Oh, this is great, isn't it?  Look at the night we've got here.  It couldn't be better.  Actually, I wanted to go a little further up the coast you know to get away from all the lights and the people.  I was afraid we might miss it though, so how are you doing?"
+4,1,Ses05M_script02_1_F,sadness,Fine.
+4,2,Ses05M_script02_1_M,neutral,"What's that? Is that- Wait, is that foam?  I can't even tell.  Oh Actually, I guess if I can't tell then it probably isn't it, is it?  It will probably be unmistakable, don't you think?"
+4,3,Ses05M_script02_1_M,neutral,"This is great.  How are you doing?  Oh, no.  Oh, do you know what I did?  I forgot the flashlight.  How could I be so stupid?  I forgot the flashlight."
+4,4,Ses05M_script02_1_F,neutral,What flashlight?
+4,5,Ses05M_script02_1_M,neutral,"The flashlight.  The silver one.  There's only one, isn't there?  Stupid."
+4,6,Ses05M_script02_1_F,neutral,You mean our flashlight?
+4,7,Ses05M_script02_1_M,neutral,Well-
+4,8,Ses05M_script02_1_F,neutral,"I mean, you kept saying my flashlight, the flashlight like it was only somehow yours.  How is that supposed to make me feel?"
+4,9,Ses05M_script02_1_M,neutral,"Oh, no, of course, our flashlight.  Me flashlight is to you flashlight, naturally."
+5,0,Ses01F_script01_1_F,frustration,What's he going to say?
+5,1,Ses01F_script01_1_F,neutral,Maybe we should tell him before he sees it.
+5,2,Ses01F_script01_1_M,neutral,He saw it.
+5,3,Ses01F_script01_1_F,neutral,How could he see it?  I was the first one up; he was still in bed.
+5,4,Ses01F_script01_1_M,neutral,He was out here when it broke.
+5,5,Ses01F_script01_1_F,neutral,When?
+5,6,Ses01F_script01_1_M,neutral,Four o clock this morning.  I heard a crack and I woke up and looked out.  He was standing right over there when it cracked.
+5,7,Ses01F_script01_1_F,neutral,What was he doing out here at four o clock in the morning?
+5,8,Ses01F_script01_1_M,neutral,I don't know.
+6,0,Ses02M_script03_1_M,happiness,"Things that ought to matter dreadfully don't matter at all when one's is happy, do they?"
+6,1,Ses02M_script03_1_F,neutral,What's so horrible is that one can't stay happy.
+6,2,Ses02M_script03_1_M,sadness,Oh darling don't say that.
+6,3,Ses02M_script03_1_F,neutral,It's true; the whole business is a very poor joke.
+6,4,Ses02M_script03_1_M,happiness,Meaning that sacred and beautiful thing love?
+6,5,Ses02M_script03_1_F,neutral,Yes. Meaning just that.
+6,6,Ses02M_script03_1_M,happiness,What does it all mean that's what I ask- that's what I ask myself in my ceaseless quest for ultimate truth?  Good God what does it all mean?
+6,7,Ses02M_script03_1_F,neutral,Don't laugh at me. I'm serious.
+7,0,Ses04M_script03_2_M,anger,What of it?
+7,1,Ses04M_script03_2_F,neutral,It gave him a lot of pleasure and it didn't hurt me.
+7,2,Ses04M_script03_2_M,anger,What about me?
+7,3,Ses04M_script03_2_F,frustration,"If you hadn't been so nosey, you never would have known a thing about it."
+7,4,Ses04M_script03_2_M,anger,"That's a nice point of view, I must say."
+7,5,Ses04M_script03_2_F,frustration,"Oh, dear.  I'm bored with this conversation."
+7,6,Ses04M_script03_2_M,anger,So am I; bored stiff.
+7,7,Ses04M_script03_2_M,neutral,You want some brandy?
+7,8,Ses04M_script03_2_F,anger,"No, thanks."
+7,9,Ses04M_script03_2_M,frustration,"I'll have a little myself, I think."
+7,10,Ses04M_script03_2_F,frustration,I don't see why you want it.  You've already had two glasses.
+8,0,Ses03F_impro02_F,neutral,"But we can work, you know, we--you can write me and we could see pictures"
+8,1,Ses03F_impro02_M,frustration,What if you don't come back?
+8,2,Ses03F_impro02_F,sadness,"and if we survive, if we survive that then babe, you know you know we could survive any--"
+8,3,Ses03F_impro02_F,sadness,I will come back.
+8,4,Ses03F_impro02_M,neutral,"What am I supposed--oh, one out of five people aren't coming back."
+8,5,Ses03F_impro02_M,sadness,It doesn't look very good.
+8,6,Ses03F_impro02_F,neutral,I can do it. I'm going to do it. And I'll be back safe and sound and-
+8,7,Ses03F_impro02_F,sadness,we'll have all the money that we ever needed.
+9,0,Ses04F_script02_1_M,neutral,Think about the people in Kansas.  They'd have to get plane tickets and hotel reservations to come see this.  We're just forty minutes away.  It's too good to pass up.
+9,1,Ses04F_script02_1_F,anger,"Pass up what?  These little fish swim onto the beach, flop around, and then swim away and then they die."
+9,2,Ses04F_script02_1_M,frustration,"Yeah but that moment on the beach is the highlight of their little lives.  All that flopping around is laying eggs or what do you, spawning or mating something like that."
+9,3,Ses04F_script02_1_M,neutral,This is the big night for these guys.  Life's last orgy.
+9,4,Ses04F_script02_1_F,anger,What are you so excited about?  This isn't a moon landing we're talking about.  It's fish.  It's fish nobody even eats.
+9,5,Ses04F_script02_1_M,frustration,"Yeah, they do."
+9,6,Ses04F_script02_1_F,frustration,"Oh, Augie."
+9,7,Ses04F_script02_1_M,frustration,Okay but it's fish who do something none of the other fish do
+10,0,Ses05F_script03_2_F,neutral,Don't be so stupid.
+10,1,Ses05F_script03_2_M,anger,"Really, Amanda."
+10,2,Ses05F_script03_2_M,neutral,"Going out somewhere, dear?"
+10,3,Ses05F_script03_2_F,neutral,Just making myself fascinating for you.
+10,4,Ses05F_script03_2_M,anger,"Oh, that reply has broken my heart."
+10,5,Ses05F_script03_2_F,neutral,It's the woman's job to allure the man.  Why don't you watch me for a moment?
+10,6,Ses05F_script03_2_M,neutral,"As a matter of fact, that is perfectly true."
+10,7,Ses05F_script03_2_F,neutral,"No, it's not."
+10,8,Ses05F_script03_2_M,frustration,"Oh, yes it is."
+11,0,Ses05M_script01_3_M,neutral,"I don't know what to say.  I have no imagination.  That's all I have to say to you.  God, I'm embarrassing you. I-I didn't want to do this here. I- I wanted to do it someplace different, someplace where we could be new to each other."
+11,1,Ses05M_script01_3_M,neutral,"You feel it's wrong here, don't you; this yard, this chair?  I want you to be ready for me, Annie. I- I don't want to win you away from anything."
+11,2,Ses05M_script01_3_F,happiness,"Oh, Chris I've been ready for a long time."
+11,3,Ses05M_script01_3_M,neutral,So he's gone forever then?  You sure?
+11,4,Ses05M_script01_3_F,sadness,I almost got married two years ago.
+11,5,Ses05M_script01_3_M,neutral,Why didn't you?
+11,6,Ses05M_script01_3_F,neutral,You started to write me.
+11,7,Ses05M_script01_3_M,happiness,You felt something that far back?
+11,8,Ses05M_script01_3_F,happiness,Everyday since.
+12,0,Ses04M_script01_3_F,neutral,Not like that you're not.
+12,1,Ses04M_script01_3_M,neutral,I kissed you.
+12,2,Ses04M_script01_3_F,neutral,"Like Larry's brother.  Do it like you, Chris.  What is it, Chris?"
+12,3,Ses04M_script01_3_M,neutral,Let's drive somewhere.  I want to be alone with you.
+12,4,Ses04M_script01_3_F,neutral,"No, what is it, Chris?  Your mother?"
+12,5,Ses04M_script01_3_M,neutral,"No, no, nothing like that."
+12,6,Ses04M_script01_3_F,neutral,"Then what's wrong.  Even in your letters, there was something ashamed."
+12,7,Ses04M_script01_3_M,sadness,"Yes, I suppose there has been.  But it's going from me."
+13,0,Ses05F_impro05_M,neutral,"Okay, and what is that?  What kind of bag is it?"
+13,1,Ses05F_impro05_F,neutral,Um- It's a travel backpack.  It's green and gray.  It's got my name on it and my information.
+13,2,Ses05F_impro05_M,frustration,And you couldn't find it?
+13,3,Ses05F_impro05_F,frustration,"No, it didn't turn up at the baggage claim."
+13,4,Ses05F_impro05_M,neutral,Are you sure?
+13,5,Ses05F_impro05_F,frustration,I mean we've gone through all of this.  I've been to five people already who--
+13,6,Ses05F_impro05_M,frustration,"Well, obviously, that wasn't me, so I'm going to have to ask you the same questions they asked you just so we can get to the same point."
+13,7,Ses05F_impro05_F,frustration,Okay.
+13,8,Ses05F_impro05_M,neutral,"All right?  Now, um- it's green, travel bag, you couldn't find it.  And was there something important in it that you need it?"
+13,9,Ses05F_impro05_F,frustration,"Yes, lots of really like -- sentimental value only, but--"
+14,0,Ses05F_script01_3_F,neutral,"Well, you saw that! And you.  You've been-"
+14,1,Ses05F_script01_3_M,neutral,What?
+14,2,Ses05F_script01_3_F,sadness,Well sort of embarrassed soon as I came.
+14,3,Ses05F_script01_3_M,happiness,Well the plan was to kind of sneak up on you over a period of a week or so.  But uh- they take it for granted that we're all set.
+14,4,Ses05F_script01_3_F,neutral,I figured they would- your mother at least.
+14,5,Ses05F_script01_3_M,neutral,How did you know?
+14,6,Ses05F_script01_3_F,neutral,"Well, from her point of view why else would I come?"
+14,7,Ses05F_script01_3_M,neutral,"Well, would you want to?  I guess you know this is why I asked you to come."
+14,8,Ses05F_script01_3_F,happiness,I guess this is why I came.
+15,0,Ses04F_script01_2_F,neutral,It's got that about it.
+15,1,Ses04F_script01_2_M,neutral,Well so what.
+15,2,Ses04F_script01_2_F,anger,"What's going on here, Joe?"
+15,3,Ses04F_script01_2_M,frustration,Listen kid.
+15,4,Ses04F_script01_2_F,anger,"No, line."
+15,5,Ses04F_script01_2_M,neutral,"Uh, Then why is she still-she's not his girl, Joe"
+15,6,Ses04F_script01_2_F,anger,"She's not his girl, Joe.  She knows she's not."
+15,7,Ses04F_script01_2_M,neutral,You can't read her mind.
+16,0,Ses04M_impro05_M,anger,"fifty dollars. No way, no."
+16,1,Ses04M_impro05_F,neutral,"That's our policy, sir."
+16,2,Ses04M_impro05_M,anger,"I don't but the thing is, I don't care about your policy."
+16,3,Ses04M_impro05_M,anger,You understand?
+16,4,Ses04M_impro05_M,frustration,"What I want you to do is I want you to write three of those, as if I were three people.  Okay.  You can write -- you can just put my name on all --"
+16,5,Ses04M_impro05_F,neutral,I can't do that.
+16,6,Ses04M_impro05_M,frustration,But what I'm telling you is that's what you're going to do.
+16,7,Ses04M_impro05_F,neutral,"Uh, no, actually, no I'm not."
+16,8,Ses04M_impro05_M,anger,"No, no, because, look, I don't care what your policy says.  I mean--"
+17,0,Ses05M_impro07_M,neutral,"They don't live here.  They don't know, right?"
+17,1,Ses05M_impro07_F,neutral,"Yeah. I think it's really also if you- if you consider yourself like, us and them, kind of thing- If you think you're part of your community then --you going to like it more"
+17,2,Ses05M_impro07_M,neutral,yeah.
+17,3,Ses05M_impro07_M,neutral,Exactly.  You make it what you make it. You know? Right? And I'm gonna make it so freaking awesome.
+17,4,Ses05M_impro07_F,neutral,"Right, Exactly."
+17,5,Ses05M_impro07_F,neutral,Oh I'm so glad.
+17,6,Ses05M_impro07_M,neutral,yeah.
+17,7,Ses05M_impro07_F,happiness,"So when do you know, like, where you're gonna live? and-"
+17,8,Ses05M_impro07_M,neutral,"Well, I don't know.  I've got to go look for a place."
+17,9,Ses05M_impro07_F,neutral,"Oh, wow."
+18,0,Ses03M_impro02_M,sadness,You tell her-- [BREATHING]
+18,1,Ses03M_impro02_F,sadness,I'm done.  I can't honey.
+18,2,Ses03M_impro02_M,sadness,What do you mean?
+18,3,Ses03M_impro02_F,sadness,It's over.
+18,4,Ses03M_impro02_M,neutral,What?
+18,5,Ses03M_impro02_F,sadness,Honey I can't do it anymore.
+18,6,Ses03M_impro02_M,neutral,Are you kidding me?  No.
+18,7,Ses03M_impro02_F,sadness,I need you here.  Anna needs you.
+19,0,Ses03M_script01_1_M,anger,You know that Larry's not coming back and I know that too.  Why we both go on letting him think that we both believe with him.
+19,1,Ses03M_script01_1_F,neutral,What are you going to do?  You want to argue with him?
+19,2,Ses03M_script01_1_M,frustration,"No I don't want to argue with him but, it's time that he realizes that nobody believes Larry's coming back anymore."
+19,3,Ses03M_script01_1_M,anger,"Why shouldn't he walk around and dream at him at night.  Walk around.  Why shouldn't he walk around?  Why shouldn't he dream of him, walk around at night waiting for him?  Do we contradict him?  Do we say flat out that we don't have anymore hope?"
+19,4,Ses03M_script01_1_M,anger,That we haven't had any hope for years now?
+19,5,Ses03M_script01_1_F,neutral,You can't say that to him.
+19,6,Ses03M_script01_1_M,neutral,We got to say it to him.
+19,7,Ses03M_script01_1_F,frustration,How are you going to prove it?  Can you prove it?
+19,8,Ses03M_script01_1_M,frustration,Larry's been gone for three years.  For god sakes no one comes back after three years.  It's insane.
+19,9,Ses03M_script01_1_F,neutral,"To you maybe, to me, but not to your father.  I mean,"
+20,0,Ses03M_impro01_M,frustration,and I'll tell her how you've been behaving.
+20,1,Ses03M_impro01_F,frustration,Really?
+20,2,Ses03M_impro01_M,frustration,How would you like that hmm?
+20,3,Ses03M_impro01_F,frustration,"She's not actually in the building.  She's only on the phone. Sir, please leave this line immediately."
+20,4,Ses03M_impro01_M,frustration,"Oh, okay.  Wow."
+20,5,Ses03M_impro01_M,anger,No.  I'm not going anywhere.  I'm staying here-- I am filling out right now okay just calm down. I'm filling out right now-- Just take the god damn piece of paper.
+20,6,Ses03M_impro01_F,anger,Okay.  I'm going to call security. Security!
+20,7,Ses03M_impro01_F,neutral,"I have it.  I'm taking it.  Doesn't mean I'm going to do anything with it.--Get out of my line!  This is my line.  Get out.  All these people--Sir, you are causing a mob in this department."
+21,0,Ses04F_impro03_M,neutral,I just think browns are really what you want to go with.  I mean I think there's more contrast between brown and green than there is-
+21,1,Ses04F_impro03_F,neutral,who- Who's getting married though?
+21,2,Ses04F_impro03_M,neutral,I know but you just asked me to-
+21,3,Ses04F_impro03_F,neutral,to help plan because I'm getting married. [LAUGHTER]
+21,4,Ses04F_impro03_M,neutral,So we're going to go greens and browns.
+21,5,Ses04F_impro03_F,neutral,No.
+21,6,Ses04F_impro03_M,frustration,"Come on.  Please will you do the greens and browns, just the browns for me?"
+21,7,Ses04F_impro03_M,neutral,Just for me.  Come on.  I'm your best friend.
+21,8,Ses04F_impro03_F,neutral,It's not your wedding. You can-
+21,9,Ses04F_impro03_M,neutral,I'm your best friend
+22,0,Ses03F_impro02_F,sadness,And- And then I'll stop working and- I'll stay home with the baby.
+22,1,Ses03F_impro02_M,sadness,I don't want the money. I want-you here
+22,2,Ses03F_impro02_M,neutral,"we'll get money, all right? You don't need the job, all right?"
+22,3,Ses03F_impro02_M,anger,If your life is going to be in danger and this family is going to be in danger we don't need the job. We'll find the money.
+22,4,Ses03F_impro02_F,sadness,It's all I ever knew how to do. I can't quit now.
+22,5,Ses03F_impro02_M,sadness,How are we supposed to tell Amy? How's she supposed to understand that?
+22,6,Ses03F_impro02_F,sadness,"Well, we- we tell her mommy's going on va- on a trip for for- a while."
+22,7,Ses03F_impro02_M,sadness,"How is she going to feel the first year in school, no mom."
+23,0,Ses01F_impro03_M,neutral,So what's up?  What's new?
+23,1,Ses01F_impro03_F,happiness,Well Vegas was awesome.
+23,2,Ses01F_impro03_M,neutral,Yeah.  I heard.
+23,3,Ses01F_impro03_F,happiness,"And, um, I got married."
+23,4,Ses01F_impro03_M,neutral,Shut up.  No- in Vegas?
+23,5,Ses01F_impro03_F,happiness,Yeah.  In the old town part.
+23,6,Ses01F_impro03_M,neutral,Who did you marry?
+23,7,Ses01F_impro03_F,neutral,Chuck. [LAUGHTER]
+23,8,Ses01F_impro03_M,neutral,Did you propose to you?
+24,0,Ses04F_impro05_M,frustration,Ma'am in flying with Northwest Airlines you agreed to
+24,1,Ses04F_impro05_M,frustration,sign away your luggage to the
+24,2,Ses04F_impro05_F,anger,I didn't sign anything. I didn't sign anything. And you people have got to make-
+24,3,Ses04F_impro05_M,frustration,"It's part of the small- it's part of the agreement when you're purchasing an airline ticket, there's- when you-"
+24,4,Ses04F_impro05_F,anger,You have to make amends for what you did for losing my bag and all of my stuff.  Fifty dollars is unacceptable.
+24,5,Ses04F_impro05_M,frustration,"Ma'am, please calm down.  When you purchase a ticket, there is a terms and agreement,"
+24,6,Ses04F_impro05_F,anger,No.  No.  I don't know. You know what? I'm going to call my lawyer. You know what?  That's what I'm going to do.  I'm going to call my lawyer and have him get down here and explain to you that this is an unacceptable option.
+24,7,Ses04F_impro05_M,frustration,terms and conditions- in the agreement of purchasing a ticket. Most people frequently look it over
+24,8,Ses04F_impro05_M,frustration,The best that we can do for you is give you-
+25,0,Ses05M_impro02_F,neutral,What is it?
+25,1,Ses05M_impro02_M,sadness,"Sweetheart, I've got to tell you something.  I just got a call.  I'm going to Iraq."
+25,2,Ses05M_impro02_F,neutral,What?
+25,3,Ses05M_impro02_M,sadness,"I know it's really crappy timing, but I don't have a choice."
+25,4,Ses05M_impro02_F,neutral,"What?  No, you can't!"
+25,5,Ses05M_impro02_M,neutral,I know. I have to go-
+25,6,Ses05M_impro02_F,neutral,You didn't- Did you tell them you have two young children at home?
+25,7,Ses05M_impro02_M,neutral,"You think they'd listen to me?  No.  Of course, I told them that."
+25,8,Ses05M_impro02_F,neutral,And they didn't care?
+26,0,Ses02M_script03_1_F,sadness,"Oh dear, should we like that?"
+26,1,Ses02M_script03_1_M,neutral,Depends on how well we play it.
+26,2,Ses02M_script03_1_F,neutral,"Well, what happens if one of us dies, does the one that's left still laugh?"
+26,3,Ses02M_script03_1_M,neutral,"Yes, yes, with all his might."
+26,4,Ses02M_script03_1_F,neutral,"Well that's serious enough, isn't it?"
+26,5,Ses02M_script03_1_M,neutral,"No, no it isn't, death is very laughable, such a cunning little mystery, all done with mirrors."
+26,6,Ses02M_script03_1_F,neutral,"Darling, I believe you're talking nonsense."
+26,7,Ses02M_script03_1_M,neutral,So is everyone else in the long run.
+27,0,Ses03F_script02_2_M,neutral,So what do you think?
+27,1,Ses03F_script02_2_F,neutral,About what?
+27,2,Ses03F_script02_2_M,neutral,About what I was just saying.
+27,3,Ses03F_script02_2_F,neutral,It's ridiculous.
+27,4,Ses03F_script02_2_M,frustration,It certainly is not. It is slightly exaggerated scientific fact.
+27,5,Ses03F_script02_2_F,neutral,"It's so P.R. I mean, somebody's giving you a good bill about this wonderful event that's going to happen on the beach."
+27,6,Ses03F_script02_2_M,frustration,"Well, I'm not the only one. Look at all these people."
+27,7,Ses03F_script02_2_F,neutral,Exactly. Everyone else is told the same thing. It keeps them feeling excited. Keeps them coming back. Keeps them thinking life's going to start at any minute now.
+27,8,Ses03F_script02_2_M,frustration,Are we talking about the same thing?
+27,9,Ses03F_script02_2_F,neutral,I don't care. It's still fish to me.
+28,0,Ses02M_script01_1_F,neutral,From father's point of you he isn't dead and you have no right to take his girl.
+28,1,Ses02M_script01_1_F,frustration,"You can go on from there if you know where to go but I don't know where to go, see I don't know. So what can I do for you?"
+28,2,Ses02M_script01_1_M,anger,"I don't know why but every time I reach out for something that I really want, I have to pull back 'cause someone else will suffer. My whole bloody life, time after time after time."
+28,3,Ses02M_script01_1_F,neutral,You're a considerate fellow.  There's nothing wrong with that.
+28,4,Ses02M_script01_1_M,anger,To hell with that.
+28,5,Ses02M_script01_1_F,frustration,Have you asked Annie yet?
+28,6,Ses02M_script01_1_M,neutral,I wanted to get this settled first.
+28,7,Ses02M_script01_1_F,neutral,How do you know she'll marry you? Maybe she feels the same way your father does.
+28,8,Ses02M_script01_1_M,neutral,"Well, if she does then that's the end of it. From her letters I think she's forgotten him."
+29,0,Ses01M_impro07_F,neutral,That's amazing. They pay for everything?
+29,1,Ses01M_impro07_M,neutral,"I know. For softball, yeah."
+29,2,Ses01M_impro07_F,neutral,"Your housing, books, everything? That is incredible."
+29,3,Ses01M_impro07_M,neutral,"Yeah, everything. Every like- free ride and I get to, you know, like be on like a Trojans sports team too. And it's like cool. Isn't it awesome?"
+29,4,Ses01M_impro07_F,neutral,That is incredible. Do you get like a per diem?
+29,5,Ses01M_impro07_M,happiness,"I don't know. I should ask. Yeah, I will."
+29,6,Ses01M_impro07_F,neutral,You should...You should look into that.
+29,7,Ses01M_impro07_F,neutral,"That is amazing, congratulations. Good for you."
+29,8,Ses01M_impro07_M,neutral,Thank you.
+30,0,Ses01M_impro03_M,neutral,Yeah.  Make her like open the bank account and stuff too.
+30,1,Ses01M_impro03_F,neutral,Yeah.
+30,2,Ses01M_impro03_M,neutral,It's a good idea.
+30,3,Ses01M_impro03_F,neutral,"Dude, you lucked out."
+30,4,Ses01M_impro03_M,neutral,I know.  Also I get to like plan the wedding now too. That will be fun.
+30,5,Ses01M_impro03_F,neutral,"Yeah.  My colors are blush and beige what is it, do you know?"
+30,6,Ses01M_impro03_M,neutral,"Something blue, something new, something... no I don't know. [LAUGHTER] So yeah, wonder if she's going to pay me up front but do you think it's bad though, do you think they're going to like track the money or something?"
+30,7,Ses01M_impro03_F,neutral,Oh I don't know. [LAUGHTER]
+30,8,Ses01M_impro03_F,neutral,I don't know get it in cash.
+31,0,Ses05F_impro05_M,frustration,"Well, you can take my stinking fifty dollar voucher and go home and wait and see if your luggage turns up. And if it does, then we'll deliver it to you."
+31,1,Ses05F_impro05_F,frustration,And you have no guarantee.
+31,2,Ses05F_impro05_M,frustration,"I have no guarantee, absolutely not."
+31,3,Ses05F_impro05_F,frustration,This is ridiculous.
+31,4,Ses05F_impro05_M,frustration,How can I guarantee finding your luggage when it's lost?
+31,5,Ses05F_impro05_F,frustration,"Uh- Because you guys lost it, so it should be your responsibility to find it, too."
+31,6,Ses05F_impro05_M,frustration,"Right, well, when you're at home and you lose something, do you guarantee that you're going to find it later on?"
+31,7,Ses05F_impro05_F,frustration,"Oh, come on.  Would you cut it out?  This is ridiculous."
+31,8,Ses05F_impro05_M,frustration,"Well, it sounds to me like you're being ridiculous"
+31,9,Ses05F_impro05_F,anger,"No, I don't think I am.  I like have a whole bunch of stuff that means a lot to me, and I brought it you know from Africa.  It's not like I can just go back and get it whenever I want."
+32,0,Ses05F_script01_1_M,sadness,Being dishonest with him.  It's the kind of thing that pays off and now it's paying off.
+32,1,Ses05F_script01_1_F,neutral,"What do you mean, dishonest?"
+32,2,Ses05F_script01_1_M,sadness,"You know that Larry's not coming back, and I know it.  So why do we go on letting him think that we believe with him?"
+32,3,Ses05F_script01_1_F,neutral,"What are you going to do, argue with him?"
+32,4,Ses05F_script01_1_M,frustration,"No um, I don't want to argue with him, but it's time we realized that nobody else believes that Larry is alive."
+32,5,Ses05F_script01_1_M,frustration,"Why shouldn't he dream about him, walk around during the night, looking for him um.  Do we contradict him?  Do we say outright that we don't have any hope anymore, that we haven't had any for years now?"
+32,6,Ses05F_script01_1_F,neutral,You can't just say that to him.
+32,7,Ses05F_script01_1_M,frustration,We have to say it to him!
+32,8,Ses05F_script01_1_F,neutral,"How are you going to prove it, I mean, there's no body and there's no grave.  So what are you going to do? Do you have proof?"
+33,0,Ses02M_script03_2_F,neutral,Why?
+33,1,Ses02M_script03_2_M,neutral,Because it's late and it'll annoy the people upstairs.
+33,2,Ses02M_script03_2_F,neutral,There aren't any people upstairs it's a photographer's studio.
+33,3,Ses02M_script03_2_M,neutral,There are people downstairs I suppose?
+33,4,Ses02M_script03_2_F,neutral,They're away in Tunis.
+33,5,Ses02M_script03_2_M,neutral,This is no time of the year for Tunis.
+33,6,Ses02M_script03_2_F,neutral,"Turn it on again, please."
+33,7,Ses02M_script03_2_M,frustration,I'll do no such thing.
+33,8,Ses02M_script03_2_F,frustration,"Very well, if you insist on being boorish and idiotic."
+34,0,Ses03F_script01_1_F,neutral,What's he going to say? Maybe we ought to talk to him before he sees it.
+34,1,Ses03F_script01_1_M,neutral,He saw it.
+34,2,Ses03F_script01_1_F,neutral,"What-how did he see it? I mean, I was the first one up. He was still in bed."
+34,3,Ses03F_script01_1_M,neutral,He was out there when it happened.
+34,4,Ses03F_script01_1_F,neutral,When?
+34,5,Ses03F_script01_1_M,neutral,"Um, about four this morning. Uh- I heard a crack and I looked out and I saw him standing there."
+34,6,Ses03F_script01_1_F,neutral,What was he doing out at four in the morning?
+34,7,Ses03F_script01_1_M,neutral,I don't know. But after it cracked he went back in the house and he cried in the kitchen.
+34,8,Ses03F_script01_1_F,neutral,Did you talk to him?
+34,9,Ses03F_script01_1_M,neutral,"No, I uh-, I figured the best thing to do was to leave him alone."
+34,10,Ses03F_script01_1_F,neutral,"He cried hard, huh?"
+35,0,Ses04M_impro05_M,frustration,"Yeah, hi.  Look--Um, okay.  Here's the thing."
+35,1,Ses04M_impro05_F,neutral,"Hi, how can I help you?"
+35,2,Ses04M_impro05_M,neutral,Just arrived from London--
+35,3,Ses04M_impro05_F,neutral,Mmhmm.
+35,4,Ses04M_impro05_M,frustration,lost my luggage. Your airline--
+35,5,Ses04M_impro05_F,neutral,I'm sorry.
+35,6,Ses04M_impro05_F,neutral,Right.
+35,7,Ses04M_impro05_M,frustration,"lost my luggage. I didn't lose it. No, it's not like I left it somewhere and somebody took it."
+35,8,Ses04M_impro05_F,neutral,"Oh, oh, you didn't."
+36,0,Ses01F_impro04_M,neutral,You've been looking for a job for a long time; that was a long time ago.  Right?
+36,1,Ses01F_impro04_F,neutral,Yeah.
+36,2,Ses01F_impro04_M,neutral,Hmm.
+36,3,Ses01F_impro04_F,neutral,What did he do?  What was so great?  I don't understand why they would pick him over me.
+36,4,Ses01F_impro04_M,neutral,I don't know.  He had a really good resume I guess and--
+36,5,Ses01F_impro04_F,neutral,A resume?
+36,6,Ses01F_impro04_M,neutral,Yeah.  Do you have a resume?
+36,7,Ses01F_impro04_F,neutral,No.
+36,8,Ses01F_impro04_M,neutral,It's kind of helpful when getting a job.
+37,0,Ses04M_script02_2_M,neutral,"No, I'm just like you.  I thought it was going to be all peaches and roses and wind in our hair and sand in our toes and the fish will always come and the bills will always pay themselves."
+37,1,Ses04M_script02_2_M,anger,"And we'll have three fat rosy kids and ha, ha, ha, baby, the joke's on us, 'cause you know what you get, Carla?  You know what you get?  This."
+37,2,Ses04M_script02_2_F,anger,This what?  What is this?  This isn't even anything.
+37,3,Ses04M_script02_2_M,frustration,"Yes, it is."
+37,4,Ses04M_script02_2_F,anger,"Oh, right, sure.  This is standing on the beach.   This is waiting.  This is fighting."
+37,5,Ses04M_script02_2_M,frustration,Right.
+37,6,Ses04M_script02_2_F,anger,But this isn't anything like I thought anything would be like.
+37,7,Ses04M_script02_2_M,anger,"No, I know, me neither."
+38,0,Ses01F_script02_1_M,neutral,"And last year, I remember distinctly you said, you were so excited to get here that you don't remember you stubbed your toe until we were in the car."
+38,1,Ses01F_script02_1_F,neutral,"Last time, you'll also remember, we got our shoes wet, I got sand in my panties, you got a sore throat and we got into a big fight and we did not see the grunions."
+38,2,Ses01F_script02_1_M,neutral,Ahh...we weren't in a good spot.
+38,3,Ses01F_script02_1_F,frustration,Hmm.  We didn't see them the year before either.
+38,4,Ses01F_script02_1_M,neutral,"We just weren't in a good spot.  I'm telling you, this is a much better spot.  I have instincts for these things."
+38,5,Ses01F_script02_1_M,neutral,"Look there, see?  What's that?  No, that's - that's just seaweed."
+38,6,Ses01F_script02_1_M,happiness,"God, this is great.  Think about this.  I know you are not interested, but just think about this."
+38,7,Ses01F_script02_1_M,neutral,"Right now out there, there is this mass of silver fish and it's heading this way.  No one sent them an invitation, no one told them, no one even gave them a map."
+38,8,Ses01F_script02_1_M,neutral,"Just all at once, they turned and they formed this line as long as the California coast.  And some instinctual little firecracker went off in their bodies and they all just turned as one and started swimming."
+39,0,Ses02M_impro02_F,sadness,I don't want you to go.
+39,1,Ses02M_impro02_M,sadness,"I know, I know. I don't want to go either baby. I love you know. And I'm going to miss you a lot."
+39,2,Ses02M_impro02_F,sadness,"I'm going to miss you too; I don't know what I'm going to do here without you. It's going to be so lonely, and so hard."
+39,3,Ses02M_impro02_F,sadness,I don't want to be a single mom.
+39,4,Ses02M_impro02_M,sadness,"You won't be. I'll be back; I'll be back before you know it. All right, and"
+39,5,Ses02M_impro02_F,sadness,but
+39,6,Ses02M_impro02_M,sadness,and
+39,7,Ses02M_impro02_F,sadness,It's dangerous; I mean how can you make sure that you'll
+39,8,Ses02M_impro02_M,frustration,"It's- It's dangerous anywhere, honey. I mean this is -this- I'm just going to go and we'll get it over with,"
+40,0,Ses03M_impro03_F,happiness,Sure?  Who says sure?  You say yes...I don't like--
+40,1,Ses03M_impro03_M,neutral,"Yeah, she goes--"
+40,2,Ses03M_impro03_M,neutral,Cause she was a little confused at first but then she said yes.
+40,3,Ses03M_impro03_F,happiness,How long have you guys been going out?
+40,4,Ses03M_impro03_M,neutral,About two and a half weeks.
+40,5,Ses03M_impro03_F,neutral,What?
+40,6,Ses03M_impro03_M,happiness,Two and ...  We love each other. Yeah.
+40,7,Ses03M_impro03_F,neutral,What?
+41,0,Ses05F_script01_2_F,neutral,Why did you invite her here?
+41,1,Ses05F_script01_2_M,neutral,Why does that bother you?
+41,2,Ses05F_script01_2_F,neutral,She's been in New York three and a half years.  Why all of the sudden?
+41,3,Ses05F_script01_2_M,neutral,Well maybe.  Maybe she just wanted to see her again.
+41,4,Ses05F_script01_2_F,neutral,Nobody comes seven hundred miles just to see.
+41,5,Ses05F_script01_2_M,neutral,"What did you mean? He lived next door to the girl all of his life, why wouldn't he want to see her again? Don't look at me like that, he didn't tell me any more than he told you."
+41,6,Ses05F_script01_2_F,neutral,He's not going to marry her.
+41,7,Ses05F_script01_2_M,frustration,How do you know he is even thinking about it?
+41,8,Ses05F_script01_2_F,neutral,It's got that about it.
+42,0,Ses03M_impro02_M,sadness,They want to deploy me next week.
+42,1,Ses03M_impro02_F,neutral,Next week?
+42,2,Ses03M_impro02_F,neutral,Overseas?
+42,3,Ses03M_impro02_M,sadness,For--
+42,4,Ses03M_impro02_F,neutral,For how long this time?
+42,5,Ses03M_impro02_M,sadness,They said anywhere from two to three years.
+42,6,Ses03M_impro02_F,neutral,What?  What do you mean two to three years?  Don't they know that you have a wife and an expectant child?
+42,7,Ses03M_impro02_M,neutral,I told them that but they--
+42,8,Ses03M_impro02_F,frustration,Honey--
+43,0,Ses05F_impro06_M,neutral,No problem.
+43,1,Ses05F_impro06_F,sadness,"It's really bizarre, you know, when you know somebody really well, and then..."
+43,2,Ses05F_impro06_F,sadness,something happens and they die and it's like-
+43,3,Ses05F_impro06_F,sadness,"really hard to imagine that like you're going to continue to live, and that person's just going to have stopped."
+43,4,Ses05F_impro06_M,sadness,"Right, it just doesn't make any sense, it's not real.  It doesn't feel real."
+43,5,Ses05F_impro06_M,neutral,yeah.
+43,6,Ses05F_impro06_F,sadness,[BREATHING]
+43,7,Ses05F_impro06_M,neutral,"Do you know what, it's going to pass,eventually, I mean it'll never pass, it'll always be there, and you'll always remember and everything like that, but you know.  It'll get easier I guess."
+44,0,Ses04M_script02_1_M,neutral,Whose is it?
+44,1,Ses04M_script02_1_F,anger,"It's ours.  It's mine, too."
+44,2,Ses04M_script02_1_M,frustration,"Well, sure."
+44,3,Ses04M_script02_1_F,anger,You kept saying my flashlight as if it's somehow just yours.  How is that supposed to make me feel?
+44,4,Ses04M_script02_1_M,neutral,"No, of course, our flashlight; yours and mine.  Me flashlight es su flashlight, naturally.  How could we not think to bring it?  I hope the moon stays out."
+44,5,Ses04M_script02_1_M,neutral,"I wonder, do they always run during a full moon? I can't remember if it was full last year.  Remember?"
+44,6,Ses04M_script02_1_F,anger,Yes.
+44,7,Ses04M_script02_1_M,neutral,"Are you cold?  Do you want my jacket?  We should have brought the blanket, our blanket."
+45,0,Ses01M_impro03_M,neutral,Just cash hardcore.
+45,1,Ses01M_impro03_F,neutral,Yeah.
+45,2,Ses01M_impro03_M,neutral,What should we do?  Where should we get married? We should have party.
+45,3,Ses01M_impro03_F,neutral,How exciting. You should have a wedding on the beach.
+45,4,Ses01M_impro03_M,neutral,"Yeah, like a big like- A wedding on the beach, that would be nice."
+45,5,Ses01M_impro03_F,neutral,"Yeah, at night."
+45,6,Ses01M_impro03_M,neutral,And then we can honeymoon.  I want to go tropical though like Bahamas- --or like Tahiti or something. I just want to like beach and like drink.
+45,7,Ses01M_impro03_F,neutral,"Oh yeah, absolutely, absolutely."
+45,8,Ses01M_impro03_F,neutral,How exciting.  You should make her bring all your friends too.
+46,0,Ses01F_script03_1_M,neutral,Good God.
+46,1,Ses01F_script03_1_F,neutral,Is it them?
+46,2,Ses01F_script03_1_M,neutral,I wonder.
+46,3,Ses01F_script03_1_F,neutral,Freda is the only one who knows we are here.  She wouldn't ring up.
+46,4,Ses01F_script03_1_M,neutral,It must be them then.
+46,5,Ses01F_script03_1_F,neutral,It had to happen sooner or later.  What are we going to do?
+46,6,Ses01F_script03_1_M,neutral,[BREATHING]
+46,7,Ses01F_script03_1_M,neutral,"We are okay, aren't we darling?"
+46,8,Ses01F_script03_1_F,neutral,"Now and always, sweet."
+47,0,Ses04F_impro07_M,neutral,Okay.  Putt-putt golfing?
+47,1,Ses04F_impro07_F,neutral,"Eh, we can work that part out."
+47,2,Ses04F_impro07_M,neutral,"Yeah, you want to go.  No, you want to go. You want to go."
+47,3,Ses04F_impro07_F,neutral,Alright.
+47,4,Ses04F_impro07_M,neutral,I can see it in your eyes.  You want to go.
+47,5,Ses04F_impro07_F,neutral,I think that'd be really fun actually.
+47,6,Ses04F_impro07_M,neutral,Yeah.  So we'll do that and then- and then- and then tomorrow we'll have your
+47,7,Ses04F_impro07_F,neutral,party.
+47,8,Ses04F_impro07_M,neutral,your I got into U.S.C. graduate party. Yeah.
+47,9,Ses04F_impro07_F,neutral,Well look at that.  What a great day.  I got into college and I got asked out on a date.
+47,10,Ses04F_impro07_M,neutral,Good. Alright we're so happy.
+47,11,Ses04F_impro07_F,neutral,Yay for me.
+47,12,Ses04F_impro07_M,neutral,"That's right.  Um, so U.S.C. is a really nice school."
+47,13,Ses04F_impro07_F,neutral,I know.
+47,14,Ses04F_impro07_M,neutral,Are you going to take out loans or-
+47,15,Ses04F_impro07_F,neutral,Okay well that's not a happy part.  We don't want to talk about that.
+47,16,Ses04F_impro07_M,neutral,"Well hey, it's okay, fine, gees."
+48,0,Ses04F_script02_2_M,neutral,Yes it is.
+48,1,Ses04F_script02_2_F,anger,"Oh, right, sure this is standing on the beach.  This is waiting.  This is fighting."
+48,2,Ses04F_script02_2_M,neutral,Right.
+48,3,Ses04F_script02_2_F,neutral,But this isn't anything like I thought anything would be like.
+48,4,Ses04F_script02_2_M,neutral,"No, I know me either."
+48,5,Ses04F_script02_2_F,neutral,"This is just this.  I mean it includes a lot in everything but it's just not, you know, something else.  Do you have any idea what I'm trying to say?"
+48,6,Ses04F_script02_2_M,frustration,I'm doing the best I can.
+48,7,Ses04F_script02_2_F,sadness,"I know you are, Augie.  Really I do.  I know you wanted this to be special and nice and it's the full moon and the sand and all but I just couldn't help thinking about being somewhere else."
+48,8,Ses04F_script02_2_M,sadness,Maybe if you were with somebody else too.
+48,9,Ses04F_script02_2_F,frustration,I didn't say that.
+49,0,Ses02F_impro05_F,neutral,"Hi, um, excuse me, I believe that the airline lost my baggage."
+49,1,Ses02F_impro05_M,neutral,"Um, okay, it didn't--didn't come out on the carrousel--"
+49,2,Ses02F_impro05_F,neutral,"No, it didn't. um It didn't come out and I don't see it anywhere around here, so what can you do about that?"
+49,3,Ses02F_impro05_M,neutral,"Okay.  Um, well, unfortunately yeah there was a some- some problems with the--"
+49,4,Ses02F_impro05_F,neutral,Some problems?  What is that supposed to mean?
+49,5,Ses02F_impro05_M,neutral,"Uh, well some-some of the bags were--were lost on the way over here. uh-"
+49,6,Ses02F_impro05_F,neutral,How do you lose a suitcase?  A huge suitcase?
+49,7,Ses02F_impro05_M,neutral,"You know, I mean, there's a lot of things that go on under the plane and sometimes, you know, that kind of things happen."
+49,8,Ses02F_impro05_M,neutral,"Uh, But, we are willing to reimburse you for the bag and and for the contents--"
+50,0,Ses02F_script03_2_M,neutral,"As a matter of fact, the real cause of that row was Peter Burden."
+50,1,Ses02F_script03_2_F,neutral,"Honey, you knew there was nothing in that."
+50,2,Ses02F_script03_2_M,neutral,I knew nothing of the sort.  You took presents from him.
+50,3,Ses02F_script03_2_F,neutral,Presents?  Just a trivial little broach.
+50,4,Ses02F_script03_2_M,neutral,"Ah, yes, I remember it well.  Bristling with diamonds in the worst possible taste."
+50,5,Ses02F_script03_2_F,neutral,"No, it wasn't.  It was very pretty.  I still have it and I wear it often."
+50,6,Ses02F_script03_2_M,neutral,You went out of your way to torture me over Peter Burden.
+50,7,Ses02F_script03_2_F,neutral,"No, I didn't.  You worked the whole thing up in your jealous imagination."
+50,8,Ses02F_script03_2_M,neutral,"You must admit, he was in love with you, wasn't he?"
+50,9,Ses02F_script03_2_F,neutral,"Just a little perhaps, nothing serious."
+51,0,Ses05F_impro06_M,neutral,What's wrong Melissa?
+51,1,Ses05F_impro06_F,sadness,A good friend of mine passed away the other day.
+51,2,Ses05F_impro06_M,sadness,"Oh no, I'm so sorry. What happened?"
+51,3,Ses05F_impro06_F,sadness,"Oh they had some pretty progressive cancer,"
+51,4,Ses05F_impro06_F,sadness,"metastasized and it was old and they knew that it wasn't looking good, but-"
+51,5,Ses05F_impro06_M,sadness,That's the worst.  I'm so sorry.  Did you know him well?
+51,6,Ses05F_impro06_F,sadness,Yeah.  We were.  Pretty close.
+51,7,Ses05F_impro06_F,sadness,[BREATHING]
+52,0,Ses03F_impro04_M,neutral,"You are, you're going to class, you're learning, you're getting better. When you finally get that role you're going to be prepared."
+52,1,Ses03F_impro04_F,frustration,"Yeah, but what if I never make it? What if I studied all my life, this theatre, this acting, and I'm never going to get anywhere. I'm never going to be able to have a job."
+52,2,Ses03F_impro04_M,neutral,"Oh my God, Anna, you're still young. Don't even think about that."
+52,3,Ses03F_impro04_F,frustration,Time is passing by. Every year it's
+52,4,Ses03F_impro04_F,frustration,a part left than I can do.
+52,5,Ses03F_impro04_M,neutral,"You're only twenty five, okay? Some people don't start until they're thirty five."
+52,6,Ses03F_impro04_F,neutral,Really?
+52,7,Ses03F_impro04_M,neutral,Yeah.
+53,0,Ses02M_impro07_F,happiness,"Okay. They have a lot of good schools, right?"
+53,1,Ses02M_impro07_M,happiness,"yeah, I mean a lot-a lot  of good stuff oh, yeah, I mean it's- it's just a really good school; so really, whatever I pick I can't go wrong. I mean I'm just"
+53,2,Ses02M_impro07_M,happiness,"I'm looking forward to getting there. I mean, God, the campus is cool, you know it's like all just very confined I mean just you know it's a college campus you know it's like"
+53,3,Ses02M_impro07_F,happiness,"Yes, it's intimate."
+53,4,Ses02M_impro07_M,neutral,"It's college- oh my God it's college, [GARBAGE] so it's like crazy."
+53,5,Ses02M_impro07_F,neutral,I know. It's so cool.
+53,6,Ses02M_impro07_M,neutral,"Oh man. So, I don't know you know, we'll see - we'll see how it goes and, yeah, I'm looking forward to it"
+53,7,Ses02M_impro07_F,neutral,"Fair for you, Wow, oh my Gosh."
+53,8,Ses02M_impro07_M,neutral,I mean you got to - you got to show me the ropes 'cause I've never been there before so I mean you know your way around already and- [LAUGHTER]
+54,0,Ses01F_script03_2_F,neutral,"Adders don't snap, they sting."
+54,1,Ses01F_script03_2_M,anger,Nonsense.  They have a bag of venom behind their fangs and they snap. They snap.
+54,2,Ses01F_script03_2_F,anger,They sting. I don't care.  Do you understand?  I don't care if they bark and they roll about like hoops.
+54,3,Ses01F_script03_2_M,anger,Did you see much of Peter Burden after our divorce?
+54,4,Ses01F_script03_2_F,anger,"Yes I did, quite a lot."
+54,5,Ses01F_script03_2_M,anger,"And I suppose you let him kiss you a good deal more than, too. Yes.  I suppose you guys had a riotous time, huh?  All out, no restraint at all.  Well, you never really had much anyhow."
+54,6,Ses01F_script03_2_F,anger,Mind your own business.
+54,7,Ses01F_script03_2_F,anger,"You're quite insufferable, I expect it's because you are drunk."
+55,0,Ses02F_impro01_M,neutral,The line--
+55,1,Ses02F_impro01_F,frustration,"I really need this done today.  As you can see, the deadline is almost up and I can't come back."
+55,2,Ses02F_impro01_M,anger,"Ok, but you're right now you're holding up more people in line by standing here-- and letting"
+55,3,Ses02F_impro01_F,anger,"Well, why didn't the D.M.V. put that you needed your birth certificate on the application then?"
+55,4,Ses02F_impro01_M,frustration,"I--when you're going to the D.M.V., you usually need pretty professional identification--"
+55,5,Ses02F_impro01_M,anger,"You know, Official documentation--"
+55,6,Ses02F_impro01_F,anger,"Yeah, but your birth certificate--I mean, who carries around their birth certificate?  Nobody does that."
+55,7,Ses02F_impro01_M,frustration,"No, but you come--you come to the D.M.V., it's something-- You should've- You should've figured--"
+56,0,Ses02F_script02_2_M,neutral,"It was in the car, right?  Driving past the Knickerbocker Liquor Locker, you said, ""let's get some champagne,"" and I said, ""time's a wasting"" or something like that, right?"
+56,1,Ses02F_script02_2_M,neutral,"Yeah, of course, I see it now.  You want this to be like that other time, right?  That's it, right?"
+56,2,Ses02F_script02_2_F,sadness,I'd rather not remember some things.  I would rather not hope for some things.
+56,3,Ses02F_script02_2_M,neutral,"Okay, yeah, sure, I see it now.  Listen, you wanna dance?"
+56,4,Ses02F_script02_2_F,sadness,No.
+56,5,Ses02F_script02_2_M,neutral,You want me to go get some champagne?
+56,6,Ses02F_script02_2_F,sadness,No.
+56,7,Ses02F_script02_2_M,neutral,Take off our shoes?
+56,8,Ses02F_script02_2_F,neutral,No. No.
+57,0,Ses05M_script02_2_F,sadness,I did want to see it.  I always want to see it.  I just- I keep thinking this will be the time and it never is.
+57,1,Ses05M_script02_2_M,frustration,"I'm trying to work this backwards.  But I can't seem to pinpoint the time where everything went wrong here.  Okay, so --"
+57,2,Ses05M_script02_2_M,frustration,"you were fine on the phone call with Marge, eating dinner was fine,talking- uh washing the dishes, no problem.  All right.  So, I'm taking a shower, you're watching TV, the news and you say the grunions are running tonight and I say, Great, let's go.  I'm feeling lucky.  And so, all right, and I'm putting on my coat, I'm putting out the animals, I'm pulling the car out of the garage."
+57,3,Ses05M_script02_2_F,sadness,Do you remember the first time that we came to see the grunion?  It was about four years ago right after we got married.  We thought I was pregnant.  We had a bottle of champagne and no glasses.  You asked me to dance.  We took off our shoes.  And while we were dancing you said the most intimate things to me right in my ear so I could feel them as much as hear them.
+57,4,Ses05M_script02_2_F,sadness,"And I remember thinking to myself, finally.  I am as happy as I am supposed to be."
+57,5,Ses05M_script02_2_M,neutral,Wait a minute.  I've got it.
+57,6,Ses05M_script02_2_F,sadness,"Dancing barefoot in the sand, drinking champagne out of the bottle."
+57,7,Ses05M_script02_2_M,neutral,"It was in the car, right?  When we were passing Knickerbocker Liquor Locker, you said, Let's stop and get champagne. and I said that times a wasting or something like that, right?  You wanted it to be like it was before, right?"
+58,0,Ses01M_impro05_M,anger,"Sure, yeah right you have plenty of aggressive searching going on, aggressive searching, drinking coffee and smoking cigarettes."
+58,1,Ses01M_impro05_M,anger,I know what you guys do when you're not working you're union people; you just sit around on your ass.
+58,2,Ses01M_impro05_F,frustration,You know I don't need to take this sort of abuse.
+58,3,Ses01M_impro05_M,neutral,"Well, I don't need to take this kind of abuse either.  I just was trying get back to Atlanta. I just got home, I just want to get my bag and get my stuff. And keep my job."
+58,4,Ses01M_impro05_F,neutral,That's fantastic.
+58,5,Ses01M_impro05_F,neutral,Then why don't you take your fifty dollars. Get yourself a taxi and go shopping tomorrow.
+58,6,Ses01M_impro05_M,frustration,[BREATHING]
+58,7,Ses01M_impro05_M,anger,Thank you very much.
+59,0,Ses01M_script01_3_F,neutral,The only one I know still love his parents.
+59,1,Ses01M_script01_3_M,happiness,"Yeah, that kind of went out of style didn't it?"
+59,2,Ses01M_script01_3_F,neutral,Oh it's not bad thing it's good thing.
+59,3,Ses01M_script01_3_F,neutral,"You know it's nice here, the air is sweet."
+59,4,Ses01M_script01_3_M,happiness,You're not sorry you came?
+59,5,Ses01M_script01_3_F,sadness,"Not sorry, no.  I can't stay here."
+59,6,Ses01M_script01_3_M,sadness,Why not?
+59,7,Ses01M_script01_3_F,neutral,For one thing your mother as much as told me to go.
+59,8,Ses01M_script01_3_M,neutral,Well.
+60,0,Ses02F_script01_1_F,neutral,"Well, that's only your business, Chris."
+60,1,Ses02F_script01_1_M,frustration,You know it's not only my business.
+60,2,Ses02F_script01_1_F,anger,What do you want me to do?  You're old enough to know your own mind.
+60,3,Ses02F_script01_1_M,frustration,So it's all right then?
+60,4,Ses02F_script01_1_M,frustration,I'll go ahead with it?
+60,5,Ses02F_script01_1_F,neutral,"Well, you want to make sure that your father isn't going to--"
+60,6,Ses02F_script01_1_M,anger,"Well, then it isn't just my business--"
+60,7,Ses02F_script01_1_F,neutral,I'm just saying that--
+60,8,Ses02F_script01_1_M,neutral,"Ah, sometimes you infuriate me.  You know that?  I mean, isn't it your business too if I tell Dad and flips--freaks out about it?  I mean, you have such a talent for ignoring things."
+61,0,Ses01M_impro06_M,sadness,It's just really weird because he was really young you know and it kind of like...
+61,1,Ses01M_impro06_F,neutral,Yeah.
+61,2,Ses01M_impro06_M,sadness,--it just kind of freaks you out.
+61,3,Ses01M_impro06_F,neutral,"Totally, yeah."
+61,4,Ses01M_impro06_M,sadness,So weird you know that like one days it's like you know sounds so stupid but like one day someone's here. And like next day you know they're not here and it just kind of makes you like think about like life and mortality and like that kind of stuff.  You just like used to take for granted--you know.
+61,5,Ses01M_impro06_F,neutral,Mmhmm.
+61,6,Ses01M_impro06_F,neutral,Lock
+61,7,Ses01M_impro06_F,neutral,Mmhmm.
+61,8,Ses01M_impro06_F,neutral,The plans you make [GARBAGE].
+62,0,Ses05M_impro07_F,neutral,Oh good.
+62,1,Ses05M_impro07_F,neutral,Oh totally.
+62,2,Ses05M_impro07_M,neutral,Because you're doing something you love.  That's the kind of busy you want.  I want to be able to do that for the rest of my life.  Be that kind of busy.
+62,3,Ses05M_impro07_F,neutral,All right.  Wow.  So exciting.
+62,4,Ses05M_impro07_M,neutral,I had to tell you right away.  I knew you'd be excited.
+62,5,Ses05M_impro07_M,happiness,We'll have fun.
+62,6,Ses05M_impro07_F,happiness,Yeah.  We'll have so much fun.
+62,7,Ses05M_impro07_M,neutral,Great.  Okay.
+62,8,Ses05M_impro07_F,neutral,cool
+63,0,Ses04M_impro06_F,sadness,"Hey, how you doing?"
+63,1,Ses04M_impro06_F,sadness,I'm sorry.
+63,2,Ses04M_impro06_M,sadness,Thanks.
+63,3,Ses04M_impro06_F,sadness,"I know- I know there's nothing I can say that will really help, but--"
+63,4,Ses04M_impro06_M,sadness,"I know.  I just -- I don't know.  It's just weird because you have somebody who's, you know,"
+63,5,Ses04M_impro06_M,sadness,a major part of your life and then they're gone.  And I don't know.  That's not really -- it's never really happened to me before.
+63,6,Ses04M_impro06_F,sadness,I'm sorry.  It's never easy.
+63,7,Ses04M_impro06_M,sadness,Yeah.
+63,8,Ses04M_impro06_F,sadness,"But, I'm here if there's anything you need.  I mean, you just have to ask.  I know --"
+64,0,Ses01F_script01_1_M,frustration,I don't want to argue but it's time he realized that nobody believes Larry is alive.
+64,1,Ses01F_script01_1_M,frustration,"You know?  Why shouldn't he walk the nights thinking of him, dreaming of him?   Do we contradict him?  Do we say, we don't have any hope anymore?  That we haven't had any hope for years now?"
+64,2,Ses01F_script01_1_F,frustration,You can't say that to him.
+64,3,Ses01F_script01_1_M,neutral,We've got to say it to him.
+64,4,Ses01F_script01_1_F,frustration,Where's the proof?  Do you have any proof?
+64,5,Ses01F_script01_1_M,frustration,"For God's sake, three years?  Nobody comes back after three years; that's insane."
+64,6,Ses01F_script01_1_F,frustration,"To you it is, to me it is, but to your father, you can talk yourself until you are blue in the face.  But there is no grave and there is no body, so where are you?"
+64,7,Ses01F_script01_1_M,neutral,"Sit down, Mom.  I want to talk to you."
+64,8,Ses01F_script01_1_F,neutral,"It's that the trouble is those God damn newspapers.  Every month some new boy comes back and so the next one is going to be Larry, they just--"
+65,0,Ses03M_script01_3_M,neutral,Why didn't you let me know?
+65,1,Ses03M_script01_3_F,happiness,"I was waiting for you Chris, I mean, till then you never wrote and then when you did what did you say?"
+65,2,Ses03M_script01_3_F,happiness,You'd always be so ambiguous.
+65,3,Ses03M_script01_3_M,happiness,"Give me a kiss Ann, just give me..."
+65,4,Ses03M_script01_3_M,neutral,"Oh God.  Annie, I kissed Annie.  I kissed Annie."
+65,5,Ses03M_script01_3_F,happiness,I'll never forgive you for that.
+65,6,Ses03M_script01_3_M,neutral,"How long, how long I've been waiting to do that."
+65,7,Ses03M_script01_3_F,happiness,"I mean,  Why did you wait all these years?  There I was sitting around and wondering if I was crazy for thinking about you."
+66,0,Ses02F_script02_2_M,neutral,"I mean, you were-  you were fine during the phone call from Marge.  Dinner was okay.  Doing the dishes was no problem.  Let's see.  I took a shower.  You watched the news."
+66,1,Ses02F_script02_2_M,neutral,"You said, ""Hey the grunion are running tonight.""  I said, ""Great, let's go.  I feel lucky."""
+66,2,Ses02F_script02_2_M,neutral,"Okay, so I'm putting on my jacket, putting out the animals, getting the car out of the garage--"
+66,3,Ses02F_script02_2_F,sadness,"Do you remember the first time we came to see it?  It was about four years ago, right after we got married."
+66,4,Ses02F_script02_2_F,sadness,"I thought I was pregnant, you had a bottle of champagne, but no glasses.  You asked me to dance, so we kicked off our shoes and you popped the cork."
+66,5,Ses02F_script02_2_F,sadness,"And while we were dancing, you said the softest, most intimate things to me right into my ear so that I could feel them as much as hear them."
+66,6,Ses02F_script02_2_F,sadness,"And I remember thinking, this is it.  You know, at last--at last I am as happy as I am supposed to be."
+66,7,Ses02F_script02_2_M,neutral,Wait a minute.  I've got it.
+66,8,Ses02F_script02_2_F,sadness,"Just dancing barefoot in the sand, drinking champagne out of the bottle."
+67,0,Ses01M_impro06_M,sadness,"And I've kind of been dealing with all of the...the stuff, you know the hospital and people work because..."
+67,1,Ses01M_impro06_F,sadness,I'm sorry to hear that.
+67,2,Ses01M_impro06_M,sadness,"He kind of didn't have anyone to take care of that for him, so--"
+67,3,Ses01M_impro06_F,sadness,You've been taking care of it all?
+67,4,Ses01M_impro06_F,sadness,Oh Jesus.
+67,5,Ses01M_impro06_M,sadness,It's just really...really messed up.
+67,6,Ses01M_impro06_F,sadness,He sick for awhile?
+67,7,Ses01M_impro06_M,sadness,No.
+67,8,Ses01M_impro06_M,sadness,Just like it.
+68,0,Ses03F_script03_2_M,neutral,Are you bored with this conversation?
+68,1,Ses03F_script03_2_F,neutral,"I definitely, most definitely am."
+68,2,Ses03F_script03_2_M,neutral,So am I. Bored stiff. Want some brandy?
+68,3,Ses03F_script03_2_F,neutral,"No, thanks."
+68,4,Ses03F_script03_2_M,neutral,"I'll have a little, I think."
+68,5,Ses03F_script03_2_F,neutral,I don't see why you want it; you've already had two glasses.
+68,6,Ses03F_script03_2_M,neutral,"No particular reason. Anyhow, they were very small ones."
+68,7,Ses03F_script03_2_F,neutral,I don't see what's the point of going on and on about something like this.
+68,8,Ses03F_script03_2_M,neutral,"Oh, my-you can hardly call three minute liquor glasses in the evening going on and on and on."
+69,0,Ses01F_impro04_M,neutral,He's like a manager for a theatre.
+69,1,Ses01F_impro04_F,neutral,Really?
+69,2,Ses01F_impro04_M,neutral,He's like a house manager. Yeah.  It's a good job.
+69,3,Ses01F_impro04_F,neutral,He just...
+69,4,Ses01F_impro04_F,neutral,you know what?  I heard about that job.  I applied for that.
+69,5,Ses01F_impro04_M,neutral,You did?
+69,6,Ses01F_impro04_F,frustration,Yeah.  I saw a posting at the theatre.
+69,7,Ses01F_impro04_M,neutral,Yeah.
+69,8,Ses01F_impro04_F,neutral,He got it?
+70,0,Ses05M_script01_1_F,neutral,What?
+70,1,Ses05M_script01_1_M,neutral,Being dishonest with him.  It's the kind of thing that pays off and now it's paying off.
+70,2,Ses05M_script01_1_F,neutral,What do you mean dishonest?
+70,3,Ses05M_script01_1_M,frustration,You know that Larry's not coming back and I know it.  So why do we go on letting him think that we believe with him?
+70,4,Ses05M_script01_1_F,frustration,"What do you want to do, argue with him?"
+70,5,Ses05M_script01_1_M,frustration,I don't want to argue with him.  But it's time he knows that nobody else thinks that Larry's alive anymore.
+70,6,Ses05M_script01_1_M,anger,"Why should he dream about him, walking around looking for him at night?  Do we contradict him?  Do we say straight out that we don't have any hope anymore, that we haven't had any hope for years now?"
+70,7,Ses05M_script01_1_F,neutral,You can't say that to him.
+71,0,Ses03M_impro02_M,frustration,So I have--you want me to choose between you guys or my career?
+71,1,Ses03M_impro02_F,sadness,yeah.
+71,2,Ses03M_impro02_M,frustration,What am I going to do?
+71,3,Ses03M_impro02_F,frustration,"Priorities honey, priorities."
+71,4,Ses03M_impro02_M,frustration,I want to--what am I going to do if I leave this job?
+71,5,Ses03M_impro02_F,frustration,You're smart.  You could go back to school--
+71,6,Ses03M_impro02_F,frustration,finish your Master's that you were started never finished.
+71,7,Ses03M_impro02_M,frustration,Fine.  I'll see if I can talk to them.
+72,0,Ses05F_script03_2_M,neutral,"So am I, bored stiff.  Would you like some brandy?"
+72,1,Ses05F_script03_2_F,neutral,No.
+72,2,Ses05F_script03_2_M,neutral,I'll have a little I think.
+72,3,Ses05F_script03_2_F,neutral,I don't see why you want any.  You've already had three glasses.
+72,4,Ses05F_script03_2_M,neutral,"No particular reason, besides, they were very small ones."
+72,5,Ses05F_script03_2_F,neutral,"Well, it seems silly to go on and on in such a thing."
+72,6,Ses05F_script03_2_M,neutral,You can hardly call three liqueur glasses of brandy in a whole evening going on and on.
+72,7,Ses05F_script03_2_F,neutral,It's becoming a habit with you.
+72,8,Ses05F_script03_2_M,anger,You needn't be so grand simply because you don't happen to want any at the moment.
+73,0,Ses02M_script01_1_M,sadness,No. I figured it was best to leave him alone.
+73,1,Ses02M_script01_1_F,neutral,He cried hard?
+73,2,Ses02M_script01_1_M,sadness,I could hear him right through the floor in my room.
+73,3,Ses02M_script01_1_F,neutral,"What was he doing out here at that hour? He's dreaming about him again, he's walking around at night."
+73,4,Ses02M_script01_1_M,neutral,I guess he is.
+73,5,Ses02M_script01_1_F,neutral,He's getting just like after he died. What is the meaning of that?
+73,6,Ses02M_script01_1_M,neutral,"I don't know the meaning of it, but I know one thing mom, we've made a terrible mistake with dad."
+73,7,Ses02M_script01_1_F,neutral,What?
+73,8,Ses02M_script01_1_M,neutral,Being dishonest with him. I mean that sort of thing always pays off and now it's paying off.
+74,0,Ses03F_impro02_F,frustration,"But you're so good with her. You know, she knows you better than she knows me 'cause I'm at work every day."
+74,1,Ses03F_impro02_M,sadness,I have to work.
+74,2,Ses03F_impro02_M,frustration,[BREATHING]
+74,3,Ses03F_impro02_F,sadness,"Babe, I love you."
+74,4,Ses03F_impro02_M,sadness,You can't leave your daughter alone like this.
+74,5,Ses03F_impro02_F,sadness,"But she has you. I mean, that's what you're there for. You're my right-hand man."
+74,6,Ses03F_impro02_F,sadness,It's going to be okay.
+74,7,Ses03F_impro02_M,sadness,You can't postpone it?
+75,0,Ses02M_impro08_M,neutral,All right. Customer service this is Steve.
+75,1,Ses02M_impro08_F,neutral,"Hi. Thank you so much, you're a real person, right, you're not like a recording?"
+75,2,Ses02M_impro08_M,neutral,"I'm a real person, yes."
+75,3,Ses02M_impro08_F,neutral,"Okay. Before I get into it, um your menu or whatever like where you choose the different thing depending on the-"
+75,4,Ses02M_impro08_F,neutral,"it leads you around in circles, you can't, there is no way to like get to a real person if you don't already know how to get to there."
+75,5,Ses02M_impro08_M,neutral,"Right. No, yes I know. It is-It is a little frustrating."
+75,6,Ses02M_impro08_F,frustration,"So is there any way to like bypass that because that is so, like I've been going around in circles"
+75,7,Ses02M_impro08_F,frustration,"like press nine, press zero, press back to the menu, like I can't get through to what I'm supposed to get through to."
+75,8,Ses02M_impro08_M,neutral,"I- I'll give you a little hint, next time if it asks if you're on a rotary phone you know, just stay on the line instead of - instead of hitting one or two to say if you're like on a touch tone"
+76,0,Ses02M_impro03_F,neutral,Did she say yes?
+76,1,Ses02M_impro03_M,neutral,"Yes, she said yes. [LAUGHTER] I know"
+76,2,Ses02M_impro03_F,neutral,That's like the most definitive.
+76,3,Ses02M_impro03_M,neutral,I know Uhm- I can't believe it.  It's like-
+76,4,Ses02M_impro03_F,neutral,"Oh, my gosh, wait so when did you decide to do this, I mean,"
+76,5,Ses02M_impro03_F,neutral,I would have thought you would have told me that you were planning on doing this.
+76,6,Ses02M_impro03_M,neutral,"Well, yes, I wanted it you know I guess sort of as a surprise for everyone so"
+76,7,Ses02M_impro03_F,neutral,"Yea, I guess so. Oh, my Gosh. Was she surprised?"
+76,8,Ses02M_impro03_M,neutral,"Yes, yes. You know, she - she was like - I mean, she was happy, you know"
+77,0,Ses04M_script01_1_M,frustration,She's not Larry's girl.
+77,1,Ses04M_script01_1_F,anger,"From father's point of view, he's not dead.  And you have no right to take his girl."
+77,2,Ses04M_script01_1_F,frustration,"Now you can go on from there if you know where to go. But I'm telling you I don't know where to go.  See, I don't know."
+77,3,Ses04M_script01_1_F,frustration,Now what can I do for you?
+77,4,Ses04M_script01_1_M,frustration,"I don't know why it is but every time I reach out for something I want, I have to pull back because other people will suffer.  My whole bloody life, time after time after time."
+77,5,Ses04M_script01_1_F,neutral,You're a considerate fellow.  There's nothing wrong in that.
+77,6,Ses04M_script01_1_M,frustration,To hell with that.
+77,7,Ses04M_script01_1_F,neutral,Did you ask Annie yet?
+77,8,Ses04M_script01_1_M,neutral,I wanted to get this settled first.
+78,0,Ses01M_impro04_M,frustration,[BREATHING]
+78,1,Ses01M_impro04_F,neutral,I'm just saying that maybe you should take in some information before you produce more of your own.
+78,2,Ses01M_impro04_M,anger,I'm like a sponge I'm like soaked up with all this information for like three years I'm just dying for a job to like put it in to.
+78,3,Ses01M_impro04_F,neutral,[BREATHING]
+78,4,Ses01M_impro04_F,frustration,That's -.
+78,5,Ses01M_impro04_M,frustration,"You know, and like I don't think it's that much to ask. I know."
+78,6,Ses01M_impro04_F,neutral,"Well, what kind of field are you looking to go into?"
+78,7,Ses01M_impro04_M,neutral,That's it.
+79,0,Ses05F_impro03_F,neutral,Just a few people.
+79,1,Ses05F_impro03_M,neutral,Really?
+79,2,Ses05F_impro03_F,neutral,Just close friends so far.
+79,3,Ses05F_impro03_M,happiness,So I was one of the first ones? That makes me feel so important.
+79,4,Ses05F_impro03_F,neutral,Yeah.
+79,5,Ses05F_impro03_F,happiness,I have to think about moving now.  We're going to move in together
+79,6,Ses05F_impro03_M,neutral,"Oh yeah, of course."
+79,7,Ses05F_impro03_F,happiness,I think it's a good idea to live together before you get married.
+79,8,Ses05F_impro03_M,neutral,"I think so, too.  Are you going to get a house or-"
+79,9,Ses05F_impro03_F,happiness,"I don't want a house, I mean just-"
+79,10,Ses05F_impro03_M,neutral,No?
+79,11,Ses05F_impro03_F,happiness,L.A. apartment is fine.
+79,12,Ses05F_impro03_M,neutral,"Oh, nice."
+80,0,Ses02F_script02_2_M,neutral,"Well, so what do you think?"
+80,1,Ses02F_script02_2_F,neutral,About what?
+80,2,Ses02F_script02_2_M,neutral,What I was saying.
+80,3,Ses02F_script02_2_F,frustration,It's ridiculous.
+80,4,Ses02F_script02_2_M,neutral,It certainly is not.  It's slightly exaggerated scientific fact.
+80,5,Ses02F_script02_2_F,neutral,It's PR.  Somebody sold you a bill of goods that this wonderful event is gonna take place on the beach.
+80,6,Ses02F_script02_2_M,neutral,"Well, I'm not the only one.  Look at all these people."
+80,7,Ses02F_script02_2_F,neutral,"Sure, everybody's told the same story.  It keeps us all excited.  It keeps us coming back for more.  It keeps us thinking that life is gonna start any second now if we could just find the right spot and get in on the action."
+80,8,Ses02F_script02_2_M,neutral,Are we talking about the same thing?
+80,9,Ses02F_script02_2_F,neutral,"Well, I'm sorry, but it's still just fish to me."
+81,0,Ses03F_impro06_M,neutral,How you doing?
+81,1,Ses03F_impro06_F,sadness,Okay.
+81,2,Ses03F_impro06_F,sadness,Yeah. Wow.
+81,3,Ses03F_impro06_M,neutral,We're all going to miss him.
+81,4,Ses03F_impro06_F,sadness,"Mmm hmm. I never knew it was going to be this hard, you know."
+81,5,Ses03F_impro06_F,sadness,It's weird 'cause it's like you expected it to happen and eventually-
+81,6,Ses03F_impro06_F,sadness,"he had cancer, you know?"
+81,7,Ses03F_impro06_M,neutral,"Mmm, Hmm."
+81,8,Ses03F_impro06_F,sadness,"They thought he got--would get better and he did, and then it just- things turned bad."
+82,0,Ses03F_impro01_F,neutral,"God, finally I got to the line, the front of the line. I've been waiting there for like half an hour."
+82,1,Ses03F_impro01_F,neutral,[BREATHING] It's so hot in here. Hoo.
+82,2,Ses03F_impro01_M,neutral,Yeah.
+82,3,Ses03F_impro01_M,neutral,"Oh, um-"
+82,4,Ses03F_impro01_F,neutral,What's wrong?
+82,5,Ses03F_impro01_M,neutral,"You didn't fill this out right. All right. It says that you have to fill out the back sheet of this, but you filled out the yellow sheet of it."
+82,6,Ses03F_impro01_F,frustration,"No, no, no, no, no, no. The lady over there, she told me to fill out the front and she said to wait in this line."
+82,7,Ses03F_impro01_M,neutral,Who?
+83,0,Ses01F_impro04_M,neutral,Yes.  One less car at a time.
+83,1,Ses01F_impro04_F,frustration,Interesting.  That's fantastic.
+83,2,Ses01F_impro04_M,neutral,Mmhmm.
+83,3,Ses01F_impro04_M,frustration,"You know, you don't have to take out your frustration on me, you know, just because..."
+83,4,Ses01F_impro04_F,anger,I'm not frustrated.
+83,5,Ses01F_impro04_M,frustration,...you can't get a job and refuse to have a resume.
+83,6,Ses01F_impro04_F,anger,Who do you think you are?
+83,7,Ses01F_impro04_M,neutral,I don't think I'm anyone.
+83,8,Ses01F_impro04_F,anger,You are so high and mighty.  I just--
+84,0,Ses04F_script03_2_M,neutral,"As a matter of fact, the real cause of that row was Peter Burden."
+84,1,Ses04F_script03_2_F,neutral,"There was nothing in that, you know that."
+84,2,Ses04F_script03_2_M,anger,I knew nothing of the sort.  You took presents from him.
+84,3,Ses04F_script03_2_F,neutral,Presents a trivial little broach.
+84,4,Ses04F_script03_2_M,neutral,I remember it well bristling with diamonds in the worst possible taste.
+84,5,Ses04F_script03_2_F,neutral,Not at all.  It was very pretty.  I still have it and I wear it often.
+84,6,Ses04F_script03_2_M,anger,You went out of your way to torture me over Peter Burden.
+84,7,Ses04F_script03_2_F,neutral,I did not.  You made the whole thing up in your jealous imagination.
+84,8,Ses04F_script03_2_M,neutral,"You must admit that he was in love with you, wasn't he?"
+84,9,Ses04F_script03_2_F,neutral,"Just a little perhaps, nothing serious."
+85,0,Ses01M_script03_2_M,neutral,That reply has broken my heart.
+85,1,Ses01M_script03_2_F,anger,Well it's a woman's duty to allure the man. Watch me a minute will you?
+85,2,Ses01M_script03_2_M,neutral,As matter the fact that's perfectly true.
+85,3,Ses01M_script03_2_F,neutral,"Oh no, it isn't."
+85,4,Ses01M_script03_2_M,neutral,"Yes, it is."
+85,5,Ses01M_script03_2_F,neutral,"Don't be stupid, shut up."
+85,6,Ses01M_script03_2_M,anger,"You know, it's a pity you didn't have any more brandy. It would have made you just a little less disagreeable."
+85,7,Ses01M_script03_2_F,neutral,"Oh, well that's funny.  It doesn't seem to have worked such wonders with you."
+85,8,Ses01M_script03_2_M,anger,"You know what?  You snap, you snap, you snap you're like a little adder."
+86,0,Ses04F_impro02_M,frustration,You don't know that.
+86,1,Ses04F_impro02_F,neutral,I need you to believe that too.  How am I supposed to believe everything's going to be okay if you don't?
+86,2,Ses04F_impro02_M,frustration,"I'll believe it, but- I'll believe it but it- I don't know that that's going to happen."
+86,3,Ses04F_impro02_F,sadness,Well you have to have faith because I don't have a choice and I have to go.
+86,4,Ses04F_impro02_M,neutral,You do have a choice.  You don't have to go.
+86,5,Ses04F_impro02_F,sadness,Do you think I want to leave you?
+86,6,Ses04F_impro02_M,frustration,You have a choice.
+86,7,Ses04F_impro02_F,sadness,I have to do this.  I don't want to leave.  Do you think I want to miss seeing her grow up?
+86,8,Ses04F_impro02_M,frustration,I know.  It's just you don't have to do this for a living you know.
+87,0,Ses05F_impro08_F,neutral,No problem.
+87,1,Ses05F_impro08_M,happiness,"thank you, what's the number?"
+87,2,Ses05F_impro08_F,neutral,ahh one eight hundred three two three
+87,3,Ses05F_impro08_M,neutral,three two three
+87,4,Ses05F_impro08_F,neutral,six four nine four
+87,5,Ses05F_impro08_M,happiness,"six four nine four. That would be so great, thank you so much."
+87,6,Ses05F_impro08_F,neutral,"Yep, So--"
+87,7,Ses05F_impro08_F,neutral,You're welcome
+88,0,Ses03F_impro05_F,neutral,"Well I'm sorry, if I--no, it's not stupid. You are supposed to have my luggage."
+88,1,Ses03F_impro05_M,frustration,Did you lock- Did you lock it even? You probably didn't even lock it.
+88,2,Ses03F_impro05_F,anger,"No, they said I couldn't lock it."
+88,3,Ses03F_impro05_M,neutral,"[LAUGHTER], That's what they say."
+88,4,Ses03F_impro05_F,anger,Give me--I'm going to talk to your supervisor. Give me your supervisor. I want to talk to your supervisor right now.
+88,5,Ses03F_impro05_M,neutral,"Okay, let me get him.Oh, guess who the supervisor is? It's me."
+88,6,Ses03F_impro05_M,neutral,"What, do you have questions?"
+88,7,Ses03F_impro05_F,anger,"Well, get- I want the C.E.O. then."
+89,0,Ses03M_script01_3_M,sadness,And to show that and to bring that onto the earth again like some sort of monument standing right behind all of us and we could feel it and it would make a difference to him.
+89,1,Ses03M_script01_3_M,sadness,And then I came here and it was incredible.  There was no meaning in it here.  The whole thing to them was a kind of bus accident.
+89,2,Ses03M_script01_3_M,sadness,"And I went to work with dad and that rat race again and I felt what you said, ashamed.  Somehow because nobody was changed at all."
+89,3,Ses03M_script01_3_M,sadness,"It seemed to make a sucker out of a lot of guys.  I felt wrong to be alive.  I felt wrong to have that new checkbook,"
+89,4,Ses03M_script01_3_M,sadness,"open that new bank account, drive the new car and see the new refrigerator"
+89,5,Ses03M_script01_3_M,sadness,"cause you can take those things out of the war.  But you got to know, when you drive that car that it came out of the love that a man can have for a man and you got to be a little bit better because of that."
+89,6,Ses03M_script01_3_M,sadness,Otherwise what you have is loot and there's blood on it.
+89,7,Ses03M_script01_3_M,sadness,And I didn't want to take any of it and I guess that included you.
+90,0,Ses04F_script01_2_F,anger,Then why is she still single?  New York is full of men.  Why hasn't she married?
+90,1,Ses04F_script01_2_F,anger,Probably a hundred people told her she's foolish but she's waited.
+90,2,Ses04F_script01_2_M,frustration,How do you know why she waited?
+90,3,Ses04F_script01_2_F,anger,Because she knows what I know that's why.  She's faithful as a rock.
+90,4,Ses04F_script01_2_F,frustration,"In my worst moments, I think of her waiting and I know again that I'm right."
+90,5,Ses04F_script01_2_M,frustration,Look it's a nice day.  What are we arguing for?
+90,6,Ses04F_script01_2_F,frustration,"Nobody in this house dares take her faith away, Joe.  Strangers might but not his father, not his brother."
+90,7,Ses04F_script01_2_M,frustration,What do you want me to do?
+91,0,Ses02F_script01_3_M,sadness,"I mean, you can take those things out of a war, but when you drive that car, you've gotta know that it came out of the love a man can have for a man.  You've gotta be a little better because of it."
+91,1,Ses02F_script01_3_M,sadness,Because otherwise all you have is really loot and there's blood on it.  And I didn't want to take any of it.  And I guess that included you.
+91,2,Ses02F_script01_3_F,sadness,You still feel that way?
+91,3,Ses02F_script01_3_M,neutral,I want you now Annie.
+91,4,Ses02F_script01_3_F,neutral,"'Cause you mustn't feel that way.  Because you have a right to everything that you have.  Do you understand that?  Everything, Chris, and me too."
+91,5,Ses02F_script01_3_F,neutral,"I mean, and your money, there's nothing wrong with your money.  I mean, your father put hundreds of planes in the air.  A man should be paid for that."
+91,6,Ses02F_script01_3_M,neutral,"I know Annie.  Annie, I'm gonna make a fortune for you."
+91,7,Ses02F_script01_3_F,happiness,What'll I do with a fortune?
+92,0,Ses05M_script03_1_M,neutral,Oh Good God.
+92,1,Ses05M_script03_1_F,neutral,Do you think it's them?
+92,2,Ses05M_script03_1_M,neutral,I wonder.
+92,3,Ses05M_script03_1_F,neutral,"what, Nobody knows we are here except Freda and she wouldn't ring up."
+92,4,Ses05M_script03_1_M,neutral,Must be them then?
+92,5,Ses05M_script03_1_F,neutral,What do we do?
+92,6,Ses05M_script03_1_M,neutral,"We're all right, aren't we, darling, whatever happens?"
+92,7,Ses05M_script03_1_F,neutral,"Now and always, my sweet."
+92,8,Ses05M_script03_1_M,neutral,I don't care then.
+93,0,Ses05F_script03_1_M,neutral,"Darling, come here and kiss me before your body rots and worms pop in and out of your eye sockets."
+93,1,Ses05F_script03_1_F,neutral,"Elliot, worms don't pop."
+93,2,Ses05F_script03_1_M,neutral,"I don't mind what you do, see, you could paint your body green all over and dance naked through the Place Vendome and run off with every man in the world.  And I shan't say a word as long as I know that you love me best."
+93,3,Ses05F_script03_1_F,neutral,"Oh, thank you dear.  And the same goes for you except that if I so much as see you looking at another woman, I'll kill you."
+93,4,Ses05F_script03_1_M,neutral,Do you remember that awful scene we had in Venice?
+93,5,Ses05F_script03_1_F,neutral,Which particular one?
+93,6,Ses05F_script03_1_M,neutral,The one where you bought that little painted wooden snake and put it on my bed.
+93,7,Ses05F_script03_1_F,neutral,Charles.  That was his name.  He did wriggle so beautifully.
+94,0,Ses03F_script01_2_M,anger,"Why me, above all?"
+94,1,Ses03F_script01_2_M,anger,Huh?
+94,2,Ses03F_script01_2_M,anger,Why me above all?
+94,3,Ses03F_script01_2_F,sadness,You got to keep believing.
+94,4,Ses03F_script01_2_M,anger,"Look at you, you're shaking."
+94,5,Ses03F_script01_2_F,sadness,I can't help it.
+94,6,Ses03F_script01_2_M,anger,What have I got to hide?
+94,7,Ses03F_script01_2_M,anger,"Huh? What the hell's the matter with you, Kate?"
+95,0,Ses02M_impro07_M,neutral,"[BREATHING] So, you know I've been hearing back from some colleges."
+95,1,Ses02M_impro07_F,neutral,"Oh, yeah? Have you gotten letters yet?"
+95,2,Ses02M_impro07_M,neutral,Yeah. And guess who accepted me?
+95,3,Ses02M_impro07_F,neutral,"Um, I don't know, where?"
+95,4,Ses02M_impro07_M,neutral,U.S.C..
+95,5,Ses02M_impro07_F,neutral,"Oh, U.S.C.? Oh my Gosh, that's awesome, that was your top choice, right?"
+95,6,Ses02M_impro07_F,neutral,"Oh my Gosh, that's so cool."
+95,7,Ses02M_impro07_M,neutral,"Yeah, oh. I - You have no-"
+95,8,Ses02M_impro07_M,neutral,"God, I-I got this big packet you know, in the mail and it's like-"
+96,0,Ses04F_impro04_F,anger,I'm really good at what I do.  I'm smart.  I'm trained.  I have the education.  I'm talented.  I cannot-
+96,1,Ses04F_impro04_M,neutral,Are you- I mean do you like get dressed up and everything when you go to the job interview?
+96,2,Ses04F_impro04_F,frustration,Well yeah I mean I like take a shower and stuff.
+96,3,Ses04F_impro04_M,neutral,"And you like- you know, you shave your legs and everything?"
+96,4,Ses04F_impro04_F,frustration,[LAUGHTER] Yeah.  Usually.
+96,5,Ses04F_impro04_M,neutral,"and I want- I mean you know you've got to, like, do your hair.  I mean- I don't know, it's like,"
+96,6,Ses04F_impro04_F,frustration,"Yeah, I- I make my"
+96,7,Ses04F_impro04_F,frustration,I make myself very presentable before I go to any kind of interview.
+96,8,Ses04F_impro04_M,neutral,"you know what I mean? You know, it's like they say presentation is, like eighty percent."
+97,0,Ses05M_impro07_M,happiness,"And yeah, well, I mean, basically I just applied for any and every possible scholarship and grant that could come by, so I can go."
+97,1,Ses05M_impro07_F,neutral,the way to do it.
+97,2,Ses05M_impro07_M,neutral,"Yeah, yeah, yeah.  And it's gonna work out.  I'm gonna be able to pay for it, I'm gonna go, I mean, I'll have a little debt in the end.  But I don't care."
+97,3,Ses05M_impro07_F,neutral,"Wow, are you so excited?"
+97,4,Ses05M_impro07_F,neutral,Right.
+97,5,Ses05M_impro07_M,neutral,It's just you know a dream come true.  How could you not be excited about a dream come true?
+97,6,Ses05M_impro07_F,neutral,"You're gonna be so busy, too. You're going to have to work so hard."
+97,7,Ses05M_impro07_M,neutral,"Oh I know, I know."
+97,8,Ses05M_impro07_M,neutral,"But I'm so looking forward to being so busy. You know what I mean?  It's the kind of busy you've got to love, right?"
+98,0,Ses04F_script03_2_M,frustration,I think I mentioned once before that I had three minute liquor glasses of brandy the whole evening long.  A child of two couldn't get drunk on that.
+98,1,Ses04F_script03_2_F,anger,"On, the contrary.  A child of two could get violently drunk on only one glass of brandy."
+98,2,Ses04F_script03_2_M,neutral,Very interesting and how about a child of six and a child of four and a child of nine.
+98,3,Ses04F_script03_2_F,anger,"Oh, shut up."
+98,4,Ses04F_script03_2_M,neutral,"They'd get up a splendid little debate about that, you know.  Intemperate tots."
+98,5,Ses04F_script03_2_F,anger,"Not very funny, dear.  You'd better have some more brandy."
+98,6,Ses04F_script03_2_M,anger,Very good idea.  I will.
+98,7,Ses04F_script03_2_M,neutral,You'd better turn that off I think.
+98,8,Ses04F_script03_2_F,anger,Why?
+99,0,Ses03F_script02_1_M,neutral,"its single-mindedness with one mind. Urgency that's pure urge. You know, they don't give it a name."
+99,1,Ses03F_script02_1_M,neutral,"They don't ask it a question. They just, they just, they don't know what drives them. They just turn as one and start the swim that brings them to here"
+99,2,Ses03F_script02_1_M,neutral,"where we stand for a massive celebration of sex and death. Oh, God, I'm giving myself goosebumps. Look, I'm all-all my hairs on my arms is sticking up."
+99,3,Ses03F_script02_1_F,neutral,"Yeah, that's the wind."
+99,4,Ses03F_script02_1_M,neutral,So what do you think?
+99,5,Ses03F_script02_1_F,neutral,About what?
+99,6,Ses03F_script02_1_M,neutral,About what I just said.
+99,7,Ses03F_script02_1_F,neutral,It's ridiculous.
+100,0,Ses03M_script03_1_F,neutral,What is so horrible is that one cannot stay happy.
+100,1,Ses03M_script03_1_M,neutral,"Oh, darling.  Don't say that."
+100,2,Ses03M_script03_1_F,neutral,"It's true.  I mean, the whole business it's a very poor joke."
+100,3,Ses03M_script03_1_M,neutral,"You mean that, that sacred and beautiful thing love?"
+100,4,Ses03M_script03_1_F,neutral,Yes.  I mean just that.
+100,5,Ses03M_script03_1_M,neutral,What does that all mean?  That's what I asked myself on my quest for ultimate truth.  What does it all mean?
+100,6,Ses03M_script03_1_F,neutral,Don't laugh at me.  I'm serious.
+100,7,Ses03M_script03_1_M,neutral,"[LAUGHTER] Oh, darling.  You mustn't be serious, that's just what they want."
+100,8,Ses03M_script03_1_F,neutral,Who's they?
+101,0,Ses02F_impro03_F,happiness,"Yeah, it's pretty good."
+101,1,Ses02F_impro03_M,neutral,"Well--can--I mean, let me know--I want- I want invitations and--"
+101,2,Ses02F_impro03_F,happiness,"Of course, of course--you'll be able to be a part of it.  You can come help me pick my colors."
+101,3,Ses02F_impro03_M,neutral,"Oh, yes.  This is the whole [GARBAGE]"
+101,4,Ses02F_impro03_F,neutral,"It's so girly.  I don't even know how to like--It's so weird, but it'll be fun.  My mom will love to be like--she'll get so into it, I'm sure."
+101,5,Ses02F_impro03_F,happiness,She'll be like--flowers and the--
+101,6,Ses02F_impro03_M,happiness,"It'll be good.  Wow, that's great."
+101,7,Ses02F_impro03_F,happiness,"Oh, thank you. [LAUGHTER]"
+102,0,Ses03M_script03_2_F,frustration,"Turn it on again, please."
+102,1,Ses03M_script03_2_M,anger,No I'll do no such thing.
+102,2,Ses03M_script03_2_F,anger,Very well.  If you insist on being a boorish and idiotic.
+102,3,Ses03M_script03_2_M,anger,"Come on, turn it off.  It's driving me mad."
+102,4,Ses03M_script03_2_F,anger,You are far too temperamental.  Try to control yourself.
+102,5,Ses03M_script03_2_M,anger,Turn it--Turn it off.
+102,6,Ses03M_script03_2_F,anger,Go away.  Go away.  I hate you.
+102,7,Ses03M_script03_2_M,anger,Very amusing indeed.
+102,8,Ses03M_script03_2_F,anger,"I hate you.  Listen I'm sick and tired of listening to you, you sadistic bully."
+103,0,Ses04M_script01_3_F,neutral,You've got to tell me.
+103,1,Ses04M_script01_3_M,sadness,I don't know where to start.
+103,2,Ses04M_script01_3_F,neutral,It wouldn't work this way.
+103,3,Ses04M_script01_3_M,sadness,"It's all mixed up with so many other things.  You remember overseas, I was in command of a company?"
+103,4,Ses04M_script01_3_F,neutral,"Yeah, sure."
+103,5,Ses04M_script01_3_M,sadness,Well I lost them.
+103,6,Ses04M_script01_3_F,sadness,How many?
+103,7,Ses04M_script01_3_M,sadness,Just about all.
+104,0,Ses01F_script02_2_M,neutral,"Look at this, all of the hairs are standing up on my arm."
+104,1,Ses01F_script02_2_F,neutral,That's the wind.
+104,2,Ses01F_script02_2_M,neutral,"Well, so, what do you think?"
+104,3,Ses01F_script02_2_F,neutral,About what?
+104,4,Ses01F_script02_2_M,neutral,About what I was saying.
+104,5,Ses01F_script02_2_F,neutral,I think it's ridiculous.
+104,6,Ses01F_script02_2_M,neutral,It certainly is not.  It's slightly exaggerated scientific fact.
+104,7,Ses01F_script02_2_F,neutral,It's PR! Somebody sold you a bunch of crap that there is this wonderful thing that is going to happen tonight on the beach.
+104,8,Ses01F_script02_2_M,frustration,"Not just me, look at all of these people."
+104,9,Ses01F_script02_2_F,neutral,"Everybody's told the same story.  It keeps us coming back for more, it keeps us excited.  We keep thinking that life is going start at any minute if we can just find the right spot, get in on the action."
+105,0,Ses03F_impro08_F,frustration,"No no, we're not taking anything from you sir.  This is- This is unbeknownst to us.  The problem had just happened."
+105,1,Ses03F_impro08_F,frustration,The satellite-is down in your area.
+105,2,Ses03F_impro08_M,frustration,"Okay, so you think you're going to-  -get me back some minutes, and that's going to make up for three days of business that I lost?  Okay, great."
+105,3,Ses03F_impro08_F,frustration,"No, three days, sir.  It's not three days. It's- It's only been about a day now. Let's not exaggerate."
+105,4,Ses03F_impro08_M,frustration,"No, it's been--three days."
+105,5,Ses03F_impro08_M,frustration,"Fine, it's been a day.  Okay?"
+105,6,Ses03F_impro08_F,neutral,Three days?
+105,7,Ses03F_impro08_F,neutral,A day?
+106,0,Ses05F_impro04_F,frustration,Three years of going out every day--every day--and looking for a job and being constantly denied everywhere I go.
+106,1,Ses05F_impro04_M,frustration,"I don't know what to tell you, babe. Maybe- Maybe you're right.  Maybe you do have to go someplace else.  I don't know, maybe it's just not meant to be here.  I mean I want you to-I don't want you to give up, but I mean I don't want you to move away, but at the same time, I don't like seeing you like this."
+106,2,Ses05F_impro04_F,sadness,I'm just so scared to start over I mean.  I put so much time and energy into being here.
+106,3,Ses05F_impro04_F,sadness,"Where am I supposed to go?  I mean, like what?"
+106,4,Ses05F_impro04_M,neutral,"If it's rent or something like that, I mean I can help you out a little bit, if- if that will help you you know stick with it."
+106,5,Ses05F_impro04_F,sadness,I don't know. Maybe I can take out a loan. I just- I need prospects and I don't feel like I have any.
+106,6,Ses05F_impro04_M,neutral,"Well, just don't give up. And there's- you know, You never know, something might be around the corner tomorrow."
+106,7,Ses05F_impro04_F,neutral,But that doesn't help me when I'm hungry now.
+106,8,Ses05F_impro04_M,neutral,"Well, you know I'm not going to let you starve."
+107,0,Ses02M_script03_1_F,happiness,"Oh Charles, that was his name Charles. It did wiggle so beautifully."
+107,1,Ses02M_script03_1_M,neutral,"Horrible thing, I hated it."
+107,2,Ses02M_script03_1_F,happiness,I know you did. You threw it out of the window into the Grand Canal; I don't think I'll ever forgive you for that.
+107,3,Ses02M_script03_1_M,neutral,How long did that row last?
+107,4,Ses02M_script03_1_F,happiness,It went on intermittently for days.
+107,5,Ses02M_script03_1_M,neutral,The worst one was in Cannes when your curling iron burned a hole in my new dressing gown.
+107,6,Ses02M_script03_1_F,happiness,It burned my comb too and all the towels in the bathroom.
+107,7,Ses02M_script03_1_M,happiness,"That was a rouser, wasn't it?"
+108,0,Ses02F_impro01_F,anger,With your driver's license and your passport.  Just like everybody else.
+108,1,Ses02F_impro01_M,frustration,"But, without your drive--where-where- what about your identification without your driver's license?  I mean, you need--you needed something before then?"
+108,2,Ses02F_impro01_F,anger,"Who--you always use your driver's license.  I mean, you're not coming to the D.M.V. if you're not over sixteen and that's when you get your driver's license so you're never gonna need it anyway."
+108,3,Ses02F_impro01_M,frustration,"All right.  Well, um, you know, I'd love to help you, but--nothing I can do."
+108,4,Ses02F_impro01_M,frustration,"So, if you wanna go get your birth certificate, um, maybe come back--I don't--maybe you can talk to the person in the--in the front of line maybe.  I don't know."
+108,5,Ses02F_impro01_F,frustration,Do you have a supervisor?
+108,6,Ses02F_impro01_M,frustration,I am the supervisor.  So--
+108,7,Ses02F_impro01_F,frustration,"Well, thank you very much.  You've been very helpful."
+109,0,Ses01M_impro04_F,neutral,"I don't know, I mean, I just don't think..."
+109,1,Ses01M_impro04_M,frustration,"I mean I've been sending out my resumes and doing everything I can do but nothing is happening.  You know, it's like I can't and I can't keep living on loans anymore like this.  I'm going to--I mean eventually I'm going to have to pay it back. I'm just kind of freaking out, I don't know."
+109,2,Ses01M_impro04_F,neutral,Did you ever think it might be your attitude that's...
+109,3,Ses01M_impro04_M,neutral,"What's my--like what do you mean ""my attitude""?"
+109,4,Ses01M_impro04_F,neutral,"I don't know just sometimes you get kind of... No, I'm not saying that.  I just--"
+109,5,Ses01M_impro04_M,neutral,Do I have an attitude problem?
+109,6,Ses01M_impro04_M,frustration,"No, well maybe it's because I'm like frustrated 'cause I can't get a job, you know."
+109,7,Ses01M_impro04_F,neutral,...has anyone ever just said anything like that to you before?
+109,8,Ses01M_impro04_M,frustration,"Like it's really hard to like shake that off when you go into like audition a room or whatever, you know what I mean?"
+110,0,Ses03M_script02_2_M,frustration,I'm trying to do the best I can.
+110,1,Ses03M_script02_2_F,sadness,I know you are Augie.  I know you wanted this evening to be nice.
+110,2,Ses03M_script02_2_F,sadness,I can't help thinking about being somewhere else.
+110,3,Ses03M_script02_2_M,sadness,Maybe if you were with someone else too.
+110,4,Ses03M_script02_2_F,sadness,I didn't say that.
+110,5,Ses03M_script02_2_M,sadness,I know.  But I know I don't make you happy.
+110,6,Ses03M_script02_2_F,sadness,"Augie, whatever I'm doing I'd rather be doing with you."
+110,7,Ses03M_script02_2_M,neutral,Yeah?
+110,8,Ses03M_script02_2_F,neutral,Yeah.  Don't you know that?
+111,0,Ses05F_script02_2_M,neutral,Yeah?
+111,1,Ses05F_script02_2_F,neutral,"For heaven's sake, don't you know that?"
+111,2,Ses05F_script02_2_F,sadness,"Whatever I am doing, I wanted to be with you.  I mean you are probably the one who wishes you were with somebody else, somebody who didn't take everything so hard and who knows how to enjoy herself."
+111,3,Ses05F_script02_2_M,happiness,"Actually, now that you mention it.  No, I don't."
+111,4,Ses05F_script02_2_F,happiness,Good.  So maybe we are on the wrong spot but we are with the right person.
+111,5,Ses05F_script02_2_M,happiness,I don't know.  Seems like a pretty good spot to me I mean look at the view of the moon you got from here.
+111,6,Ses05F_script02_2_F,happiness,"Yes, I did notice that.  It does look really beautiful on the water.  The gold white moon."
+111,7,Ses05F_script02_2_M,happiness,"Well, look what we have got here."
+112,0,Ses04F_script02_1_M,neutral,I can't believe I forgot.  I'm like a kid.  It's amazing I got out of the house with my fly zipped.
+112,1,Ses04F_script02_1_M,neutral,"Oh, I wonder if they can hear me talk or feel the vibrations in the sand when we move around?"
+112,2,Ses04F_script02_1_F,neutral,I'm cold.
+112,3,Ses04F_script02_1_M,neutral,Do you want my jacket?
+112,4,Ses04F_script02_1_F,anger,It's after eleven let's go home.
+112,5,Ses04F_script02_1_M,frustration,Are you kidding?  We'd miss it.  We just got here.  What's the point of coming down here if we just turn around and go home?
+112,6,Ses04F_script02_1_F,anger,There is no point in coming down here.
+112,7,Ses04F_script02_1_M,frustration,Right.
+113,0,Ses05M_script01_1b_F,frustration,"No I don't want a-  Your father thinks he's coming back, Chris.  If you marry that girl, you're pronouncing him dead."
+113,1,Ses05M_script01_1b_F,sadness,"Now, what's going to happen to your father, do you know?  I don't."
+113,2,Ses05M_script01_1b_M,frustration,"All right then, mom."
+113,3,Ses05M_script01_1b_F,neutral,Just give it some more thought.
+113,4,Ses05M_script01_1b_M,anger,"I've given it three years of thought.  I had hoped if I waited, dad would've forgotten him by now and we could have a- a regular wedding and everybody happy."
+113,5,Ses05M_script01_1b_M,anger,But if that can't happen then I'll just get out.
+113,6,Ses05M_script01_1b_F,neutral,What the hell is this?
+113,7,Ses05M_script01_1b_M,anger,"I'll get out.  I'll go get married someplace else, I- I'll live someplace else, maybe New York."
+114,0,Ses01F_impro03_F,neutral,Penny slots. That's what he plays.
+114,1,Ses01F_impro03_M,neutral,Wow.
+114,2,Ses01F_impro03_F,neutral,Yeah.
+114,3,Ses01F_impro03_M,neutral,I'm a big fan of the Wheel of Fortune quarters. But it just costs so much.  I don't know.
+114,4,Ses01F_impro03_F,neutral,Oh.
+114,5,Ses01F_impro03_F,happiness,Yeah.  We played Wheel of Fortune pennies.  It's like a giant thing with like-
+114,6,Ses01F_impro03_M,neutral,"But the pennies always get you because you end up spending like, you know, fifty bucks."
+114,7,Ses01F_impro03_F,neutral,Fifty bucks. Mmhmm.
+115,0,Ses01M_impro05_F,neutral,They do as matter of fact.  We don't like to publicize it because
+115,1,Ses01M_impro05_F,neutral,people wouldn't Fly our airline.
+115,2,Ses01M_impro05_M,anger,Probably people that work for your company huh?
+115,3,Ses01M_impro05_M,anger,Do you know what was in that little bag that I could have just easily put in overhead compartment but no I had to check?
+115,4,Ses01M_impro05_F,neutral,What was that?
+115,5,Ses01M_impro05_M,anger,My computer which has all of my data which I'm collecting right now.
+115,6,Ses01M_impro05_F,neutral,That's unfortunate.
+115,7,Ses01M_impro05_M,anger,Yeah it's really unfortunate you know why because I'm going to get fired if I don't get that.  So I need to have that back.
+115,8,Ses01M_impro05_F,neutral,That's too bad.
+116,0,Ses02M_impro03_F,neutral,"That's so romantic. Oh, my Gosh. She must have died. That's like one of those things you write into a magazine about like my boyfriend did this. Oh my God."
+116,1,Ses02M_impro03_M,happiness,"I know, so"
+116,2,Ses02M_impro03_M,happiness,I got to freak her out.
+116,3,Ses02M_impro03_M,neutral,"No, yes -- so"
+116,4,Ses02M_impro03_F,neutral,She must have flipped out.
+116,5,Ses02M_impro03_M,happiness,"Yea, that way she was guaranteed that she could not say no."
+116,6,Ses02M_impro03_F,neutral,Right exactly because you can't say no in front of thousands of people. [LAUGHTER]
+116,7,Ses02M_impro03_M,neutral,"No, but it was good."
+116,8,Ses02M_impro03_F,neutral,Did you bring her up on stage too?
+117,0,Ses02F_script03_1_M,neutral,"Oh, darling, don't say that."
+117,1,Ses02F_script03_1_F,happiness,It's true.  The whole business is a very poor joke.
+117,2,Ses02F_script03_1_M,neutral,"Meaning that sacred and beautiful thing, love?"
+117,3,Ses02F_script03_1_F,happiness,"Yes, meaning just that."
+117,4,Ses02F_script03_1_M,neutral,"Oh, what does it all mean?  That's what I ask myself in my ceaseless quest for ultimate truth.  Dear God, what does it all mean?"
+117,5,Ses02F_script03_1_F,neutral,Don't laugh at me.  I'm serious.
+117,6,Ses02F_script03_1_M,neutral,"You mustn't be serious, my dear one.  That's just what they want."
+117,7,Ses02F_script03_1_F,neutral,Who's they?
+118,0,Ses01M_script03_2_M,neutral,[LAUGHTER]
+118,1,Ses01M_script03_2_F,neutral,"[LAUGHTER] Utterly, utterly ridiculous."
+118,2,Ses01M_script03_2_M,neutral,We were very much younger then.
+118,3,Ses01M_script03_2_F,neutral,Very much sillier.
+118,4,Ses01M_script03_2_M,neutral,Mmhmm.
+118,5,Ses01M_script03_2_M,neutral,"However, I do believe the real cause of that row was Peter Burden."
+118,6,Ses01M_script03_2_F,neutral,Oh you knew there was nothing in that.
+118,7,Ses01M_script03_2_M,neutral,I knew nothing of the sort. You took presents from him.
+118,8,Ses01M_script03_2_F,neutral,Presents? It was a trivial little broach.
+119,0,Ses03F_impro05_F,frustration,"Look sir, I've been waiting for about an hour and my luggage still hasn't come. What's going on?"
+119,1,Ses03F_impro05_M,frustration,"I'm sorry, Mrs. Rosenkrantz, but uh- I don't know what to tell you."
+119,2,Ses03F_impro05_F,frustration,"What do you mean, you don't know what to tell me? I have two luggage that I've been coming--they're coming--from France and I need them here. I'm home now. I need to go start working."
+119,3,Ses03F_impro05_M,frustration,Did you- Did you check with the lost and found?
+119,4,Ses03F_impro05_F,anger,"Where? I don't know. The lost and found. What do you mean, lost and found?"
+119,5,Ses03F_impro05_F,frustration,I had my luggage transferred here from Paris to L.A. and now I'm here and I need to be working and I have all my stuff in there.
+119,6,Ses03F_impro05_M,frustration,"Maybe it got lost. Did you think about that, mom?"
+119,7,Ses03F_impro05_F,frustration,"Well, that's what I'm asking you. What--I don't know what happened to it."
+119,8,Ses03F_impro05_M,neutral,"Oh, not--we didn't lose it; maybe the airport lost it. Maybe someone stole it."
+120,0,Ses05F_impro04_F,sadness,Would you be willing to make some more calls on my behalf? I won't--I won't make you look bad.
+120,1,Ses05F_impro04_M,neutral,If I- If you- Will you stick with it?
+120,2,Ses05F_impro04_F,neutral,yeah.
+120,3,Ses05F_impro04_M,neutral,"Okay.  Okay, I'll call some people."
+120,4,Ses05F_impro04_F,neutral,Thank you.
+120,5,Ses05F_impro04_M,neutral,"But you've got to keep looking for other stuff. You've got to do it on your own, too.  Okay?"
+120,6,Ses05F_impro04_F,neutral,"I will, I will."
+120,7,Ses05F_impro04_F,neutral,"Yeah, thank you."
+120,8,Ses05F_impro04_M,neutral,You know I'll always help you.
+121,0,Ses05M_impro06_M,sadness,"You know, he was gonna, and we -- all the way up to the end we were just talking about how- you know all the stuff we were gonna do and, you know.  When he finally kicked this stupid cancer, you know, and we were gonna --"
+121,1,Ses05M_impro06_M,sadness,"he wanted to travel, you know.  And he's so talented.  Probably the most talented person I have ever met in my entire life."
+121,2,Ses05M_impro06_F,neutral,Yeah.
+121,3,Ses05M_impro06_F,sadness,What did he do?
+121,4,Ses05M_impro06_M,sadness,"He was a designer, you know.  But he did everything. You know, He painted and he- and he did costume design, he did set design, he did lighting, he was --"
+121,5,Ses05M_impro06_M,sadness,"he just did everything.  He was literally, literally the most talented guy I have ever met in my entire life."
+121,6,Ses05M_impro06_M,sadness,And he's gone now and I  -- I just can't believe it.
+121,7,Ses05M_impro06_F,sadness,Yeah.  I'm so sorry.
+121,8,Ses05M_impro06_M,sadness,"I mean, one second you think, you know, you're just having a conversation and then --"
+122,0,Ses02F_script02_2_F,neutral,"Oh, for heaven sake, whatever I'm doing, I'd rather be doing it with you."
+122,1,Ses02F_script02_2_M,neutral,Yeah?
+122,2,Ses02F_script02_2_F,neutral,"Oh, don't be ridiculous.  I mean, don't you know that?"
+122,3,Ses02F_script02_2_F,sadness,You're the one who probably wishes you were with someone else.  Someone who--you'd rather enjoy yourself and didn't take everything so hard.
+122,4,Ses02F_script02_2_M,neutral,"Well, now that you mention it.  No, I don't."
+122,5,Ses02F_script02_2_F,neutral,"Okay.  Fine so.  We're in the wrong spot, but we're with the right person."
+122,6,Ses02F_script02_2_M,happiness,"I don't know.  It seemed like a pretty good spot to me.  I mean, look at the view you have of the moon from here."
+122,7,Ses02F_script02_2_F,neutral,"Yeah, I noticed that.  Looks pretty, doesn't it?  Big ol' white moon."
+122,8,Ses02F_script02_2_M,happiness,"Well, look what we have here."
+123,0,Ses04M_impro02_M,frustration,It's not- it's not- It's not like that.  It's not like that.  I can't do that.
+123,1,Ses04M_impro02_F,frustration,"Why not?  You could, at least, try.  They have to understand"
+123,2,Ses04M_impro02_M,frustration,Because it's impossible.  There's -- I just can't.  I can't.
+123,3,Ses04M_impro02_F,sadness,You won't even know your child when you come back.  This -- isn't there someone you could talk to?
+123,4,Ses04M_impro02_F,frustration,Explain the situation to them and then you can stay here.
+123,5,Ses04M_impro02_M,frustration,"Look, honey, it's- it's- it's only going to be a year."
+123,6,Ses04M_impro02_M,frustration,It's only going to be a year. I'm not going to miss my son's entire life.
+123,7,Ses04M_impro02_F,frustration,"And what happens if, at the end of that year, they ask you to stay longer?  Are you just going to agree?  Are you just going to absentmindedly brainwashedly do whatever it is they tell you to do?"
+123,8,Ses04M_impro02_M,frustration,I'm not going to stay more than a year.  I've  agreed to a year
+124,0,Ses01F_script01_3_F,neutral,"Like Larry's brother.  Do it like you, Chris."
+124,1,Ses01F_script01_3_F,neutral,"Chris, what is it?"
+124,2,Ses01F_script01_3_M,sadness,"Hey, let's drive some place.  Huh?  Let's get out of here."
+124,3,Ses01F_script01_3_F,neutral,No. What is it?  Is it your mother?
+124,4,Ses01F_script01_3_M,sadness,No it's nothing like that. It's-
+124,5,Ses01F_script01_3_F,neutral,"Then what?  Chris.  Even in your letters, there was something ashamed."
+124,6,Ses01F_script01_3_M,sadness,Yeah.  I suppose I have been. But it's going from me.
+124,7,Ses01F_script01_3_F,neutral,You've got to tell me.
+125,0,Ses04F_impro04_M,neutral,or some- some large percent of- of success.
+125,1,Ses04F_impro04_F,frustration,"Uhuh. Uhuh. Yeah, yeah. Good quote."
+125,2,Ses04F_impro04_M,neutral,"Because I don't know I mean just, you know, just keep- keep- keep at it.  Keep trying.  Go-"
+125,3,Ses04F_impro04_F,frustration,Buck-O. That's really helpful.  Just keep chugging along.  The little engine that could.
+125,4,Ses04F_impro04_M,neutral,"What do you want me to? Look, Hey look if I could- Don't get all sassy."
+125,5,Ses04F_impro04_F,anger,Well you- just you're doing something wrong.
+125,6,Ses04F_impro04_M,frustration,"Look if I could give you a job,if I could give you a job I would but I mean I'm not in that position. I'm-"
+125,7,Ses04F_impro04_F,frustration,Well maybe you could help.  I mean you've got a job.  I'm willing to look outside of my realm.  I could try something else.
+126,0,Ses01F_script01_3_F,neutral,"And then, you.  You've been kind of..."
+126,1,Ses01F_script01_3_M,neutral,What?
+126,2,Ses01F_script01_3_F,neutral,Sort of embarrassed ever since I got here.
+126,3,Ses01F_script01_3_M,neutral,Well I was kind of planning of sneaking up on you over the course of a week or so.  They just take it for granted that we're all set.
+126,4,Ses01F_script01_3_F,neutral,I knew they would.
+126,5,Ses01F_script01_3_M,neutral,You did?
+126,6,Ses01F_script01_3_F,neutral,"Well sure, from your mother's point of view.  Why else would I come?"
+126,7,Ses01F_script01_3_M,neutral,"So would you want to?  I mean, I guess you have to know that's kind of why I asked you to come?"
+126,8,Ses01F_script01_3_F,neutral,"I, umm. I guess, I guess that's kind of why I came."
+127,0,Ses05F_script01_3_M,happiness,"Anne, I love you.  I love you a great deal.  I love you!"
+127,1,Ses05F_script01_3_M,neutral,"I- I -I have no imagination, that's all I know what to say, I-I'm embarrassing you. I I didn't want to tell you here.  I wanted it to be some place different, some place where we could be new to each other you know."
+127,2,Ses05F_script01_3_M,neutral,"You feel it's wrong here, don't you- this yard, this chair?  I want you to be ready for me Annie.  I don't want to win you away from anything."
+127,3,Ses05F_script01_3_F,neutral,"Chris, I've been ready for a long time."
+127,4,Ses05F_script01_3_M,neutral,"Then, he's gone forever-you're sure?"
+127,5,Ses05F_script01_3_F,neutral,I almost got married two years ago.
+127,6,Ses05F_script01_3_M,neutral,Why didn't you?
+127,7,Ses05F_script01_3_F,neutral,You started to write me.
+127,8,Ses05F_script01_3_M,neutral,You felt something that far back?
+128,0,Ses03M_impro06_M,sadness,He actually wanted to do something.
+128,1,Ses03M_impro06_F,sadness,"Well now you can follow his footsteps, you know?  Carry out what he wanted to do."
+128,2,Ses03M_impro06_M,sadness,I can't do that.
+128,3,Ses03M_impro06_F,sadness,Well sure you could.
+128,4,Ses03M_impro06_M,sadness,You should've met him.
+128,5,Ses03M_impro06_M,sadness,He is the greatest...everyone liked him.
+128,6,Ses03M_impro06_F,sadness,Yeah.
+128,7,Ses03M_impro06_F,sadness,I would've loved to.
+128,8,Ses03M_impro06_F,sadness,Now I can't.
+129,0,Ses03F_script03_2_F,anger,Turn it on.
+129,1,Ses03F_script03_2_M,neutral,No.
+129,2,Ses03F_script03_2_F,neutral,You've always had far too temperamental for yourself. You should try to control it.
+129,3,Ses03F_script03_2_M,anger,Turn it off.
+129,4,Ses03F_script03_2_F,anger,I will not. Go away. Go away. I hate you.
+129,5,Ses03F_script03_2_M,anger,"Oh, very amusing, indeed. Amanda, listen-"
+129,6,Ses03F_script03_2_F,anger,"Listen, indeed. No, no, no, no. I am sick and tired of listening to you, you sadistic bully."
+129,7,Ses03F_script03_2_M,anger,Very amusing indeed.
+129,8,Ses03F_script03_2_F,anger,"Stop it, stop it, I hate you, I loath you, you are overbearing and conceited and utterly impossible."
+130,0,Ses04F_impro05_M,frustration,Ma'am.
+130,1,Ses04F_impro05_F,anger,I want to talk to your supervisor.
+130,2,Ses04F_impro05_M,frustration,I am- I am- I am my own supervisor.
+130,3,Ses04F_impro05_F,anger,"I've had enough.  I want to talk to-no, no unacceptable I want to your supervisor. I am done with this."
+130,4,Ses04F_impro05_M,frustration,"I am the supervisor, ma'am."
+130,5,Ses04F_impro05_F,anger,"Really, you don't work for anybody.  It's just you?"
+130,6,Ses04F_impro05_M,frustration,I am the current manager on duty.
+130,7,Ses04F_impro05_F,anger,"Okay.  Well I want to call whoever you report to, whoever your boss is because I have had enough with this airline and I am finished waiting for my fifty dollar gift certificate."
+130,8,Ses04F_impro05_M,frustration,"Ma'am, I own Northwest Airlines."
+131,0,Ses02F_impro03_F,neutral,"It is good.  It's totally good.  I mean, it like oh, you know."
+131,1,Ses02F_impro03_M,neutral,"Yeah, I know.  Wow.  I'm shaking.  I can't even--"
+131,2,Ses02F_impro03_F,happiness,I know. So we're gonna take it--Like we're not gonna get married right away--'Cause we want to like have plenty of time to plan everything out
+131,3,Ses02F_impro03_F,happiness,"...and, um, my parents want to like be part of it and help out and everything--So we want to give it lots of time to like--"
+131,4,Ses02F_impro03_M,neutral,"Oh. Do they--do they know yet? Have you told them? Oh, that's--"
+131,5,Ses02F_impro03_F,happiness,"Yeah, yeah, I called them. I called them And, of course, they were so excited 'cause they love him. Like they always have.  Um--"
+131,6,Ses02F_impro03_M,neutral,That's great.  Yeah.
+131,7,Ses02F_impro03_F,happiness,"So, yeah, I mean, it'll be good.  We wanna like, uh, I think we're gonna have it in spring time, like early Spring--So it's no too hot yet.  And um--"
+132,0,Ses03F_impro02_F,neutral,"How's it going, babe?"
+132,1,Ses03F_impro02_F,neutral,Yeah?
+132,2,Ses03F_impro02_M,neutral,All right.
+132,3,Ses03F_impro02_F,neutral,Good.
+132,4,Ses03F_impro02_F,neutral,"Hey listen,eh- I've been wanting to talk to you. I have something to tell you. How's Amy doing?"
+132,5,Ses03F_impro02_M,happiness,She's doing fine. She just took her first steps today actually. I videotaped it for you so you can watch it.
+132,6,Ses03F_impro02_F,neutral,yeah.
+132,7,Ses03F_impro02_F,neutral,oh.
+132,8,Ses03F_impro02_F,neutral,"I really want to say that. Well I, so, you know, at the center department they called me in and I talked to-"
+133,0,Ses02F_script03_2_M,neutral,Did you see much of Peter Burden after our divorce?
+133,1,Ses02F_script03_2_F,neutral,"Yes, I did.  Quite a lot."
+133,2,Ses02F_script03_2_M,neutral,"Hmm, I imagine you let him kiss you a good deal more then."
+133,3,Ses02F_script03_2_F,frustration,Mind your own business.
+133,4,Ses02F_script03_2_M,neutral,"Oh, must have had a riotous time. No restraint at all.  Very enjoyable and never had much anyhow."
+133,5,Ses02F_script03_2_F,anger,You're quite insufferable
+133,6,Ses02F_script03_2_F,frustration,I expect it's because you're drunk.
+133,7,Ses02F_script03_2_M,anger,I'm not in the least drunk.
+133,8,Ses02F_script03_2_F,neutral,You've always had a weak head.
+134,0,Ses04F_script03_1_F,neutral,"Oh, Charles.  That was his name.  Charles he did wriggle so beautifully."
+134,1,Ses04F_script03_1_M,neutral,Horrible thing.  I hated it.
+134,2,Ses04F_script03_1_F,neutral,"Yes, I know you did.  You threw him out of the window into the Grand Canal.  I don't think I'll ever forgive you for that."
+134,3,Ses04F_script03_1_M,neutral,How long did that row last?
+134,4,Ses04F_script03_1_F,neutral,It went on intermittently for days.
+134,5,Ses04F_script03_1_M,neutral,The worst one was in Cannes when your curling irons burnt holes in my dressing gown.
+134,6,Ses04F_script03_1_F,neutral,It burnt my comb too and all the towels in the bathroom.
+134,7,Ses04F_script03_1_M,neutral,"Ah, we were much younger then.  That was a rouser wasn't it?"
+135,0,Ses03M_script02_1_M,neutral,They just start swimming to this place right here where we stand for massive celebration of sex and death.
+135,1,Ses03M_script02_1_M,neutral,"Oh, I'm giving myself goose bumps.  Look, all my hairs are standing up."
+135,2,Ses03M_script02_1_F,neutral,That's the wind.
+135,3,Ses03M_script02_1_M,neutral,[BREATHING] So what do you think?
+135,4,Ses03M_script02_1_F,neutral,About what?
+135,5,Ses03M_script02_1_M,neutral,About what I just said?
+135,6,Ses03M_script02_1_F,neutral,It's ridiculous.
+135,7,Ses03M_script02_1_M,frustration,It certainly is not.  It's
+136,0,Ses03F_impro07_M,neutral,"Oh, Jesus. That is so amazing."
+136,1,Ses03F_impro07_F,happiness,So now I can stay here and now we can party. I know.
+136,2,Ses03F_impro07_M,neutral,Party. You want to get drunk tonight?
+136,3,Ses03F_impro07_F,neutral,"Yeah, why not."
+136,4,Ses03F_impro07_M,neutral,"Yeah, we're going to celebrate."
+136,5,Ses03F_impro07_F,neutral,"We're not twenty one yet, but whatever."
+136,6,Ses03F_impro07_M,neutral,"Yeah, I'm only eighteen so it's--go get drunk."
+136,7,Ses03F_impro07_F,neutral,"[LAUGHTER]. I'm so excited, Joe. Oh, man, I-- And I got in--I got into the school of theatre, so it's like-"
+136,8,Ses03F_impro07_M,neutral,Shit. That's-
+137,0,Ses01F_impro04_F,frustration,"I just don't want this paper trail, you know.  I just don't want things following me around, like-."
+137,1,Ses01F_impro04_M,neutral,"I know.  Okay.  Well, um. Maybe--"
+137,2,Ses01F_impro04_F,frustration,"It's just-- You know, I've had this problem before.  You're not the first person to tell me that I need a resume but..."
+137,3,Ses01F_impro04_M,neutral,Yeah.
+137,4,Ses01F_impro04_M,neutral,"Okay, yeah.  I would imagine."
+137,5,Ses01F_impro04_F,neutral,..I just-..I just think it's kind of prejudiced and they are really discriminating against people who just aren't that way.
+137,6,Ses01F_impro04_M,neutral,"Well, sometimes you have to do things that you don't necessarily like to do to have a job. But the job affords you money, you won't have to be taking the bus right now."
+137,7,Ses01F_impro04_F,frustration,"That's baloney, that's baloney."
+137,8,Ses01F_impro04_F,frustration,Please.
+138,0,Ses02F_script02_1_F,neutral,There is no point in coming down here.
+138,1,Ses02F_script02_1_M,neutral,Right.
+138,2,Ses02F_script02_1_F,neutral,That's my point.
+138,3,Ses02F_script02_1_M,neutral,That's my point too.
+138,4,Ses02F_script02_1_F,neutral,"So, let's go."
+138,5,Ses02F_script02_1_M,neutral,No. No. That's not my point.  The point is there's no point in coming down if we just leave.  Don't you want to see it?
+138,6,Ses02F_script02_1_F,neutral,Not particularly.
+138,7,Ses02F_script02_1_M,neutral,Why not?
+138,8,Ses02F_script02_1_F,neutral,I just don't.  It's stupid.
+139,0,Ses05F_script03_2_M,neutral,"As a matter of fact, the real cause of that row was Peter Burden."
+139,1,Ses05F_script03_2_F,neutral,You knew there was nothing in that.
+139,2,Ses05F_script03_2_M,neutral,I knew nothing of the sort.  You accepted presents from him.
+139,3,Ses05F_script03_2_F,neutral,Only a trivial little broach.
+139,4,Ses05F_script03_2_M,neutral,"I remember it well, covered in diamonds in the worst possible taste."
+139,5,Ses05F_script03_2_F,neutral,"No, not at all.  I-I still have it.  I wear it quite often."
+139,6,Ses05F_script03_2_M,neutral,You went out of your way to torture me over Peter Burden.
+139,7,Ses05F_script03_2_F,neutral,You worked the whole thing up in your jealous imagination.
+139,8,Ses05F_script03_2_M,anger,"You must admit that he was in love with you, wasn't he?"
+140,0,Ses05M_impro04_F,neutral,Okay so.
+140,1,Ses05M_impro04_F,neutral,Fair enough.
+140,2,Ses05M_impro04_M,frustration,Because that would just really be a topper for me.
+140,3,Ses05M_impro04_F,neutral,Yeah.  [LAUGHTER] It's a joke.
+140,4,Ses05M_impro04_M,frustration,Thank you.  Ha ha.
+140,5,Ses05M_impro04_F,neutral,"Sorry.  So, let's see.  What else?  What's available? What? Um.  Hmm."
+140,6,Ses05M_impro04_M,frustration,See what I mean?  You can't even think of anything.
+140,7,Ses05M_impro04_F,neutral,"Well, not off the top of head.  It will just take you know take a minute.  But do you have any, like, special skills?"
+141,0,Ses04M_script02_1_F,frustration,That's my point.
+141,1,Ses04M_script02_1_M,neutral,"That's my point, too."
+141,2,Ses04M_script02_1_F,anger,So let's go home.
+141,3,Ses04M_script02_1_M,frustration,"No, no, no.  That's not my point.  My point is is that there's no point in coming down here if we just leave.  Don't you want to see it?"
+141,4,Ses04M_script02_1_F,frustration,Not particularly.
+141,5,Ses04M_script02_1_M,neutral,Why not?
+141,6,Ses04M_script02_1_F,anger,I just don't.  It's stupid.
+141,7,Ses04M_script02_1_M,neutral,"Honey, this is a natural phenomenon.  I mean, this only happens once a year.  It's a great opportunity.  Think about the people in Kansas.  They'd have to get plane tickets and hotel reservations to come see this.  We're just forty minutes away.  It's too good to pass up."
+142,0,Ses05M_impro04_F,neutral,"I was just going to say that's your issue. Maybe you are going in too much. No, I mean, just"
+142,1,Ses05M_impro04_F,neutral,are you going into the bars every night?
+142,2,Ses05M_impro04_M,frustration,"I mean, You can tell me what.  Why is no one hiring me?  Is it me?  Be honest.  You can tell me. you know I can take it.  I can take it, you just tell me. Why?"
+142,3,Ses05M_impro04_F,neutral,"Well, I don't really know.  I don't I don't know you in like a job situation, so."
+142,4,Ses05M_impro04_M,frustration,"Yeah, but I'm -- okay, well how about personality wise?  I mean, people who know me won't hire me.  Why?"
+142,5,Ses05M_impro04_F,neutral,"Wow.  I don't -- I mean, do you- do you have an attitude problem when you're on the job?"
+142,6,Ses05M_impro04_M,neutral,"I don't think I have an attitude problem when I'm on the job, no- I have an attitude problem right now because I don't have a job."
+142,7,Ses05M_impro04_F,neutral,Maybe [garbage].
+143,0,Ses03F_script02_2_M,frustration,"You were fine during the phone call from Marge. Dinner was okay. Doing the dishes was no problem. Let's see. I took a shower. You were watching the news. You said Augie, I think the grunion are running. I said great, let's go. I feel lucky tonight."
+143,1,Ses03F_script02_2_M,frustration,"And so I'm getting the animals, putting the animals out in the yard. I'm putting on my jacket, getting the car out of the garage-"
+143,2,Ses03F_script02_2_F,sadness,Do you remember the last time we came here?
+143,3,Ses03F_script02_2_F,sadness,We thought I was pregnant.
+143,4,Ses03F_script02_2_F,sadness,You brought a bottle of champagne.
+143,5,Ses03F_script02_2_F,happiness,We took off our shoes and we danced barefoot in the sand. Under the moon.
+143,6,Ses03F_script02_2_F,happiness,And you whispered so intimately in my ear so I could feel your words.
+143,7,Ses03F_script02_2_F,happiness,"Oh, that moment-that was it."
+143,8,Ses03F_script02_2_F,sadness,"I told myself finally, this is how happy I'm supposed to be."
+143,9,Ses03F_script02_2_M,neutral,Wait a minute. I got it.
+144,0,Ses05M_impro08_F,neutral,All right.
+144,1,Ses05M_impro08_M,neutral,Okay.  We're gonna get your -- a little black box is going to come up.  Do you see that?
+144,2,Ses05M_impro08_F,neutral,"Yeah, I see that."
+144,3,Ses05M_impro08_M,neutral,"Okay Uh- You've got your C calling, go ahead and type in directory list."
+144,4,Ses05M_impro08_F,neutral,Okay.
+144,5,Ses05M_impro08_M,neutral,And hit enter.
+144,6,Ses05M_impro08_F,neutral,Okay.
+144,7,Ses05M_impro08_M,neutral,Okay?  Can you tell me what that says?
+144,8,Ses05M_impro08_F,neutral,"Uh, it it's like a bunch of different letter and numbers and stuff."
+145,0,Ses02M_impro07_F,happiness,I will do the best I can.
+145,1,Ses02M_impro07_F,neutral,"Well, there are all kinds of awesome secrets so you'll really enjoy it. It's really great. I'm so glad."
+145,2,Ses02M_impro07_M,happiness,"Oh, alright."
+145,3,Ses02M_impro07_M,neutral,"I'm-I'm looking forward to that. [BREATHING] man, So yeah, I think I'm going to come out a little early so I mean I'll give you a call and we'll definitely-"
+145,4,Ses02M_impro07_F,neutral,Yay
+145,5,Ses02M_impro07_F,neutral,"Okay. Yes, totally come visit"
+145,6,Ses02M_impro07_F,happiness,"and we'll explore and you going to have such a good time, you're going to fit in so well, it's going to be awesome"
+145,7,Ses02M_impro07_M,neutral,"[LAUGHTER] Thanks, yes, thanks, yes That'll be cool."
+145,8,Ses02M_impro07_F,happiness,So Congratulations. That's awesome.
+146,0,Ses04F_script01_3_F,happiness,I guess this is why I came.
+146,1,Ses04F_script01_3_M,happiness,"Ann, I love you.  I love you a great deal.  I love you."
+146,2,Ses04F_script01_3_M,happiness,I have no imagination that's all I know to tell you.
+146,3,Ses04F_script01_3_M,happiness,I'm embarrassing you.  I didn't want to tell it to you here.  I
+146,4,Ses04F_script01_3_M,neutral,"wanted some place we'd never been, a place where we'd be brand new to each other."
+146,5,Ses04F_script01_3_M,neutral,"You think this is wrong, this chair, this yard.  I want you to be ready for me.  I don't want to win you away from anything."
+146,6,Ses04F_script01_3_F,happiness,"Chris, I've been ready a long, long time."
+146,7,Ses04F_script01_3_M,neutral,And he's gone forever.  You're sure?
+146,8,Ses04F_script01_3_F,neutral,I almost got married two years ago.
+147,0,Ses05F_script03_1_M,neutral,"Oh, I didn't hit you very hard."
+147,1,Ses05F_script03_1_F,neutral,And then the manager came in and found us rolling around on the floor biting and scratching like panthers.
+147,2,Ses05F_script03_1_M,neutral,[LAUGHTER] I shall never forget his face.
+147,3,Ses05F_script03_1_F,happiness,"Oh, ridiculous. utterly ridiculous"
+147,4,Ses05F_script03_1_M,neutral,"Oh, we were very much younger then."
+147,5,Ses05F_script03_1_F,neutral,And very much sillier.
+147,6,Ses05F_script03_1_M,neutral,"Oh, As a matter of fact, the real cause of that row was Peter Burden."
+147,7,Ses05F_script03_1_F,neutral,You knew there was nothing.
+148,0,Ses01M_script01_2_F,anger,"Believe with me Joe, you got to believe. Only last week a boy came back missing longer then Larry you read it yourself."
+148,1,Ses01M_script01_2_M,frustration,"Okay, calm yourself. Alright."
+148,2,Ses01M_script01_2_M,frustration,calm yourself.
+148,3,Ses01M_script01_2_F,anger,You above all have got to believe. Just don't stop believing.
+148,4,Ses01M_script01_2_M,anger,What does that mean? Me above all? What does that mean?
+148,5,Ses01M_script01_2_M,anger,Look at you. You're shaking.
+148,6,Ses01M_script01_2_F,neutral,I can't help it.
+148,7,Ses01M_script01_2_M,anger,"What the hell do you want from me, Kate?"
+149,0,Ses04F_script01_1_F,frustration,"I don't want a diagram.  He thinks he's coming back, Chris."
+149,1,Ses04F_script01_1_F,anger,You marry that girl.  You're pronouncing him dead.  Now what happens to your father?  Do you know because I don't?
+149,2,Ses04F_script01_1_M,neutral,Alright then mom.
+149,3,Ses04F_script01_1_F,neutral,Just give it some more thought.
+149,4,Ses04F_script01_1_M,anger,"I've given it three years of thought.  I hoped that if I waited, dad would forget about Larry"
+149,5,Ses04F_script01_1_M,frustration,"and everything would be happy and we would have a regular wedding.  But if that can't happen here, then I'll have to get out."
+149,6,Ses04F_script01_1_F,neutral,What the hell is this?
+149,7,Ses04F_script01_1_M,neutral,"I'll get out.  I'll get married and live someplace else, maybe New York."
+149,8,Ses04F_script01_1_F,anger,Are you crazy?
+150,0,Ses05M_script01_1b_F,neutral,"Now, you can go on with this if you know where to go, but I don't know where to go."
+150,1,Ses05M_script01_1b_M,frustration,"I don't know why it is but every time I reach out for something that I want, I have to pull back because it might hurt somebody else, my whole bloody life, time after time, after time."
+150,2,Ses05M_script01_1b_F,neutral,"Well, you're a considerate fella.  There's nothing wrong with that."
+150,3,Ses05M_script01_1b_M,anger,what to hell with that!
+150,4,Ses05M_script01_1b_F,neutral,Have you asked Annie yet?
+150,5,Ses05M_script01_1b_M,neutral,I wanted to get this settled first.
+150,6,Ses05M_script01_1b_F,neutral,"Well, how do you know she'll marry you?  Maybe she feels like your father does."
+150,7,Ses05M_script01_1b_M,neutral,"Well, if she does then that's the end of it.  But from her letters it seems like she's forgotten him."
+151,0,Ses04M_script02_2_F,neutral,Do you remember the first time we came to see it?
+151,1,Ses04M_script02_2_M,frustration,"uh, taking the car out of the gara- out of the garage."
+151,2,Ses04M_script02_2_M,frustration,Uh.
+151,3,Ses04M_script02_2_F,sadness,"It was about four years ago, right after we got married.  We thought I was pregnant and we had a bottle of champagne but no glasses.  You asked me to dance.  So we took off our shoes and you popped the cork."
+151,4,Ses04M_script02_2_F,neutral,"And while we were dancing, you said the softest, most intimate things to me, right into my ear so that I could feel them as much as hear them.  And I remember thinking this is it.  At last, at last I'm as happy as I'm supposed to be."
+151,5,Ses04M_script02_2_M,neutral,"Wait a minute, I've got it."
+151,6,Ses04M_script02_2_F,sadness,Dancing barefoot in the sand; drinking champagne from the bottle.
+151,7,Ses04M_script02_2_M,neutral,"It was in the car, right?  Driving past the Knickerbocker Liquor Locker?  You said let's get some champagne and I said times a wasting or something like that.  Right?  That's it, right?  You want this to be like the other time.  That's it.  Of course."
+152,0,Ses04F_impro01_F,frustration,I have done everything everyone in this entire place has told me to do.  I've been here for over an hour.  They make me wait in line.  Every single time I start over again.
+152,1,Ses04F_impro01_M,frustration,Ma'am I can't help you.  Do you understand?
+152,2,Ses04F_impro01_F,frustration,I have a life.  I have things to do.  I have places to go.  Can you not just put this through please?
+152,3,Ses04F_impro01_M,anger,I've got a life too ma'am
+152,4,Ses04F_impro01_M,frustration,and I got to - i got to work here all day long.  Okay.  I've got to deal with you people all day.
+152,5,Ses04F_impro01_M,frustration,So what I need you to do is I need you to fill out this form correctly and go to the back of the line.
+152,6,Ses04F_impro01_F,frustration,"Okay, that's nice. That's nice but I have done everything you people have told me to do. I don't understand why you can't just help me get this done.  It's simple, right?  License.  I need it. Can we just do this please?"
+152,7,Ses04F_impro01_M,anger,There's nothing I can do for you.  Do you understand that?  Nothing.
+153,0,Ses05F_script02_2_M,frustration,"Okay, I been trying to work this backwards but I can't seem to pinpoint a moment when we took a turn for the worst here."
+153,1,Ses05F_script02_2_M,neutral,"When you are on the phone with Marge, everything was fine.  Dinner was okay.  Doing the dishes was no problem. Let's see, I took a shower and you were watching the news and you said the grunions are running tonight and I said, great, let's go I am feeling lucky."
+153,2,Ses05F_script02_2_M,neutral,"Right, so I am putting on my jacket and putting up the animals and pulling the car out of the garage."
+153,3,Ses05F_script02_2_F,sadness,"Augie, do you remember the first time we came to see it?  It was about four years ago right after we got married and we thought I was pregnant."
+153,4,Ses05F_script02_2_F,sadness,"We had a bottle of champagne but no glasses and you ask me to dance so we took off our shoes and while we were dancing, you said the most intimate things right in my ears so I could feel them as much as hear them."
+153,5,Ses05F_script02_2_F,happiness,"And I remember thinking, Finally, finally.  I am as happy as I am supposed to be."
+153,6,Ses05F_script02_2_M,neutral,"Wait a minute, I got it."
+153,7,Ses05F_script02_2_F,sadness,"Dancing barefoot in the sand, drinking champagne from the bottle."
+154,0,Ses02F_script01_1_F,neutral,I ignore what I gotta ignore.  The girl is Larry's girl.
+154,1,Ses02F_script01_1_M,anger,She's not Larry's girl.
+154,2,Ses02F_script01_1_F,frustration,"From your father's point of view, he isn't dead.  And you've no right to take his girl."
+154,3,Ses02F_script01_1_F,frustration,"And you can go on from there if you know where to go, but I don't know where to go.  See, I don't know.  Now what can I do for you?"
+154,4,Ses02F_script01_1_M,frustration,"I don't know why, but, every time I reach out for something that I want, I have to pull back 'cause someone else will suffer.  My whole bloody life.  Time after time after time."
+154,5,Ses02F_script01_1_F,neutral,You're a considerate fellow.  There's nothing wrong with that.
+154,6,Ses02F_script01_1_M,anger,To hell with that.
+154,7,Ses02F_script01_1_F,neutral,[BREATHING] Have you asked Annie yet?
+154,8,Ses02F_script01_1_M,neutral,I wanted to get this settled first.
+155,0,Ses05M_script02_1_M,neutral,"How could we have forgotten it? Well, I hope the moon stays out.  I wonder, do they always run during a full moon?  I can't remember, was the moon full last year, do you remember?"
+155,1,Ses05M_script02_1_F,neutral,Yes.
+155,2,Ses05M_script02_1_M,neutral,"Are you cold?  Do you want my jacket?  We should have brought the blanket, our blanket.  Oh, this is great.  I didn't even think to bring a six pack.  Oh, a six pack would be just the ticket right about now."
+155,3,Ses05M_script02_1_M,neutral,"I can't believe I forgot.I'm like a little kid.  I'm surprised I made it out of the house with my fly zipped. Oh, [LAUGHTER]"
+155,4,Ses05M_script02_1_M,neutral,"Oh, I wonder if they can hear me or if they can feel the vibrations when we move around in the sand. or something"
+155,5,Ses05M_script02_1_F,neutral,I'm cold.
+155,6,Ses05M_script02_1_M,neutral,Do you want my jacket?
+155,7,Ses05M_script02_1_F,neutral,It's after eleven.  Let's just go home.
+155,8,Ses05M_script02_1_M,neutral,"Are you kidding?  We just got here, we'd miss it.  What's the point of coming all the way out here if we're just going to turn around and go home?"
+156,0,Ses01M_impro07_F,neutral,Oh. That is incredible. Is it--
+156,1,Ses01M_impro07_F,neutral,"do they have a--is it a co-ed softball team?  I mean... Really? You know, I didn't even know that they have that."
+156,2,Ses01M_impro07_M,neutral,No it's all boys. All boys' softball team.
+156,3,Ses01M_impro07_M,happiness,They do it's--believe me it's huge.
+156,4,Ses01M_impro07_F,neutral,Who do you play? Like do--are you like... nationally ranked?
+156,5,Ses01M_impro07_M,neutral,I just got into it. I just kind of fell into it. Literally I was walking around and...
+156,6,Ses01M_impro07_F,neutral,That is unbelievable.
+156,7,Ses01M_impro07_M,happiness,It's pretty wild.
+156,8,Ses01M_impro07_F,neutral,I would put that right up there with--ping-pong.
+157,0,Ses01F_script02_2_M,neutral,It's not champagne.
+157,1,Ses01F_script02_2_F,happiness,I guess we don't need glasses.
+157,2,Ses01F_script02_2_M,happiness,[BREATHING]
+157,3,Ses01F_script02_2_M,neutral,Do you want to go home?  Are you cold?
+157,4,Ses01F_script02_2_F,happiness,I'm beginning to think this might be the right spot after all.
+157,5,Ses01F_script02_2_F,sadness,"Augie, I'm sorry."
+157,6,Ses01F_script02_2_M,neutral,"Shh.  If we're very quiet, the fish might come."
+157,7,Ses01F_script02_2_F,neutral,Or not.
+157,8,Ses01F_script02_2_M,happiness,Or not.
+158,0,Ses03F_script03_2_M,anger,"You know, you're a vile, ill-tempered, wicked little beast and I hope that I never see you again as long as I live."
+158,1,Ses03F_script03_2_F,anger,This is the end. Do you hear? The end. Now and forever.
+158,2,Ses03F_script03_2_M,anger,"No, you're not going out like this. No you're not."
+158,3,Ses03F_script03_2_F,anger,"Oh, yes I am."
+158,4,Ses03F_script03_2_F,anger,"Yes I am. Let go of me. I hate you and I loath you. God, I can't believe I just finally realized how you are. I am never marry you. Never. Never, never, never. I would rather die in torment."
+158,5,Ses03F_script03_2_M,anger,"Oh, shut up. Shut up. Shut up."
+158,6,Ses03F_script03_2_M,anger,"I wouldn't marry you again if you came back crawling to me on your hands and knees because you're vile. You're a mean, evil-minded little vampire and I hope to God I never set eyes on you again."
+158,7,Ses03F_script03_2_F,anger,"Beast or brute cad, swine beast beast brute."
+159,0,Ses01M_script03_1_F,neutral,Hmm.
+159,1,Ses01M_script03_1_M,neutral,"Let's pity the poor philosophers, huh?  Let's enjoy the party for as long as we can, okay?  Let's blow trumpets and squeakers and sit like small idiotic school children. [LAUGHTER]"
+159,2,Ses01M_script03_1_F,neutral,Ah.
+159,3,Ses01M_script03_1_M,neutral,"Come here darling, kiss me"
+159,4,Ses01M_script03_1_F,neutral,"Oh, Elliot.  Worms don't pop."
+159,5,Ses01M_script03_1_M,happiness,before your body rots and worms pop out of your eye sockets.
+159,6,Ses01M_script03_1_M,happiness,"See, you know I don't care what you do.  You could paint yourself green and run naked to the Place Vendome."
+159,7,Ses01M_script03_1_F,neutral,"Oh, thank you darling."
+160,0,Ses04F_script02_1_M,neutral,Whose is it?
+160,1,Ses04F_script02_1_F,neutral,It's ours.  It's mine too.
+160,2,Ses04F_script02_1_M,frustration,Well sure.
+160,3,Ses04F_script02_1_F,neutral,You kept saying my flashlight as if it somehow is just yours.  How's that supposed to make me feel?
+160,4,Ses04F_script02_1_M,frustration,"No of course our flashlight, yours and mine, mi flashlight es su flashlight naturally.  How could we not think to bring it?"
+160,5,Ses04F_script02_1_M,neutral,I hope the moon stays out.  I wonder do they always run during a full moon.  I can't remember if it was full last year.  Remember?
+160,6,Ses04F_script02_1_F,neutral,Yes.
+160,7,Ses04F_script02_1_M,neutral,"Are you cold?  Do you want my jacket?  We should have brought the blanket, our blanket."
+160,8,Ses04F_script02_1_M,happiness,"Ah, this is great, isn't it?  I didn't even think to bring a six-pack.  A six-pack would be just the ticket right about now."
+161,0,Ses05M_script02_2_F,frustration,We We don't ever.  Have we ever?
+161,1,Ses05M_script02_2_M,frustration,We've missed them twice.  That's hardly ever.
+161,2,Ses05M_script02_2_F,anger,"Twice is every time we've tried, that's ever"
+161,3,Ses05M_script02_2_M,neutral,"Well, we'll see them this year."
+161,4,Ses05M_script02_2_F,anger,"No, we won't.  It's like waiting up for Santa Clause or something.  I feel like as though my whole life is going to be standing on the beach waiting with my eyes opened expectantly, my hands clasped neatly in front of me, waiting for fish to show up.  And the fish will not show up."
+161,5,Ses05M_script02_2_M,frustration,"Okey, They're just fish.  It's nothing to get traumatized over."
+161,6,Ses05M_script02_2_F,frustration,You don't understand anything I am saying.
+161,7,Ses05M_script02_2_M,frustration,"No, of course not."
+162,0,Ses05M_impro06_M,sadness,"you know, sometimes you think you want to make that phone call, or you think you want to tell somebody something, or something like that.  Do you know what I mean?  Like that's -- he was the person that I did that with.  You know, like, that's the person who I needed to call to tell things to all the time."
+162,1,Ses05M_impro06_F,sadness,You guys have been-
+162,2,Ses05M_impro06_M,sadness,"And now I don't have that person anymore, you know.  And it's -- -- it's just, you."
+162,3,Ses05M_impro06_F,neutral,Yeah.
+162,4,Ses05M_impro06_M,sadness,"You think that things get easier, you know, as you as you get older and you -"
+162,5,Ses05M_impro06_M,sadness,"and it just gets worse.  It just gets worse, everything is bad all the time; people die, your friends die, family dies, your best friends die. it's-"
+162,6,Ses05M_impro06_F,sadness,I'm sorry. I-
+162,7,Ses05M_impro06_M,sadness,"You always think, you know when you were- you know when you were a little kid and you think something is gonna happen, like, it will all be better when I am older, you know?"
+162,8,Ses05M_impro06_M,neutral,"And I don't know why people don't just tell you off the bat that it's just gonna suck anyway.  You know, like, what's the point?"
+163,0,Ses05F_impro07_F,neutral,oh yeah.
+163,1,Ses05F_impro07_M,neutral,You're a wild and crazy woman.
+163,2,Ses05F_impro07_F,neutral,"[LAUGHTER] Oh, it'll be awesome, that's for sure."
+163,3,Ses05F_impro07_M,neutral,"Uh huh, it will be awesome."
+163,4,Ses05F_impro07_F,neutral,Better than if I'd picked up and moved to Boston.
+163,5,Ses05F_impro07_M,neutral,"Oh, man, I'd have been so mad at you.  I'd have been so mad at you, because, what could I have done,"
+163,6,Ses05F_impro07_M,neutral,"living near the U.S.C. campus by myself, not going to school there. just really pathetic and sad."
+163,7,Ses05F_impro07_F,neutral,[LAUGHTER] by yourself.
+164,0,Ses05M_script01_2_F,neutral,"Nobody in this house dares takes her faith away, Joe.  Strangers might, but not his father, not his brother."
+164,1,Ses05M_script01_2_M,frustration,"Well, what do you want me to do about it?  What do you want?"
+164,2,Ses05M_script01_2_F,frustration,"I want you to pretend like he's coming back.  Both of you, don't think I haven't noticed you and Chris since she's gotten here.  I don't want any nonsense."
+164,3,Ses05M_script01_2_M,frustration,But Kate?
+164,4,Ses05M_script01_2_F,frustration,"No, because if she- he's not coming back then I'll kill myself. Laugh!  Laugh at me!"
+164,5,Ses05M_script01_2_F,neutral,But why did that happen the very night she came back?  She goes to sleep in his bed and his memorial breaks in pieces.  Look at it.
+164,6,Ses05M_script01_2_M,frustration,Calm yourself.
+164,7,Ses05M_script01_2_F,neutral,"Believe with me, Joe.  I can't stand alone."
+164,8,Ses05M_script01_2_M,frustration,Calm yourself.
+165,0,Ses05M_script02_1_F,neutral,There is no point in coming out here.
+165,1,Ses05M_script02_1_M,neutral,Right.
+165,2,Ses05M_script02_1_F,neutral,That's my point.
+165,3,Ses05M_script02_1_M,neutral,"That's my point, too."
+165,4,Ses05M_script02_1_F,neutral,So let's go.
+165,5,Ses05M_script02_1_M,neutral,"Oh, no, no, no.  no That's not my point.  My point is what's the point coming out here if we're just going to leave?  Don't you want to see it?"
+165,6,Ses05M_script02_1_F,neutral,Not particularly.
+165,7,Ses05M_script02_1_M,neutral,Why not?
+165,8,Ses05M_script02_1_F,neutral,I just don't.
+166,0,Ses04F_impro03_F,happiness,Very Midsummer Night's wedding.
+166,1,Ses04F_impro03_M,neutral,"Right.  Nice.  That's great.  I hope while we're up there nobody gets attacked by any, like, bears or wolves or anything."
+166,2,Ses04F_impro03_F,neutral,Thanks. Thanks a lot.  You're really helping the Excitement here. I hope no one dies.
+166,3,Ses04F_impro03_M,neutral,"Well no, I am- I'm trying to be positive"
+166,4,Ses04F_impro03_M,neutral,I'm trying to be positive.  I'm trying to say I hope that doesn't happen.
+166,5,Ses04F_impro03_F,neutral,"Okey Well- well-, you know what?  I was hoping that you would help"
+166,6,Ses04F_impro03_M,neutral,We're going to be in the middle of the wilderness. These kind of things happen
+166,7,Ses04F_impro03_F,neutral,plan everything.  So then you can make sure that no one gets attacked by bears.
+166,8,Ses04F_impro03_M,neutral,Yeah.  I'll help plan.
+166,9,Ses04F_impro03_F,neutral,Yeah?
+166,10,Ses04F_impro03_M,neutral,Yeah.
+167,0,Ses05M_script01_1_F,frustration,"Well, I just don't see why it has to be Annie."
+167,1,Ses05M_script01_1_M,frustration,Because it is.
+167,2,Ses05M_script01_1_F,frustration,"Well, that's a good reason.  But that doesn't mean anything at all.  I mean, you haven't seen her in five years."
+167,3,Ses05M_script01_1_M,frustration,"I know her best, all right?  I don't know.  I grew up next to her.  When I think of somebody for my wife these days, I think of Annie.  What do you want, a diagram?"
+167,4,Ses05M_script01_1_F,frustration,"No.  I don't want a -- look, your father thinks he's coming back, Chris.  You marry that girl and you're pronouncing him dead.  Now, what's going to happen to your father; do you know?  Because, I don't."
+167,5,Ses05M_script01_1_M,neutral,"All right then, mom."
+167,6,Ses05M_script01_1_F,neutral,Just give it some more thought.
+167,7,Ses05M_script01_1_M,anger,"I've given it three years of thought.  I hoped that if I'd waited, dad would have forgotten about it by now.  And we could have like a normal wedding and everybody happy."
+168,0,Ses01F_script02_2_M,neutral,"Are we talking about the same thing, here?"
+168,1,Ses01F_script02_2_F,neutral,"I'm sorry, it's just fish to me."
+168,2,Ses01F_script02_2_M,neutral,"Carla, can I ask you something?  Now, don't take this the wrong way, but are you on your period?"
+168,3,Ses01F_script02_2_F,anger,"Don't ask me that.  I hate it when you ask me that, you always ask me that.  It's insulting."
+168,4,Ses01F_script02_2_M,frustration,"Well then, what's bugging you?"
+168,5,Ses01F_script02_2_F,frustration,We just have different ideas of what this night is supposed to look like.
+168,6,Ses01F_script02_2_M,frustration,"There is nothing to it; we come down here, the fish arrive, they flop around, they do their fish thing.  We go ooh, ah, look at the fish and we go home."
+168,7,Ses01F_script02_2_F,anger,"For God- Grow up, Augie.  The fish are not going to arrive."
+168,8,Ses01F_script02_2_M,frustration,Why not?
+168,9,Ses01F_script02_2_F,anger,Because they never do.  Have they...Have they ever?
+169,0,Ses03F_impro04_M,neutral,Maybe you could start teaching. I don't know.
+169,1,Ses03F_impro04_F,sadness,"Yeah, I guess I could."
+169,2,Ses03F_impro04_M,neutral,"Go back to school. You know? Another three more years, get your master's."
+169,3,Ses03F_impro04_F,sadness,Yeah
+169,4,Ses03F_impro04_M,neutral,"Close to thirty. Oof, it's going to be tough."
+169,5,Ses03F_impro04_F,neutral,Thanks.
+169,6,Ses03F_impro04_M,neutral,[LAUGHTER]
+169,7,Ses03F_impro04_F,frustration,[BREATHING]
+170,0,Ses02M_script02_1_F,frustration,There is no point in coming down here.
+170,1,Ses02M_script02_1_M,neutral,Right.
+170,2,Ses02M_script02_1_F,frustration,That's my point.
+170,3,Ses02M_script02_1_M,neutral,That's my point too.
+170,4,Ses02M_script02_1_F,frustration,So let's go.
+170,5,Ses02M_script02_1_M,neutral,No. No. That's not my point. The point is there is no point in coming down here if we just leave. Don't you want to see it?
+170,6,Ses02M_script02_1_F,neutral,Not particularly.
+170,7,Ses02M_script02_1_M,neutral,Why not?
+170,8,Ses02M_script02_1_F,frustration,"I don't, it's just stupid."
+171,0,Ses05M_script01_3_M,sadness,"I mean that exactly, anymore selfish -- just a little bit more selfish and they would have been here today. And it gave me an idea as I was watching them all go down."
+171,1,Ses05M_script01_3_M,neutral,"Everything was being destroyed see, but I felt like something new was being created at the same time.  Like it kind of -- responsibility.  You know, man to man.  Do you understand what I'm saying?"
+171,2,Ses05M_script01_3_M,neutral,"And and to see that again, to to bring that back on the earth again, like- like a monument that that would stand behind these men and and and it would make a difference to them."
+171,3,Ses05M_script01_3_M,sadness,It was and then I went home.  And it was incredible.  It didn't have any meaning there.
+171,4,Ses05M_script01_3_M,neutral,"I mean, the whole thing was like some kind of bus accident to them."
+171,5,Ses05M_script01_3_M,neutral,So I went back to work for my dad and that whole rat race again.
+171,6,Ses05M_script01_3_M,sadness,"I felt what you said, ashamed somehow because nobody had changed at all."
+171,7,Ses05M_script01_3_M,frustration,"It seemed to make suckers out of so many guys.  And I-I felt wrong to be alive; to to open that bank book, to to drive that car, the new car, and look at that new refrigerator. I mean,"
+171,8,Ses05M_script01_3_M,frustration,"you can take those things out of the war, but if you're gonna drive that car you've got to know that that came from the love a man can have from a man. And you've got to be a little bit better because of that.  Because if you're not, then it's all just loot and there's blood on it and I didn't want any of it."
+172,0,Ses01M_script03_2_M,neutral,You can hardly call three glasses of liquor in a whole evening going on and on and on.
+172,1,Ses01M_script03_2_F,neutral,"I just, I just think it's becoming a habit with you."
+172,2,Ses01M_script03_2_M,neutral,"Hmm.  Well, you needn't be so grand just because you don't happen to want any at the moment, okay?"
+172,3,Ses01M_script03_2_F,neutral,Do be quiet.
+172,4,Ses01M_script03_2_M,frustration,"Really, Amanda."
+172,5,Ses01M_script03_2_F,anger,"Don't be stupid, what?"
+172,6,Ses01M_script03_2_M,frustration,Nothing.
+172,7,Ses01M_script03_2_M,neutral,Are you going out somewhere dear?
+172,8,Ses01M_script03_2_F,neutral,"No, darling I'm just making myself fascinating for you."
+173,0,Ses04M_impro02_F,frustration,Then why do you have to go a year at all?
+173,1,Ses04M_impro02_M,frustration,Because I've already agreed to that.
+173,2,Ses04M_impro02_F,frustration,Well unagree.  Tell them that you can't leave right now.  I can't do this by myself.  I can't do this without you.
+173,3,Ses04M_impro02_M,frustration,"Yes, you can.  Yes, you can.  You know you can.  You're a strong person."
+173,4,Ses04M_impro02_F,neutral,This is supposed to be a partnership.  We're supposed to do this together. I'm not supposed to be left here to do this by myself while you leave.
+173,5,Ses04M_impro02_M,frustration,It is. It is. It is. It is. I'm going to write you every day.
+173,6,Ses04M_impro02_F,neutral,"What am I supposed to do, read your letters?"
+173,7,Ses04M_impro02_M,frustration,What else can we do?  I -- we don't have a choice in this.  Do you understand?  You can't come with me and I can't stay here.  That's all there is to it.
+173,8,Ses04M_impro02_F,frustration,"There has to be something.  I mean, we can't just live with this.  It's not -- it just won't work this way."
+174,0,Ses01M_impro06_F,neutral,That's a long time.
+174,1,Ses01M_impro06_M,sadness,Yeah.
+174,2,Ses01M_impro06_F,neutral,It's good that you were there.
+174,3,Ses01M_impro06_M,sadness,"Yeah, I'm glad I was there. Glad I- glad I got to be there."
+174,4,Ses01M_impro06_M,sadness,"So weird,"
+174,5,Ses01M_impro06_F,neutral,Yeah.
+174,6,Ses01M_impro06_M,sadness,"like I can't...it's like you know it's like ""pinch me"" it's like I can't believe like I'm dealing with this, you know."
+174,7,Ses01M_impro06_F,neutral,Are there things you wish you'd done differently?
+175,0,Ses01M_impro05_F,neutral,I've been college educated.
+175,1,Ses01M_impro05_F,neutral,I speak your language.
+175,2,Ses01M_impro05_M,anger,Are you insinuating that I don't have a college education and that- for some reason that makes you a better person than I am?
+175,3,Ses01M_impro05_M,anger,"Listen, shut your smug mouth, okay?  I don't need that."
+175,4,Ses01M_impro05_F,neutral,I'm just saying you don't need to talk to me like I-
+175,5,Ses01M_impro05_M,anger,I've been sitting here for four hours.
+175,6,Ses01M_impro05_F,frustration,I'm not a child.
+175,7,Ses01M_impro05_F,neutral,I've been here for sixteen.
+175,8,Ses01M_impro05_M,anger,You people have just been tossing me around like a used hanky.
+176,0,Ses04M_script02_2_F,neutral,"This is just this.  I mean, it includes a lot and everything, but it's just not, you know, something else.  Do you have any idea what I'm trying to say?"
+176,1,Ses04M_script02_2_M,frustration,I'm doing the best I can.
+176,2,Ses04M_script02_2_F,frustration,"I know you are, Augie.  Really, I do.  I know you meant for this to be special and nice and it's the full moon and the sand and everything.  But I just couldn't help thinking about being somewhere else."
+176,3,Ses04M_script02_2_M,neutral,"Maybe if you were with somebody else, too, huh?"
+176,4,Ses04M_script02_2_F,sadness,I didn't say that.
+176,5,Ses04M_script02_2_M,sadness,"No, I know.  But still.  I know I don't make you happy."
+176,6,Ses04M_script02_2_F,neutral,"For heaven's sake, whatever I'm doing, I'd rather be doing it with you."
+176,7,Ses04M_script02_2_M,neutral,Yeah?
+177,0,Ses02M_impro08_M,neutral,it's a different number and everything
+177,1,Ses02M_impro08_M,neutral,Yeah. yeah.
+177,2,Ses02M_impro08_M,neutral,"Yes, um but  for- for that- for that charge we will need you to send something in but we can get you processed immediately for this, for this, for this new card. It still goes to the same address, right?"
+177,3,Ses02M_impro08_F,neutral,"Yes, absolutely."
+177,4,Ses02M_impro08_M,neutral,Okay. All right. Then we'll get it sent out there. And
+177,5,Ses02M_impro08_F,happiness,Great.
+177,6,Ses02M_impro08_M,neutral,And you know just I mean be careful in the future if um
+177,7,Ses02M_impro08_F,happiness,Yeah.
+177,8,Ses02M_impro08_M,neutral,if you're ever online or anything like that I mean just make sure it's a secure site and
+178,0,Ses05F_impro06_F,sadness,yeah.
+178,1,Ses05F_impro06_M,neutral,That's the best way to put it.
+178,2,Ses05F_impro06_F,sadness,It's hard to say good-bye.
+178,3,Ses05F_impro06_M,neutral,Absolutely.
+178,4,Ses05F_impro06_F,sadness,[BREATHING]
+178,5,Ses05F_impro06_M,neutral,"Do you know what, if it was me that died, I'd really want you to be crying and being really upset too any way. So, I think you should definitely do this, because it's trying what it's supposed to be."
+178,6,Ses05F_impro06_F,neutral,[LAUGHTER]
+178,7,Ses05F_impro06_F,sadness,yeah yeah.
+179,0,Ses04F_impro07_F,neutral,I know.
+179,1,Ses04F_impro07_M,neutral,"I don't know are you, like, I don't know.  Are you, like, available or anything?"
+179,2,Ses04F_impro07_F,neutral,[LAUGHTER] Are you asking me on a date?
+179,3,Ses04F_impro07_M,neutral,"Well I mean I don't know.  It's like you know I kind of had a crush on you throughout high school and, like"
+179,4,Ses04F_impro07_M,neutral,"I don't know I just thought that, you know, maybe we could, you know, I don't know.  It's like, you know, just test the waters anyway.  I don't see what the problem is."
+179,5,Ses04F_impro07_F,neutral,What- what did you have in mind?
+179,6,Ses04F_impro07_M,neutral,"Movies- movie, we'll go to a movie and a dinner and- and"
+179,7,Ses04F_impro07_M,neutral,"actually, you know, there's this- there's this really cool restaurant, um, I don't know if you-  it's Red Lobster.  It's like down on"
+179,8,Ses04F_impro07_F,neutral,[LAUGHTER]
+179,9,Ses04F_impro07_M,neutral,Vermont.
+179,10,Ses04F_impro07_F,neutral,You just did not ask me on a date to Red Lobster.
+179,11,Ses04F_impro07_M,neutral,"Wait, you've been there before?"
+179,12,Ses04F_impro07_F,neutral,On occasion I've heard of it.
+179,13,Ses04F_impro07_M,neutral,"Oh, so well then you know that it's awesome."
+179,14,Ses04F_impro07_F,neutral,Yeah.  Totally.
+179,15,Ses04F_impro07_M,neutral,"Right, so we'll go there and then- and then we'll get some ice cream and maybe we'll go putt-putt golfing."
+179,16,Ses04F_impro07_F,neutral,I am totally down with the ice cream.
+180,0,Ses04F_impro03_M,neutral,"Yeah.  I know but it's, you know, maybe we'll get married.  I don't know.  Should be pretty-"
+180,1,Ses04F_impro03_F,neutral,You really like
+180,2,Ses04F_impro03_M,neutral,"I don't know.  Okay.  I mean gosh.  There's just- look there's a lot of pressure in getting married, okay."
+180,3,Ses04F_impro03_F,neutral,What?  She could be just as excited as I am right now.
+180,4,Ses04F_impro03_F,neutral,You could make her that excited.  You really like her.  You guys have been together for a really long time now.
+180,5,Ses04F_impro03_M,neutral,"Oh, I've made her that excited."
+180,6,Ses04F_impro03_F,neutral,[LAUGHTER] That's more than I needed to know.
+180,7,Ses04F_impro03_M,neutral,What?  You've heard me talk about it before.
+180,8,Ses04F_impro03_F,neutral,[laughter]
+180,9,Ses04F_impro03_M,neutral,I'm a monster in bed.
+181,0,Ses05M_script03_1_F,neutral,It was bound to happen sooner or later.
+181,1,Ses05M_script03_1_M,neutral,Hello?  Hello?  What?  Wrong number.
+181,2,Ses05M_script03_1_F,neutral,"Oh, it sent shivers up my spine."
+181,3,Ses05M_script03_1_M,neutral,"Oh, what shall we do if they suddenly walk in on us."
+181,4,Ses05M_script03_1_F,neutral,Behave exquisitely.
+181,5,Ses05M_script03_1_M,neutral,With the worst- with the most perfect poise?
+181,6,Ses05M_script03_1_F,neutral,I shall probably do a Court Curtsey.
+181,7,Ses05M_script03_1_M,neutral,"Uhh, It's amazing how once you feel--"
+181,8,Ses05M_script03_1_M,neutral,"things that ought to matter most dreadfully don't matter at all when one's happy, do they?"
+182,0,Ses03F_script02_2_F,frustration,I want things to turn out the way that they're supposed to be.
+182,1,Ses03F_script02_2_M,frustration,"Jesus, welcome to the human race."
+182,2,Ses03F_script02_2_M,neutral,Did you think this is how I thought it was going to turn out? Do you think I had some great fantasy down the line? That four years down the line that we'd come to the beach and argue with each other over fish?
+182,3,Ses03F_script02_2_M,frustration,"No, I was just like you. I thought it was going to be all peaches and roses and everything great. And the wind in our hair and the sand in our toes, and the fish will always come and the bills will pay themselves, and we'll have three big fat rosy kids. And oh God."
+182,4,Ses03F_script02_2_M,frustration,"You know what you get? The jokes on us, baby. Because do you know what you get? Huh? Carla? Do you know what you get? You get this."
+182,5,Ses03F_script02_2_F,frustration,This what? What is this? This is nothing.
+182,6,Ses03F_script02_2_M,frustration,"Yes, it is."
+182,7,Ses03F_script02_2_F,anger,"No, it's not. It's standing on the beach waiting and fighting."
+182,8,Ses03F_script02_2_M,frustration,Right.
+182,9,Ses03F_script02_2_F,sadness,Things have never turned out anything the way that I thought they would be.
+183,0,Ses01F_script01_1_F,frustration,"You're a considerate fellow, there's nothing wrong in that."
+183,1,Ses01F_script01_1_M,frustration,To hell with that.
+183,2,Ses01F_script01_1_F,frustration,I just don't see why.  Have you asked Annie yet?
+183,3,Ses01F_script01_1_M,neutral,I wanted to get this settled first.
+183,4,Ses01F_script01_1_F,frustration,Well how do you know she's going to marry you?  Maybe she feels the same way your father does.
+183,5,Ses01F_script01_1_M,neutral,"Well if she does, then that's it.  That's the end of it.  From her letters, though, I think she's pretty much forgotten him."
+183,6,Ses01F_script01_1_M,neutral,And then we'll thrash it out with father.  Okay Mom?  Don't avoid me.
+183,7,Ses01F_script01_1_F,frustration,The trouble is you don't see enough women.  You never did.
+183,8,Ses01F_script01_1_M,frustration,So what.  I'm not fast with women.
+184,0,Ses01F_script01_1_F,frustration,Why does it have to be Annie?
+184,1,Ses01F_script01_1_M,frustration,Because it is.
+184,2,Ses01F_script01_1_F,frustration,Oh that's a great reason.  It's no reason at all.
+184,3,Ses01F_script01_1_M,frustration,I don't know.
+184,4,Ses01F_script01_1_F,frustration,"You haven't seen her since you went away to war, it's been five years."
+184,5,Ses01F_script01_1_M,frustration,"I can't help it, I know her best.  I was brought up next door to her, you know?  These years when I think of someone for my wife, I think of Annie."
+184,6,Ses01F_script01_1_M,frustration,"Mom, what do you want?  A diagram?"
+184,7,Ses01F_script01_1_F,frustration,I don't want a diagram.
+184,8,Ses01F_script01_1_F,frustration,He thinks he's coming back Chris.
+185,0,Ses04M_script01_1_F,neutral,How do you know she'll marry you?  Maybe she feels the same way father does.
+185,1,Ses04M_script01_1_M,neutral,"Well if she does, then that's the end of it.  From her letters, I think she's forgotten him.  We'll find out.  Then we'll thrash it out with dad. Right, mom?  Don't avoid me."
+185,2,Ses04M_script01_1_F,neutral,"The trouble is, you don't see enough women.  You never did."
+185,3,Ses04M_script01_1_M,neutral,So what?  I'm not fast with women.
+185,4,Ses04M_script01_1_F,anger,I don't see why it has to be Annie.
+185,5,Ses04M_script01_1_M,frustration,Because it is.
+185,6,Ses04M_script01_1_F,neutral,"Well that's a good answer, but it don't answer anything.  He thinks he's coming back, Chris.  You marry that girl, you're pronouncing him dead.  Now what happens to your father?  Do you know?  Because I don't."
+185,7,Ses04M_script01_1_M,frustration,Line?
+185,8,Ses04M_script01_1_F,frustration,"Alright, then, mom."
+186,0,Ses01F_script01_2_F,neutral,Why did he invite her here?
+186,1,Ses01F_script01_2_M,neutral,Why does that bother you?
+186,2,Ses01F_script01_2_F,neutral,"She's been in New York three and an half years, why all of a sudden?"
+186,3,Ses01F_script01_2_M,neutral,Well maybe...maybe he just wanted to see her.
+186,4,Ses01F_script01_2_F,neutral,Nobody comes seven hundred miles just to see.
+186,5,Ses01F_script01_2_M,neutral,"What do you mean?  You know he lived next door to the girl his whole life, why wouldn't he want to see her?"
+186,6,Ses01F_script01_2_M,frustration,[BREATHING] You don't look at me like that.  He didn't tell me anything more than he told you.
+186,7,Ses01F_script01_2_F,anger,He's not going to marry her.
+186,8,Ses01F_script01_2_M,neutral,How do you know he's even thinking about it?
+187,0,Ses05F_impro06_M,sadness,"Yes of course, of course."
+187,1,Ses05F_impro06_F,sadness,"It must be really, really hard to lose a child."
+187,2,Ses05F_impro06_M,neutral,Was he very close to his family?
+187,3,Ses05F_impro06_F,sadness,"Yeah.  And they were really supportive, like through the whole process, but-"
+187,4,Ses05F_impro06_M,neutral,yeah.
+187,5,Ses05F_impro06_F,sadness,[BREATHING]
+187,6,Ses05F_impro06_F,sadness,I can't imagine what his- what his parents are going through.
+187,7,Ses05F_impro06_M,sadness,Of course not.  You have no idea what it's like to lose a kid.
+188,0,Ses02F_impro08_M,frustration,"Well, yeah, I mean I heard there was like these package deals and that maybe I could get a like a hotel or something like that. and-"
+188,1,Ses02F_impro08_F,neutral,"Oh, yeah, absolutely.  You know, and especially because you've been waiting so long and I know that, um, you've been having a difficult time."
+188,2,Ses02F_impro08_F,neutral,"I want to definitely give you our special package today, which um is usually only for valued customers who have a record of having previous,"
+188,3,Ses02F_impro08_F,neutral,"um lots of purchases, but we're gonna go ahead and give that to you anyway. uh,  Just to make sure that you're happy with your service here."
+188,4,Ses02F_impro08_M,neutral,You- You can do that--You can do that now? I don't have to get like transferred through or anything like that.
+188,5,Ses02F_impro08_F,neutral,Is that all right?
+188,6,Ses02F_impro08_F,neutral,"I can do that right now for you. No, absolutely.  I can take care of you all the way through to the end."
+188,7,Ses02F_impro08_F,neutral,All I'm going to need is your credit card number but just give me one moment. So-
+189,0,Ses03F_script01_1_M,frustration,"All right. All right. Just come on, sit down."
+189,1,Ses03F_script01_1_F,frustration,What?
+189,2,Ses03F_script01_1_M,neutral,"You know-you know why I asked Annie here, right?"
+189,3,Ses03F_script01_1_F,neutral,Why?
+189,4,Ses03F_script01_1_M,neutral,You know.
+189,5,Ses03F_script01_1_F,neutral,"Well, I have an idea, but go on, tell me, what's the story?"
+189,6,Ses03F_script01_1_M,neutral,I want to ask her to marry me.
+189,7,Ses03F_script01_1_F,neutral,"Well, that's only your business, Chris."
+189,8,Ses03F_script01_1_M,frustration,"Come on, you know that's not only my business."
+189,9,Ses03F_script01_1_F,frustration,"Well, it is. I mean, what do you want me to do? You're grown up; you know what's going on in your mind."
+189,10,Ses03F_script01_1_M,neutral,So it's all right. I'll just go ahead with it.
+190,0,Ses01M_script02_2_F,neutral,Are you kidding me?  For heaven sake Augie anything I'm doing I'd rather be doing it with you.
+190,1,Ses01M_script02_2_M,sadness,Yeah?
+190,2,Ses01M_script02_2_F,neutral,"Yes, don't be ridiculous.  Don't you know that?"
+190,3,Ses01M_script02_2_F,sadness,"You are the one who probably wishes he was with somebody else, someone who didn't take everything so seriously, someone who would enjoy yourself."
+190,4,Ses01M_script02_2_M,neutral,"Actually, you know what?  Now you mentioned that--no I don't."
+190,5,Ses01M_script02_2_F,neutral,So maybe we're in the wrong spot.  But we're with the right person.
+190,6,Ses01M_script02_2_M,neutral,"I don't know, just seemed like such a good spot to me."
+190,7,Ses01M_script02_2_M,neutral,We do have really good view of the moon from here though.
+190,8,Ses01M_script02_2_F,neutral,Oh I saw that.  Pretty isn't it. Big ol' white moon.
+190,9,Ses01M_script02_2_M,happiness,Look what we got here.
+191,0,Ses02M_impro04_M,frustration,"Yea, it says I'm stupid enough to be trying this long and not move on somewhere else."
+191,1,Ses02M_impro04_F,neutral,You are persistence. I mean that's important. that's
+191,2,Ses02M_impro04_M,frustration,"I mean, I can't- I can't be persistent forever, you know, you can't not have a job forever, you know, I've got- I've got to do something, I've got to make money and get food on the table."
+191,3,Ses02M_impro04_F,neutral,"Well, you're talented so keep that in mind, you know, you shouldn't give yourself too hard of a time."
+191,4,Ses02M_impro04_M,frustration,"I mean, maybe I'm not, you know. I don't have a job. Maybe - maybe I'm not as good as-as I thought I was and"
+191,5,Ses02M_impro04_M,frustration,I just got a whole skewed opinion on just how this is supposed to work out and
+191,6,Ses02M_impro04_F,sadness,I'm sorry.
+191,7,Ses02M_impro04_M,sadness,"I don't know, it's just not, I don't know - I don't know what to do really, you know, I'm just thinking"
+192,0,Ses03M_impro07_M,neutral,Oh my God the first minute I got it I sent it back in.
+192,1,Ses03M_impro07_F,happiness,All right.
+192,2,Ses03M_impro07_M,neutral,So...
+192,3,Ses03M_impro07_F,happiness,"This is so great, you know, because I gone fit on downtown so I'm going to be like right here.  I think I'm going to be living at City Lights downtown."
+192,4,Ses03M_impro07_M,neutral,This is so exciting.  This is like a new chapter in our lives.
+192,5,Ses03M_impro07_F,happiness,"Yeah, it really is."
+192,6,Ses03M_impro07_M,neutral,"We're doing what we want to do, then four years later we're going to be working professionals, making money, sipping martinis every day."
+192,7,Ses03M_impro07_F,neutral,God hopefully.
+192,8,Ses03M_impro07_F,neutral,Man I'm just so happy for you.  I just--
+193,0,Ses04M_impro03_F,neutral,She's going to let you have say in the wedding choices?  That's pretty impressive. Very forward-thinking woman. [LAUGHTER]
+193,1,Ses04M_impro03_M,happiness,"Well, I mean I just told her--Well I just said, you know, hey, these are my suggestions."
+193,2,Ses04M_impro03_F,neutral,And brown.
+193,3,Ses04M_impro03_M,happiness,All fruit and the color brown. Just that. That's all- that's my only request.
+193,4,Ses04M_impro03_F,happiness,This is why men don't plan weddings. [LAUGHTER]
+193,5,Ses04M_impro03_M,happiness,Yeah.  Well maybe--maybe you're right. Maybe there's something to that.
+193,6,Ses04M_impro03_F,neutral,All fruit and brown. [LAUGHTER]
+193,7,Ses04M_impro03_M,neutral,"So, um, anyway, do you want to order now?   So, um I mean--"
+194,0,Ses02M_impro03_F,neutral,Did you have a good ring? You better have had a good ring.
+194,1,Ses02M_impro03_M,happiness,"Sure. Oh, yes."
+194,2,Ses02M_impro03_F,neutral,Good. The ring makes all the difference.
+194,3,Ses02M_impro03_M,neutral,You know I had my mom come along maybe help me out a little bit because she's got good taste. but
+194,4,Ses02M_impro03_F,neutral,"Oh, that's awesome."
+194,5,Ses02M_impro03_M,neutral,"Yes, well, Thanks, thanks. Thank you. yeah"
+194,6,Ses02M_impro03_F,neutral,"Yay, well congratulations, that's so cool. [BREATHING] I can't wait."
+194,7,Ses02M_impro03_M,happiness,Hah.
+195,0,Ses02F_script02_1_F,neutral,Yeah.
+195,1,Ses02F_script02_1_M,neutral,"You cold?  Do you want my jacket?  Oh, we should've brought the blanket.  Our blanket."
+195,2,Ses02F_script02_1_M,neutral,"This is great, isn't it?  A six pack would be just the ticket right now."
+195,3,Ses02F_script02_1_M,neutral,I can't believe I forgot.  I'm like a kid.  It's amazing I got out of the house with my fly zipped.
+195,4,Ses02F_script02_1_M,neutral,You think they can hear us talk?  Or feel the vibrations in the sand when we move around?
+195,5,Ses02F_script02_1_F,neutral,I'm cold.
+195,6,Ses02F_script02_1_M,neutral,Do you want my jacket?
+195,7,Ses02F_script02_1_F,frustration,"It's after eleven, let's just go home."
+195,8,Ses02F_script02_1_M,neutral,Are you kidding?  We'd miss it.  We just got here.  What's the point of coming down here if we just turn around and go home.
+196,0,Ses02M_script01_3_F,neutral,"You saw that.  I mean and then, well, you've been kind of, um--"
+196,1,Ses02M_script01_3_M,neutral,What?
+196,2,Ses02M_script01_3_F,neutral,"Well, kind of embarrassed ever since I got here."
+196,3,Ses02M_script01_3_M,frustration,"The trouble is, I planned on sort of sneaking up on you on a period of a week or so.  But they take it for granted that we're all set."
+196,4,Ses02M_script01_3_F,happiness,"I knew they would, your mother anyway."
+196,5,Ses02M_script01_3_M,neutral,How'd you know?
+196,6,Ses02M_script01_3_F,neutral,"Well, from her point of view, why else would I come?"
+196,7,Ses02M_script01_3_M,neutral,"Oh.  Would you want to?  I guess you know, this is why I asked you to come."
+196,8,Ses02M_script01_3_F,happiness,I guess this is why I came.
+197,0,Ses03M_script01_3_F,neutral,You're the only one I know that still loves his parents.
+197,1,Ses03M_script01_3_M,neutral,I know.  It sort of went out of style didn't it?
+197,2,Ses03M_script01_3_F,neutral,"No.  It's alright.  It's a good thing, you know?"
+197,3,Ses03M_script01_3_F,neutral,It's lovely here.
+197,4,Ses03M_script01_3_F,neutral,The air is so sweet.
+197,5,Ses03M_script01_3_M,neutral,You're not sorry you came?
+197,6,Ses03M_script01_3_F,sadness,No.  I'm not sorry.  But I'm not going to stay.
+197,7,Ses03M_script01_3_M,neutral,Why?
+197,8,Ses03M_script01_3_F,neutral,First of all your mother so much as told me to go.
+198,0,Ses04F_script03_1_M,neutral,Good God.
+198,1,Ses04F_script03_1_F,neutral,Do you think it's them?
+198,2,Ses04F_script03_1_M,neutral,I wonder.
+198,3,Ses04F_script03_1_F,neutral,Nobody knows we're here except Freda and she wouldn't ring up.
+198,4,Ses04F_script03_1_M,neutral,It must be them then.
+198,5,Ses04F_script03_1_F,neutral,Well what are we going to do?
+198,6,Ses04F_script03_1_M,neutral,"We'll be alright, darling.  Whatever happens, aren't we?"
+198,7,Ses04F_script03_1_F,neutral,Now and always sweet.
+198,8,Ses04F_script03_1_M,neutral,I don't care then.
+199,0,Ses01F_impro02_M,sadness,I just don't know how I'm going to do it without you.
+199,1,Ses01F_impro02_F,neutral,I have to find sitters.
+199,2,Ses01F_impro02_M,sadness,I can't raise a baby by myself.  How?
+199,3,Ses01F_impro02_F,sadness,"We've got friends, that's why we moved here, huh?  Because there is a day care down the street."
+199,4,Ses01F_impro02_M,neutral,I know.
+199,5,Ses01F_impro02_F,neutral,And your mother is close by.
+199,6,Ses01F_impro02_F,sadness,I'll send you lots of letters.
+199,7,Ses01F_impro02_F,sadness,And I want lots and lots and lots of pictures.
+199,8,Ses01F_impro02_M,frustration,It's just not fair.
+200,0,Ses04F_impro04_M,neutral,Hey.  Get out of the way.  I'm watching TV.
+200,1,Ses04F_impro04_F,neutral,That's helpful.
+200,2,Ses04F_impro04_F,frustration,I just don't think I can do this anymore.  It's been a really long time and it's not like I'm not trying.
+200,3,Ses04F_impro04_M,neutral,Well I guess you're not trying hard enough.
+200,4,Ses04F_impro04_F,frustration,I am try-  it's been three years
+200,5,Ses04F_impro04_F,frustration,and I have gone everywhere I can think of.  I have given resumes.  I have done interviews.  I've tried to pull in favors.  I've asked everybody I know for help.  I don't know what else to do.
+200,6,Ses04F_impro04_M,neutral,"Just, I don't know, maybe you're not smart enough."
+200,7,Ses04F_impro04_M,neutral,I mean I don't know just go out and keep trying. Just-
+200,8,Ses04F_impro04_M,neutral,I don't know.
+201,0,Ses04F_script02_1_M,happiness,What time is it?  They're supposed to run around midnight.  This is great isn't it?  Look at this night we've got here.  It couldn't be better.
+201,1,Ses04F_script02_1_M,neutral,"Actually, I wanted to go a little farther up the coast, get away from the lights and the people, but I was afraid to miss it.  How you doing?"
+201,2,Ses04F_script02_1_F,neutral,Fine.
+201,3,Ses04F_script02_1_M,neutral,"Is that, is that-that's just foam isn't it?  I can't even tell"
+201,4,Ses04F_script02_1_M,neutral,"although if you can't tell, it probably isn't them.  It will probably be unmistakable.  Don't you think?  How you doing?"
+201,5,Ses04F_script02_1_M,frustration,"Oh, no you know what I did?  I forgot my flashlight.  How could I be so stupid I forgot my flashlight."
+201,6,Ses04F_script02_1_F,neutral,What flashlight?
+201,7,Ses04F_script02_1_M,frustration,"The flashlight, the silver one.  There's only one isn't there?"
+201,8,Ses04F_script02_1_F,frustration,It's not yours.
+202,0,Ses05M_script03_1_M,neutral,"All the futile mortals who try to make life unbearable.  Laugh at them, Be flippant.  Laugh at everything, all their sacred shibboleths."
+202,1,Ses05M_script03_1_M,neutral,uh- the- Being flippant brings out the acid in their damned beauty and light.
+202,2,Ses05M_script03_1_F,neutral,"If I laugh at everything, then I must laugh at us too."
+202,3,Ses05M_script03_1_M,neutral,Certainly you must.  We are figures of fun all right.
+202,4,Ses05M_script03_1_F,neutral,"Oh, how long will it last, this ludicrous, overbearing love of ours?"
+202,5,Ses05M_script03_1_M,neutral,[garbage] who knows?
+202,6,Ses05M_script03_1_F,neutral,"Well, will we always bicker and fight?"
+202,7,Ses05M_script03_1_M,neutral,No.  That fire will fade along with our passion.
+203,0,Ses01M_script01_3_F,sadness,Do you still feel that way?
+203,1,Ses01M_script01_3_M,sadness,I want you to know Annie.
+203,2,Ses01M_script01_3_F,neutral,"'Cause you mustn't feel that way.  Everything you have, you have a right to..."
+203,3,Ses01M_script01_3_F,neutral,Everything Chris do you understand that?  To me too...
+203,4,Ses01M_script01_3_F,neutral,And your money there's nothing wrong in your money.  Your father put hundreds of planes into the air.  You should be proud of that a man should be paid for that.
+203,5,Ses01M_script01_3_M,neutral,Annie...
+203,6,Ses01M_script01_3_M,happiness,I'm going to make a fortune for you.
+203,7,Ses01M_script01_3_F,happiness,What would I do with a fortune?
+204,0,Ses01M_script02_1_M,neutral,"Of course, our flashlight.  What's your is mine, mi flashlight es su flashlight."
+204,1,Ses01M_script02_1_M,neutral,"Gosh, I should have brought it. I can't believe I forgot that."
+204,2,Ses01M_script02_1_M,neutral,"It's a nice moon though, should stay full.  Do they always run during a full moon?  I can't remember was it full last year?"
+204,3,Ses01M_script02_1_F,neutral,Yeah.
+204,4,Ses01M_script02_1_M,neutral,Are you all right?  Are you okay?  You cold?  Do you want to my jacket? My jacket? No?
+204,5,Ses01M_script02_1_F,neutral,No.
+204,6,Ses01M_script02_1_M,neutral,"You know what we should've brought a blanket too.  Man, our blanket, our blanket.  Wish I had six-pack too, a six-pack would be just the ticket right about now, huh, six-pack."
+204,7,Ses01M_script02_1_M,neutral,What's wrong?  Are you okay?  Huh?  You cold?
+205,0,Ses01F_script02_2_M,frustration,"It's just fish, it's nothing to get traumatized over."
+205,1,Ses01F_script02_2_F,anger,"For God's sake, this is not about fish."
+205,2,Ses01F_script02_2_M,frustration,Okay.  I'm trying to work this backwards and pinpoint the exact moment where we took a turn for the worst here.
+205,3,Ses01F_script02_2_M,neutral,"Okay.  So you were fine during that phone call from Marge and then dinner was okay.  And doing the dishes was fine and then I was going to take a shower and you're watching the news and you said the grunions are running tonight, do you want to go?  And I said, sure great, let's go."
+205,4,Ses01F_script02_2_M,neutral,"Okay.  So I am putting out the pets, getting the car out of the garage."
+205,5,Ses01F_script02_2_F,neutral,Do you remember the first year we came here?  It was like four years after we got married.
+205,6,Ses01F_script02_2_F,neutral,"We thought I was pregnant, we got a bottle of champagne, we had no glasses.  We took off our shoes and you asked me to dance."
+205,7,Ses01F_script02_2_F,happiness,"You whispered the sweetest, most intimate things to me right into my ear so I could feel them as much as hear them.  And I remember thinking, this is it.  You know, finally, I am as happy as I'm supposed to be."
+205,8,Ses01F_script02_2_M,neutral,"Wait a minute, I got it."
+205,9,Ses01F_script02_2_F,neutral,"Drinking champagne from the bottle,"
+206,0,Ses01M_script02_2_M,frustration,"Is not supposed to like anything.  We come down here, we look at the fish, they arrive, we go woo-ah fish."
+206,1,Ses01M_script02_2_F,frustration,"Oh. Grow up Augie, the fish are not going to come."
+206,2,Ses01M_script02_2_M,neutral,And then we go home and they go home.
+206,3,Ses01M_script02_2_M,frustration,Why not?
+206,4,Ses01M_script02_2_F,anger,"Because they never do.  Do they, have they ever?"
+206,5,Ses01M_script02_2_M,neutral,We missed them twice.
+206,6,Ses01M_script02_2_F,anger,Twice is every year we've tried that's ever.
+206,7,Ses01M_script02_2_M,frustration,"Okay we'll see them this year, this is a much better spot. Trust me."
+206,8,Ses01M_script02_2_F,anger,No we won't.  It's pointless it's like a waiting up to see Santa Claus.
+206,9,Ses01M_script02_2_F,anger,"I feel like my whole life is going to be spent here on the beach with my eyes wide open and my hands clasped expectantly, waiting for fish to show up and the fish never show."
+206,10,Ses01M_script02_2_M,frustration,"Okay, I'm trying to work this backwards"
+207,0,Ses04F_impro08_F,happiness,Hello.  Thank you for calling Dell Taco Corporate.  Can I help you?
+207,1,Ses04F_impro08_M,frustration,"Yeah, um.  I have been trying to reach somebody who will refund, uh, my money."
+207,2,Ses04F_impro08_M,neutral,"Um, I basically, um I- I ordered some food"
+207,3,Ses04F_impro08_M,frustration,um and everything was pretty much uh- uh- just not done right. All the orders were messed up.
+207,4,Ses04F_impro08_F,neutral,"Okay.  Well, Did you go through the automated menu?  Most of your requests can be taken care of through that."
+207,5,Ses04F_impro08_M,frustration,"Yes, I did and that didn't- I got through to, like, one operator and she sent me to like three others"
+207,6,Ses04F_impro08_M,neutral,and now I'm talking to you.  And all I want is my money back.  That's all I'm asking for. It's not much.
+207,7,Ses04F_impro08_F,neutral,Okay.  Well I'd be happy to-
+207,8,Ses04F_impro08_M,frustration,"If you could just give me that, then I will leave you alone. And just- if i could also- What?"
+208,0,Ses05M_script01_1_F,sadness,What's he going to say?  Maybe we should tell him before he sees it.
+208,1,Ses05M_script01_1_M,neutral,He saw it.
+208,2,Ses05M_script01_1_F,sadness,When?  I was the first one up.  He was still in bed.  How could he have seen it?
+208,3,Ses05M_script01_1_M,neutral,He was out here when it broke.
+208,4,Ses05M_script01_1_F,neutral,When?
+208,5,Ses05M_script01_1_M,neutral,"I don't know, like, four o'clock this morning.  I heard a crack, and I woke up, and I looked out the window and he was standing right there when it broke."
+208,6,Ses05M_script01_1_F,neutral,What was he doing out here at four in the morning?
+208,7,Ses05M_script01_1_M,neutral,"I don't know, but after it broke he ran back inside and started crying in the kitchen."
+209,0,Ses05F_impro03_F,happiness,"Yeah, she loves him."
+209,1,Ses05F_impro03_M,neutral,"I knew it.  I knew it, of course she does.  How could you not love Mr. Peace Corps worker man?  He's the nicest guy ever."
+209,2,Ses05F_impro03_F,happiness,"Yeah, she-yeah, that's my type."
+209,3,Ses05F_impro03_M,neutral,[BREATHING]
+209,4,Ses05F_impro03_M,neutral,you.. I can't believe it.  I'm so happy for you.  This is exactly what you wanted.  It's your dream come true.
+209,5,Ses05F_impro03_F,happiness,Thank you.
+209,6,Ses05F_impro03_M,neutral,"The exact right guy, I fully approve.  He's a wonderful guy.  We have a great time.  He can drink.  That's awesome."
+209,7,Ses05F_impro03_F,happiness,[LAUGHTER]
+209,8,Ses05F_impro03_M,happiness,[LAUGHTER]
+209,9,Ses05F_impro03_F,neutral,"Yeah, we all have to hang out now."
+209,10,Ses05F_impro03_M,neutral,"Of course, of course she will ... of course she will.  Yeah, don't go and disappear like everyone else after they get married and I never see them again.  That'll make me mad.  You don't want to make me mad.  You know how I get when I get mad."
+209,11,Ses05F_impro03_F,neutral,No.
+209,12,Ses05F_impro03_F,neutral,No.
+209,13,Ses05F_impro03_F,neutral,"I mean, I I have I have some duty to the man I was going to marry if nobody else came up."
+210,0,Ses05F_script01_1_M,frustration,"I'll get out. I'll get married and live some place else.  Maybe, maybe New York?"
+210,1,Ses05F_script01_1_F,anger,Are you crazy?
+210,2,Ses05F_script01_1_M,neutral,"I've been a good son for too long, a big sucker.  I'm through with it."
+210,3,Ses05F_script01_1_F,frustration,Wait a minute.  Tell me this.  Do you mean to say that you would leave the business?
+210,4,Ses05F_script01_1_M,anger,The business?  The business?  It doesn't inspire me?
+210,5,Ses05F_script01_1_F,neutral,Must you be inspired?
+210,6,Ses05F_script01_1_M,neutral,"Yes!  I like it an hour a day.  If I had to grub for money all day long, I like to come home to something beautiful.  I want a family.  I want- I want kids.  I want to build something I can give myself to. and Annie is in the center of that, and now where do I find it?"
+210,7,Ses05F_script01_1_F,frustration,"Don't- you, you can't think like that!  Don't think like that!"
+211,0,Ses05F_impro01_F,frustration,Can you just-can I just get the right-
+211,1,Ses05F_impro01_M,frustration,"Simply step to line two A, ma'am, I'm sorry."
+211,2,Ses05F_impro01_F,frustration,Would you be able to put me at the front of that line?
+211,3,Ses05F_impro01_M,frustration,There is a large line of people behind you waiting to be--
+211,4,Ses05F_impro01_F,frustration,I know.  I've been in line with these people.  I understand.  I understand what it's like.  Could you please like call over and-
+211,5,Ses05F_impro01_M,frustration,"I don't want to be rude here, ma'am, but line two B is where you need to be.  This is the line for registration."
+211,6,Ses05F_impro01_F,frustration,"I hear that.  I hear that.  Thank you, but I've waited in line for so long, and I don't want to have to be here all day."
+211,7,Ses05F_impro01_M,frustration,I don't have those-
+211,8,Ses05F_impro01_F,neutral,"So could I maybe get the form from you, fill it out here- and maybe you could-"
+212,0,Ses02M_impro02_M,neutral,"I'll come back we'll have, you know, some good benefits from being in the service and then we'll live - we'll live a happy life, then the rest of us, like the three of us."
+212,1,Ses02M_impro02_F,sadness,I hope so.
+212,2,Ses02M_impro02_M,neutral,A little family.
+212,3,Ses02M_impro02_F,sadness,I hope so.
+212,4,Ses02M_impro02_M,neutral,You gotta
+212,5,Ses02M_impro02_F,sadness,It's going to be really rough.
+212,6,Ses02M_impro02_M,sadness,"You gotta take care of our baby for me, alright?"
+212,7,Ses02M_impro02_F,sadness,I'll send you lots of pictures.
+212,8,Ses02M_impro02_M,sadness,"I hope so, because I'm not going to be able to survive without all that. I don't know what I'm going to do."
+213,0,Ses04M_script01_1_F,neutral,"Well that's only your business, Chris."
+213,1,Ses04M_script01_1_M,frustration,You know it's not only my business.
+213,2,Ses04M_script01_1_F,anger,What do you want me to do?  You're old enough to know your own mind.
+213,3,Ses04M_script01_1_M,neutral,Then it's alright.  I'll go ahead with it?
+213,4,Ses04M_script01_1_F,neutral,Well you want to make sure your father isn't going to have --
+213,5,Ses04M_script01_1_M,anger,"Well, then you know it's not only my business."
+213,6,Ses04M_script01_1_F,frustration,I'm just saying.
+213,7,Ses04M_script01_1_M,anger,"Sometimes you infuriate me, you know that?  Isn't it your business, too, if I tell this to father and he throws a fit about it?  You have such a talent for ignoring things."
+213,8,Ses04M_script01_1_F,anger,I ignore what I got to ignore.  The girl is Larry's girl.
+214,0,Ses02F_impro01_F,frustration,I mean if I had known--I would have brought it.
+214,1,Ses02F_impro01_M,neutral,um Sorry.
+214,2,Ses02F_impro01_M,frustration,"Okay.  Um, I'm sorry but I--I can't help you.  You're gonna have to go back and uh..."
+214,3,Ses02F_impro01_F,frustration,"Look, I've been waiting in line for a really long time.  I mean, you've seen how long it is."
+214,4,Ses02F_impro01_F,frustration,It's lunch hour.
+214,5,Ses02F_impro01_M,frustration,Right.  It's the D.M.V..
+214,6,Ses02F_impro01_M,frustration,"I know, it gets long, but I can't do anything without your--do you have Social Security card, maybe?"
+214,7,Ses02F_impro01_F,frustration,"Well, no.  I mean, I don't carry my original documents with me because if those things get destroyed, then what do you, you know what I mean, like if I loose my wallet or something, I'll never have them again."
+215,0,Ses05M_script03_2_M,anger,Because it's very late and you'll disturb the people upstairs.
+215,1,Ses05M_script03_2_F,neutral,There aren't any people upstairs.  It's a photography studio.
+215,2,Ses05M_script03_2_M,anger,"Well, there are people downstairs, I suppose."
+215,3,Ses05M_script03_2_F,neutral,They're away in Tunis.
+215,4,Ses05M_script03_2_M,anger,This is no time of the year for Tunis.
+215,5,Ses05M_script03_2_F,neutral,"Turn it on again, please."
+215,6,Ses05M_script03_2_M,anger,I do I shall do no such thing.
+215,7,Ses05M_script03_2_F,anger,Very well.  If you have to be boorish and idiotic.
+215,8,Ses05M_script03_2_M,anger,Turn it off.  It's driving me mad.
+216,0,Ses02F_script02_2_M,frustration,"Well, what?  You want me to breathe in your ear?"
+216,1,Ses02F_script02_2_F,sadness,No.
+216,2,Ses02F_script02_2_M,frustration,You wanna get married again?
+216,3,Ses02F_script02_2_F,frustration,No.
+216,4,Ses02F_script02_2_M,frustration,What?  What?  You want a divorce?
+216,5,Ses02F_script02_2_F,frustration,No.
+216,6,Ses02F_script02_2_M,frustration,A vacation?
+216,7,Ses02F_script02_2_F,frustration,No.
+216,8,Ses02F_script02_2_M,frustration,"A new carpet?  A poodle?  Ice cream?  Back rub?  A suicide pact?  What?  What?  Carla, what the hell do you want?"
+217,0,Ses01M_script03_1_M,neutral,Of course how long did that row last?
+217,1,Ses01M_script03_1_F,neutral,It went on intermittently for days.
+217,2,Ses01M_script03_1_M,neutral,But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown.
+217,3,Ses01M_script03_1_F,happiness,Cannes...mmhmm...
+217,4,Ses01M_script03_1_F,neutral,Oh it burnt my comb too and all those towels in the bathroom.
+217,5,Ses01M_script03_1_M,neutral,Oh that was a rouser wasn't it?
+217,6,Ses01M_script03_1_F,happiness,The manager came in he found us rolling about the floor.  [LAUGHTER]
+217,7,Ses01M_script03_1_M,happiness,I will never forget the look on his face.
+218,0,Ses04M_impro03_F,neutral,It's fantastic.  I -- congratulations. It's amazing.
+218,1,Ses04M_impro03_M,neutral,"Thank you.  I'm really -- I'm really excited.  And it's -- I don't know, it's like a little -- it's like a little scary, 'cause I'm like, ah, you know, it's the first time I've ever done anything like this."
+218,2,Ses04M_impro03_M,happiness,"But, you know, it's like I really love her and I really just -- I can't imagine spending my life with anybody else but her.  So, you know, it's like I know that's the right thing.  And if you have to, you know, if you have to question that, you know, don't- don't do it.  So we're going to do it."
+218,3,Ses04M_impro03_M,happiness,"And it's going to -- the -- you know, I told her that I just -- I want the color brown to be as an integral in the wedding.  And, um, maybe some greens and blues."
+218,4,Ses04M_impro03_F,neutral,And how did she feel about that?
+218,5,Ses04M_impro03_M,happiness,She's okay with it.
+218,6,Ses04M_impro03_F,neutral,Well that's good.  It'll be a great wedding.  You're willing to compromise on things.
+218,7,Ses04M_impro03_M,neutral,"Exactly, exactly, exactly.  So--"
+219,0,Ses04F_script02_2_F,anger,No.
+219,1,Ses04F_script02_2_M,frustration,"A new carpet, a poodle, a backrub, ice cream, a suicide pact.  What?  What?  Carla what the hell do you want?"
+219,2,Ses04F_script02_2_F,neutral,I want something to turn out the way it's supposed to.
+219,3,Ses04F_script02_2_M,neutral,Well welcome to the human race.  You think this is what I had in mind.
+219,4,Ses04F_script02_2_M,frustration,"Do you think that when I proposed, I had this great fantasy going that four years down the line we'd come to the beach and yell at each other over fish."
+219,5,Ses04F_script02_2_M,frustration,Do you think that I knew that there'd be times when you'd look at me like I'm a used Kleenex and times I would look at you and think holy hell when's the next flight to Alaska.
+219,6,Ses04F_script02_2_M,frustration,"No, no I'm just like you.  I thought it was going to be all peaches and roses and sand in our hair and wind in our"
+219,7,Ses04F_script02_2_M,frustration,"Sand in our toes and wind in our hair and the fish will always come and the bills will always pay themselves and ha, ha baby the jokes on us.  Because you know what you get,"
+219,8,Ses04F_script02_2_M,neutral,"you know what you get Carla, this."
+219,9,Ses04F_script02_2_F,anger,"This what, what is this?  This isn't even anything."
+220,0,Ses04F_script02_2_M,neutral,"Well, so what do you think?"
+220,1,Ses04F_script02_2_F,neutral,About what?
+220,2,Ses04F_script02_2_M,neutral,What I said.
+220,3,Ses04F_script02_2_F,neutral,It's ridiculous.
+220,4,Ses04F_script02_2_M,neutral,It certainly is not.  It's slightly exaggerated scientific fact.
+220,5,Ses04F_script02_2_F,anger,It's PR.  Somebody sold you a bill of goods that this wonderful event is going to take place on the beach.
+220,6,Ses04F_script02_2_M,neutral,I'm not the only one.  Look at these people.
+220,7,Ses04F_script02_2_F,neutral,"Well sure everybody's told the same story.  It keeps us all coming back for more.  It keeps us all excited, keeps us thinking that life is going to start any minute now if we can just find the right spot and get in on the action."
+220,8,Ses04F_script02_2_M,neutral,Are we talking about the same thing?
+220,9,Ses04F_script02_2_F,neutral,Well I'm sorry but it's still just fish to me.
+221,0,Ses05M_impro05_F,neutral,"So, within the country, though? umm"
+221,1,Ses05M_impro05_M,neutral,"Yeah, I know I was in the country.  I mean, it's not that complicated."
+221,2,Ses05M_impro05_F,neutral,"Yeah, well the chances of it being lost forever, you know, are slight because -- -- you were in the --"
+221,3,Ses05M_impro05_M,neutral,"Well, I would hope so."
+221,4,Ses05M_impro05_F,neutral,"Well, I mean, you know that happens pretty often that sometimes baggage -- -- gets lost."
+221,5,Ses05M_impro05_M,neutral,People lose --
+221,6,Ses05M_impro05_M,neutral,forever?
+221,7,Ses05M_impro05_F,neutral,yeah.
+221,8,Ses05M_impro05_M,neutral,"You know, this is actually, I mean it's -- it's a really important piece of luggage."
+222,0,Ses05F_impro03_M,neutral,Am I in it?
+222,1,Ses05F_impro03_F,neutral,"Yeah.  Yeah, of course."
+222,2,Ses05F_impro03_M,neutral,"Okay, I certainly hope so, of course."
+222,3,Ses05F_impro03_F,neutral,So next fall I guess.
+222,4,Ses05F_impro03_M,neutral,Next fall.
+222,5,Ses05F_impro03_F,neutral,"Yeah, I like the autumn."
+222,6,Ses05F_impro03_M,neutral,Are you going to do it in town or are you out of town?
+222,7,Ses05F_impro03_F,neutral,"oh, We'll do it in town."
+222,8,Ses05F_impro03_M,neutral,"Oh, okay."
+222,9,Ses05F_impro03_F,neutral,"Yeah, his family doesn't live too far away, so I think-"
+222,10,Ses05F_impro03_M,neutral,"Yeah, where's he from again?"
+222,11,Ses05F_impro03_F,neutral,He's from Chicago as well.
+222,12,Ses05F_impro03_M,neutral,"Oh he is, okay."
+222,13,Ses05F_impro03_F,neutral,Yeah.
+223,0,Ses01M_script03_2_M,anger,That's a very good idea I think I will.
+223,1,Ses01M_script03_2_M,anger,Would you uh...turn that off please? You're going to wake the people upstairs.
+223,2,Ses01M_script03_2_F,anger,Why?
+223,3,Ses01M_script03_2_F,neutral,There are no people upstairs. It's a photographer's studio.
+223,4,Ses01M_script03_2_M,anger,Well then you'll wake the people downstairs.
+223,5,Ses01M_script03_2_F,anger,They are away in Tunis.
+223,6,Ses01M_script03_2_M,anger,This is no time a year for Tunis.
+223,7,Ses01M_script03_2_F,anger,"Turn it on again, please."
+224,0,Ses05M_impro07_M,neutral,yeah?
+224,1,Ses05M_impro07_F,neutral,yeah.
+224,2,Ses05M_impro07_M,neutral,That would be perfect.
+224,3,Ses05M_impro07_F,happiness,"There's actually, a friend of mine is um- moving out of her place and her place is amazing-- And it's really cheap."
+224,4,Ses05M_impro07_M,neutral,Really?
+224,5,Ses05M_impro07_M,neutral,Really?
+224,6,Ses05M_impro07_F,neutral,yeah.
+224,7,Ses05M_impro07_M,neutral,Cheap is exactly what I need- Because I have no money at all.
+224,8,Ses05M_impro07_F,neutral,Okay.
+224,9,Ses05M_impro07_F,neutral,Okay.
+225,0,Ses03M_script03_2_M,anger,"You know what?  You're a vile, little, evil-minded, little, wicked beast and I never want to see you again."
+225,1,Ses03M_script03_2_F,anger,"This is the end.  Understand?  This is the end, here and now, forever and always."
+225,2,Ses03M_script03_2_M,anger,You're not going nowhere. No you're not.
+225,3,Ses03M_script03_2_F,anger,"Oh, yes I am. Yes I am and you can't stop me."
+225,4,Ses03M_script03_2_M,anger,Just shut up.
+225,5,Ses03M_script03_2_M,anger,shut up. shut up.  I would-I would never marry you again if you came crawling back to me on your hands and knees because you're an evil-minded little vampire and I hope to God I never see you again.
+225,6,Ses03M_script03_2_F,anger,"Listen, you're a cruel fiend and I hate, loathe you.  Thank God finally, finally thank God I've realized just how horrible you are--and marry you?  Marry you?  Never. I will never marry you.  I will die die in torment-"
+225,7,Ses03M_script03_2_F,anger,Beast. Brute. Cad. Swine. Beast. Beast. Brute. Devil. Sorry.
+225,8,Ses03M_script03_2_M,anger,Oh.
+226,0,Ses04M_impro04_M,frustration,"Oh, man, I just -- I don't know what to do.  I don't know what to do.  It's like every job, you know, I go to; every job I apply to,"
+226,1,Ses04M_impro04_M,frustration,"it's just like nobody- nobody wants to hire me. It's been years, I mean, do you understand, years?  Like, I'm -- you know what I mean, it's like I've been collecting unemployment for so long now, it's just like I just -- I can't take it.  I don't know what to do.  I mean, I'm just like losing my mind."
+226,2,Ses04M_impro04_F,neutral,Well there has to be something you haven't tried.
+226,3,Ses04M_impro04_M,frustration,"I-I'm not kidding.  I've tried everything.  Like I've gone to every business and local, you know,"
+226,4,Ses04M_impro04_M,frustration,"local business in- in the area and I can't- I can't get anything.  Like, nobody -"
+226,5,Ses04M_impro04_F,neutral,What about like a temp agency?
+226,6,Ses04M_impro04_F,neutral,"Have you gone, like, signed up with a temp agency?  Maybe they can help."
+226,7,Ses04M_impro04_M,neutral,"there's just like no jobs available.  I mean, it's just like, God."
+226,8,Ses04M_impro04_M,frustration,"Yeah, I tried that.  And there was like, yeah, like I did like one thing once.  But, like, that's not -- it doesn't last very long.  And it's not enough to live on."
+227,0,Ses05F_script02_1_M,neutral,We just weren't in a good spot.  This is a much better spot.  I got a great instinct for these things.
+227,1,Ses05F_script02_1_M,neutral,"Look there, what's that?  Is it?  Is that a--Ah, it's a seaweed isn't it?"
+227,2,Ses05F_script02_1_M,neutral,"Oh, this is great.  I wouldn't miss this for the world.  I mean think about this. I know you are not interested but think about this for a second."
+227,3,Ses05F_script02_1_M,neutral,"Somewhere out there, is a giant mass of silver fish all swimming in this direction.  They don't know why and we don't know why. They didn't get an invitation.  And it wasn't a vote- it wasn't a decision.  And nobody sent them a map or anything like that."
+227,4,Ses05F_script02_1_M,neutral,It's just some little instinctual time-release firecracker that went off inside them and all this one they turn around and form a line as long as the California coast and just started swimming.
+227,5,Ses05F_script02_1_M,neutral,"They are swimming right now as if it's the only thing that matters.  It's- It's single mindedness with no mind, urgency that's pure urge. It's- They don't know what drives them.  They- They don't give any name or ask any question. They just turn as one and started to swim to the very point we are standing right now for a massive celebration of sex and death.  God, it's giving me goose bumps all over my hairs on my arm. popping up."
+227,6,Ses05F_script02_1_F,neutral,That's the wind.
+227,7,Ses05F_script02_1_M,neutral,"Well, So what do you think?"
+228,0,Ses01F_script01_1_F,neutral,"He's dreaming of him again, walking around."
+228,1,Ses01F_script01_1_M,neutral,I guess he is.
+228,2,Ses01F_script01_1_F,neutral,It's getting to be just like after he died.  What's the meaning of that?
+228,3,Ses01F_script01_1_M,frustration,"I don't know the meaning of it.  But I know one thing, Mom, you've made a terrible mistake with father."
+228,4,Ses01F_script01_1_F,neutral,What?
+228,5,Ses01F_script01_1_M,neutral,"Being dishonest with him, you know.  This kind of thing always pays off and it's paying off."
+228,6,Ses01F_script01_1_F,neutral,What do you mean dishonest?
+228,7,Ses01F_script01_1_M,neutral,You know Larry is not coming back and I know it.  Why do we allow him to go on thinking that we believe with him?
+228,8,Ses01F_script01_1_F,frustration,What do you want to do?  Argue with him?
