@@ -1,0 +1,784 @@
+Dialogue_ID,Utterance_ID,Speaker,Emotion,Utterance
+0,0,Ses02F_impro02_F,sadness,It's almost time for me to go.
+0,1,Ses02F_impro02_M,neutral,I can't believe that--now--are you sure this is absolutely necessary?  Like--
+0,2,Ses02F_impro02_F,sadness,"There's nothing I can do.  I mean, the government you know--"
+0,3,Ses02F_impro02_M,frustration,What--what're we gonna do here?  I can't--I can't do this by myself.  I--
+0,4,Ses02F_impro02_F,sadness,"You're gonna have to.  I mean, you're a great father.  You can do it.  I know you can."
+0,5,Ses02F_impro02_M,frustration,"But, I'm--I'm nothing--I'm nothing without you here.  Maybe we can--we can get out of this somehow."
+0,6,Ses02F_impro02_F,sadness,I don't think so.
+0,7,Ses02F_impro02_M,frustration,"Well, come on.  You've gotta think of something.  A year--a year away, it's gonna tear us apart.  I don't even--I don't even wanna think about it.  I mean, I don't even know if I'll be able to get in touch with you or--"
+0,8,Ses02F_impro02_F,sadness,"Well, we can do the best we can and-and, with um, you know like wireless internet these days--I think that we could-- Talk every once in awhile."
+0,9,Ses02F_impro02_F,sadness,You could send me pictures.
+0,10,Ses02F_impro02_M,neutral,It's not going to be the same.
+0,11,Ses02F_impro02_M,frustration,"What if--maybe--what if, uh, we went somewhere over there?  I don't--I don't know--I--I need to figure something out for this because--"
+0,12,Ses02F_impro02_F,sadness,"Their not gonna let you.  You have to stay home and I have to go.  I mean, that's all--"
+0,13,Ses02F_impro02_F,sadness,"and--I mean, my daughter--I don't want to put her in danger.  You know?  She has to stay."
+0,14,Ses02F_impro02_M,frustration,This is gonna be a--a crucial yet--she's--she's growing up.  She's gonna need you.
+0,15,Ses02F_impro02_F,sadness,"I know, but, she needs to be safe more.  She needs to be around kids her age--own age.  She needs to be able to play on the streets and--"
+0,16,Ses02F_impro02_M,sadness,But she's--you're not gonna--you're not gonna be here for--for her first words.  For her first steps.  I mean--it's something that you're supposed to be here for that--
+0,17,Ses02F_impro02_F,sadness,You can just remember it for me.
+0,18,Ses02F_impro02_M,frustration,I don't know--I don't know--I don't know how--I don't know how this could even be possible for you--I--if I was--
+0,19,Ses02F_impro02_F,sadness,"Well, I need--I need you to be able to do this for me 'cause I can't do anything about it."
+0,20,Ses02F_impro02_F,sadness,"I mean, it's just as hard for me, but--I know that we can do it, you know"
+0,21,Ses02F_impro02_M,frustration,"I mean, you just get to--go off and do your thing.  I mean, yeah, we're both--I don't know--it's bad for both of us, but--"
+0,22,Ses02F_impro02_M,frustration,...it would be so much better if we can--if we could stay together somehow.  You know--we could--we could do this together.
+0,23,Ses02F_impro02_F,sadness,I don't want you in danger.  And I don't want her in danger.
+0,24,Ses02F_impro02_M,neutral,I don't want you in danger.  Where are you going?  You're going over to war.
+0,25,Ses02F_impro02_F,sadness,I have no choice. There's nothing I can do.
+0,26,Ses02F_impro02_M,sadness,All right.
+1,0,Ses01F_script02_2_M,neutral,"Look at this, all of the hairs are standing up on my arm."
+1,1,Ses01F_script02_2_F,neutral,That's the wind.
+1,2,Ses01F_script02_2_M,neutral,"Well, so, what do you think?"
+1,3,Ses01F_script02_2_F,neutral,About what?
+1,4,Ses01F_script02_2_M,neutral,About what I was saying.
+1,5,Ses01F_script02_2_F,neutral,I think it's ridiculous.
+1,6,Ses01F_script02_2_M,neutral,It certainly is not.  It's slightly exaggerated scientific fact.
+1,7,Ses01F_script02_2_F,neutral,It's PR! Somebody sold you a bunch of crap that there is this wonderful thing that is going to happen tonight on the beach.
+1,8,Ses01F_script02_2_M,frustration,"Not just me, look at all of these people."
+1,9,Ses01F_script02_2_F,neutral,"Everybody's told the same story.  It keeps us coming back for more, it keeps us excited.  We keep thinking that life is going start at any minute if we can just find the right spot, get in on the action."
+1,10,Ses01F_script02_2_M,neutral,"Are we talking about the same thing, here?"
+1,11,Ses01F_script02_2_F,neutral,"I'm sorry, it's just fish to me."
+1,12,Ses01F_script02_2_M,neutral,"Carla, can I ask you something?  Now, don't take this the wrong way, but are you on your period?"
+1,13,Ses01F_script02_2_F,anger,"Don't ask me that.  I hate it when you ask me that, you always ask me that.  It's insulting."
+1,14,Ses01F_script02_2_M,frustration,"Well then, what's bugging you?"
+1,15,Ses01F_script02_2_F,frustration,We just have different ideas of what this night is supposed to look like.
+1,16,Ses01F_script02_2_M,frustration,"There is nothing to it; we come down here, the fish arrive, they flop around, they do their fish thing.  We go ooh, ah, look at the fish and we go home."
+1,17,Ses01F_script02_2_F,anger,"For God- Grow up, Augie.  The fish are not going to arrive."
+1,18,Ses01F_script02_2_M,frustration,Why not?
+1,19,Ses01F_script02_2_F,anger,Because they never do.  Have they...Have they ever?
+1,20,Ses01F_script02_2_M,frustration,We've missed them twice.
+1,21,Ses01F_script02_2_F,anger,Twice is every time we have tried; that's ever.
+1,22,Ses01F_script02_2_M,frustration,They'll show up this time.
+1,23,Ses01F_script02_2_F,neutral,No they won't.  It's like waiting for Santa Claus.
+1,24,Ses01F_script02_2_F,frustration,I feel like my whole life is going to be spent standing on this beach with my eyes wide open and my hands clasped expectantly waiting for fish to show up.  And the fish never show up.
+1,25,Ses01F_script02_2_M,neutral,I thought you wanted to see it.
+1,26,Ses01F_script02_2_F,frustration,You don't understand anything I am saying.
+1,27,Ses01F_script02_2_M,frustration,No. Of course not.
+1,28,Ses01F_script02_2_F,neutral,"I did want to see it, I still do, I always do.  I just..."
+1,29,Ses01F_script02_2_F,sadness,"I feel like I'm always just standing here waiting.  I feel like this night is going to be the night, but it never is."
+1,30,Ses01F_script02_2_M,frustration,"It's just fish, it's nothing to get traumatized over."
+1,31,Ses01F_script02_2_F,anger,"For God's sake, this is not about fish."
+1,32,Ses01F_script02_2_M,frustration,Okay.  I'm trying to work this backwards and pinpoint the exact moment where we took a turn for the worst here.
+1,33,Ses01F_script02_2_M,neutral,"Okay.  So you were fine during that phone call from Marge and then dinner was okay.  And doing the dishes was fine and then I was going to take a shower and you're watching the news and you said the grunions are running tonight, do you want to go?  And I said, sure great, let's go."
+1,34,Ses01F_script02_2_M,neutral,"Okay.  So I am putting out the pets, getting the car out of the garage."
+1,35,Ses01F_script02_2_F,neutral,Do you remember the first year we came here?  It was like four years after we got married.
+1,36,Ses01F_script02_2_F,neutral,"We thought I was pregnant, we got a bottle of champagne, we had no glasses.  We took off our shoes and you asked me to dance."
+1,37,Ses01F_script02_2_F,happiness,"You whispered the sweetest, most intimate things to me right into my ear so I could feel them as much as hear them.  And I remember thinking, this is it.  You know, finally, I am as happy as I'm supposed to be."
+1,38,Ses01F_script02_2_M,neutral,"Wait a minute, I got it."
+1,39,Ses01F_script02_2_F,neutral,"Drinking champagne from the bottle,"
+1,40,Ses01F_script02_2_M,neutral,"It's when we were driving past that Knickerbocker Liquor Locker, you said, let's get some champagne.  I said no, time's a wasting or something like that."
+1,41,Ses01F_script02_2_F,frustration,dancing barefoot in the sand.
+1,42,Ses01F_script02_2_M,frustration,"That's what it is?  Right?  You want this to be like the other time, right?"
+1,43,Ses01F_script02_2_F,sadness,I'd rather not remember some things.  I'd rather not hope for some things.
+1,44,Ses01F_script02_2_M,neutral,Sure.  All right.  Okay.
+1,45,Ses01F_script02_2_M,neutral,"Listen, do you want to dance?"
+1,46,Ses01F_script02_2_F,neutral,No.
+1,47,Ses01F_script02_2_M,neutral,Do you want me to go get some champagne?
+1,48,Ses01F_script02_2_F,neutral,No.
+1,49,Ses01F_script02_2_M,happiness,Do you want to take off your shoes?
+1,50,Ses01F_script02_2_F,frustration,"No, no. Nothing."
+1,51,Ses01F_script02_2_M,neutral,Then what?
+1,52,Ses01F_script02_2_M,happiness,Do you want to get married again?
+1,53,Ses01F_script02_2_F,neutral,No.
+1,54,Ses01F_script02_2_M,neutral,What?  What?  Do you want a divorce?
+1,55,Ses01F_script02_2_M,neutral,A vacation?
+1,56,Ses01F_script02_2_F,frustration,No.
+1,57,Ses01F_script02_2_M,neutral,Like a new carpet?  A poodle?  A back rub?  Ice cream?  A suicide pact?  What do you want?  What the hell do you want?
+1,58,Ses01F_script02_2_F,neutral,I just want something to turn out like I expected it to.
+1,59,Ses01F_script02_2_M,neutral,"Well welcome to the human race, huh?  Do you think I had some grand fantasy going that four years down the line we would come to this beach and be arguing over fish?  No."
+1,60,Ses01F_script02_2_F,frustration,[BREATHING]
+1,61,Ses01F_script02_2_M,frustration,"No I'm just like you.  I thought it was going to be all roses and peaches and the bills would just pay themselves.  And we'll have three, fat rosy cheeked children.  Huh, baby, the joke's on us.  Because you know what you get?"
+1,62,Ses01F_script02_2_M,frustration,Do you know what you get?  You get this.
+1,63,Ses01F_script02_2_F,frustration,This? What is this?  This is nothing.  This isn't even anything.
+1,64,Ses01F_script02_2_M,neutral,Yes it is.
+1,65,Ses01F_script02_2_F,neutral,Sure.  This is standing on the beach waiting.  This is fighting.
+1,66,Ses01F_script02_2_M,neutral,Right
+1,67,Ses01F_script02_2_F,frustration,"I mean this is a lot of things, but it's just..."
+1,68,Ses01F_script02_2_M,frustration,[BREATHING]
+1,69,Ses01F_script02_2_F,frustration,Do you understand what I am saying?
+1,70,Ses01F_script02_2_M,frustration,I'm doing the best I can.
+1,71,Ses01F_script02_2_F,sadness,"I know you are Augie, I know."
+1,72,Ses01F_script02_2_F,sadness,"I know you meant this to be special, I know that you wanted it to be right, but I just can't help thinking that, I can't help wishing that I was somewhere else."
+1,73,Ses01F_script02_2_M,sadness,"Maybe if you were with someone else, too."
+1,74,Ses01F_script02_2_F,sadness,I didn't say that.
+1,75,Ses01F_script02_2_M,sadness,I just- I know I don't make you happy.
+1,76,Ses01F_script02_2_F,neutral,"Don't be ridiculous.  Anything that- anything I am doing, I'd rather be doing it with you."
+1,77,Ses01F_script02_2_M,neutral,Yeah?
+1,78,Ses01F_script02_2_F,neutral,Yeah.  Don't you know that?
+1,79,Ses01F_script02_2_F,neutral,For Heaven's sake Augie.
+1,80,Ses01F_script02_2_F,sadness,"You're the one who probably wishes he was with somebody else.  Somebody who doesn't take things so seriously, who could enjoy herself."
+1,81,Ses01F_script02_2_M,neutral,"You know, actually now that you mention it, no I don't."
+1,82,Ses01F_script02_2_F,neutral,"So maybe we are in the wrong spot, but we are with the right person."
+1,83,Ses01F_script02_2_M,frustration,"I don't know, it seemed like such a good spot to me."
+1,84,Ses01F_script02_2_M,neutral,"We have a great view of the moon from here, though, huh?"
+1,85,Ses01F_script02_2_F,happiness,"Hmm.  I noticed that, it's pretty. Big old white moon."
+1,86,Ses01F_script02_2_M,neutral,[BREATHING]
+1,87,Ses01F_script02_2_M,happiness,And look what I got here.
+1,88,Ses01F_script02_2_F,happiness,"Augie, you bought refreshments."
+1,89,Ses01F_script02_2_M,neutral,It's not champagne.
+1,90,Ses01F_script02_2_F,happiness,I guess we don't need glasses.
+1,91,Ses01F_script02_2_M,happiness,[BREATHING]
+1,92,Ses01F_script02_2_M,neutral,Do you want to go home?  Are you cold?
+1,93,Ses01F_script02_2_F,happiness,I'm beginning to think this might be the right spot after all.
+1,94,Ses01F_script02_2_F,sadness,"Augie, I'm sorry."
+1,95,Ses01F_script02_2_M,neutral,"Shh.  If we're very quiet, the fish might come."
+1,96,Ses01F_script02_2_F,neutral,Or not.
+1,97,Ses01F_script02_2_M,happiness,Or not.
+2,0,Ses05M_script01_1b_F,sadness,What's he going to say?  Maybe we ought to tell him before he sees it.
+2,1,Ses05M_script01_1b_M,neutral,He saw it.
+2,2,Ses05M_script01_1b_F,neutral,"What do you mean?  I was the first one up, he was still in bed."
+2,3,Ses05M_script01_1b_M,sadness,He was out here when it broke.
+2,4,Ses05M_script01_1b_F,neutral,When?
+2,5,Ses05M_script01_1b_M,sadness,About four this morning.  I heard it crack and I looked out the window and he was standing right there when it cracked.
+2,6,Ses05M_script01_1b_F,neutral,What was he doing out here four in the morning?
+2,7,Ses05M_script01_1b_M,sadness,"I don't know.  But after he saw it, he ran back into the house and started crying in the kitchen."
+2,8,Ses05M_script01_1b_F,neutral,Did you talk to him?
+2,9,Ses05M_script01_1b_M,sadness,No.  I figured it was best to leave him alone.
+2,10,Ses05M_script01_1b_F,neutral,He's dreaming about him again.  He's getting just like after Larry died. What's the meaning of that?
+2,11,Ses05M_script01_1b_M,sadness,"Yes, yes he is.  I don't know the meaning in it.  But I know one thing, mom, we made a terrible mistake with Dad."
+2,12,Ses05M_script01_1b_F,neutral,What?
+2,13,Ses05M_script01_1b_M,neutral,Being dishonest with him.  It's the kind of thing that pays off and now it's paying off.
+2,14,Ses05M_script01_1b_F,neutral,What do you mean dishonest?
+2,15,Ses05M_script01_1b_M,neutral,You know that Larry's not coming back and I know it.  So why do we go on letting him think that we believe with him?
+2,16,Ses05M_script01_1b_F,neutral,"What are you gonna do, argue with him?"
+2,17,Ses05M_script01_1b_M,frustration,I don't want to argue with him.  But it's time that he knows that nobody else believes that Larry's alive. I mean
+2,18,Ses05M_script01_1b_M,frustration,"Why shouldn't he dream about him, walk the nights waiting for him?  Do we contradict him?  Do we say outright that we don't have any hope anymore?  That we haven't had any hope for a long time?"
+2,19,Ses05M_script01_1b_F,neutral,"Well, how are you gonna prove it?  Can you prove it?"
+2,20,Ses05M_script01_1b_M,frustration,"For Gods sake, three years!  Nobody comes back after three years.  It's insane!"
+2,21,Ses05M_script01_1b_F,neutral,"To you it is and to me, but not to him."
+2,22,Ses05M_script01_1b_F,neutral,You can talk yourself blue in the face but there's no body and there's no grave.  So where are you?
+2,23,Ses05M_script01_1b_M,neutral,"Sit down, mom.  I want to talk to you."
+2,24,Ses05M_script01_1b_F,frustration,"The trouble is the God damn newspapers, I mean, ea- each week a new boy turns up out of nowhere.  So the next one is gonna be Larry.  So you--"
+2,25,Ses05M_script01_1b_M,frustration,"All right.  All right, just listen."
+2,26,Ses05M_script01_1b_M,neutral,"You know why I invited Annie, right?"
+2,27,Ses05M_script01_1b_F,neutral,Why?
+2,28,Ses05M_script01_1b_M,neutral,You know.
+2,29,Ses05M_script01_1b_F,neutral,"Well, I've got an idea but what's the story?"
+2,30,Ses05M_script01_1b_M,neutral,I'm gonna ask her to marry me.
+2,31,Ses05M_script01_1b_F,neutral,"Well, that's your business, Chris."
+2,32,Ses05M_script01_1b_M,frustration,You know it's not just my business.
+2,33,Ses05M_script01_1b_F,frustration,"What do you want me to do?  I mean, You're old enough to know your own mind."
+2,34,Ses05M_script01_1b_M,frustration,So it's all right then?  I should just go ahead with it?
+2,35,Ses05M_script01_1b_F,neutral,"Well, you want to make sure that your father isn't gonna --"
+2,36,Ses05M_script01_1b_M,neutral,"So it isn't just my business?  You infuriate me sometime, you know that."
+2,37,Ses05M_script01_1b_M,anger,"Isn't it your business, too, if I tell dad and he throws a fit about it?  You have such a talent for ignoring things."
+2,38,Ses05M_script01_1b_F,frustration,"I ignore what I got to ignore.  I mean, the girl is Larry's girl."
+2,39,Ses05M_script01_1b_M,anger,She's not Larry's girl.
+2,40,Ses05M_script01_1b_F,neutral,"As far as your father is concerned, he's not dead.  And she's still his girl."
+2,41,Ses05M_script01_1b_F,neutral,"Now, you can go on with this if you know where to go, but I don't know where to go."
+2,42,Ses05M_script01_1b_M,frustration,"I don't know why it is but every time I reach out for something that I want, I have to pull back because it might hurt somebody else, my whole bloody life, time after time, after time."
+2,43,Ses05M_script01_1b_F,neutral,"Well, you're a considerate fella.  There's nothing wrong with that."
+2,44,Ses05M_script01_1b_M,anger,what to hell with that!
+2,45,Ses05M_script01_1b_F,neutral,Have you asked Annie yet?
+2,46,Ses05M_script01_1b_M,neutral,I wanted to get this settled first.
+2,47,Ses05M_script01_1b_F,neutral,"Well, how do you know she'll marry you?  Maybe she feels like your father does."
+2,48,Ses05M_script01_1b_M,neutral,"Well, if she does then that's the end of it.  But from her letters it seems like she's forgotten him."
+2,49,Ses05M_script01_1b_M,frustration,"I'll find out and then we'll thrash it out with dad, all right?  Mom, don't avoid me."
+2,50,Ses05M_script01_1b_F,neutral,The trouble is you don't see enough women.  You never did.
+2,51,Ses05M_script01_1b_M,frustration,"So what, I'm not fast with women?"
+2,52,Ses05M_script01_1b_F,neutral,I just don't see why it has to be Annie.
+2,53,Ses05M_script01_1b_M,frustration,Because it is.
+2,54,Ses05M_script01_1b_F,neutral,"Well, that's a good reason.  But it don't mean a thing. I mean, You haven't seen her since you went to war.  It's been five years."
+2,55,Ses05M_script01_1b_M,frustration,"[garbage] I don't know.  It's just,"
+2,56,Ses05M_script01_1b_M,frustration,"she's who I know best. I know her since I- I was a kid I grew up with her.  When I think of somebody for my wife these days, I I think of Annie.  What do you want, a diagram?"
+2,57,Ses05M_script01_1b_F,frustration,"No I don't want a-  Your father thinks he's coming back, Chris.  If you marry that girl, you're pronouncing him dead."
+2,58,Ses05M_script01_1b_F,sadness,"Now, what's going to happen to your father, do you know?  I don't."
+2,59,Ses05M_script01_1b_M,frustration,"All right then, mom."
+2,60,Ses05M_script01_1b_F,neutral,Just give it some more thought.
+2,61,Ses05M_script01_1b_M,anger,"I've given it three years of thought.  I had hoped if I waited, dad would've forgotten him by now and we could have a- a regular wedding and everybody happy."
+2,62,Ses05M_script01_1b_M,anger,But if that can't happen then I'll just get out.
+2,63,Ses05M_script01_1b_F,neutral,What the hell is this?
+2,64,Ses05M_script01_1b_M,anger,"I'll get out.  I'll go get married someplace else, I- I'll live someplace else, maybe New York."
+2,65,Ses05M_script01_1b_F,anger,Are you crazy?
+2,66,Ses05M_script01_1b_M,neutral,"I've been a good son for too long, a good sucker.  I'm through with it."
+2,67,Ses05M_script01_1b_F,neutral,But you have a business here.  What the hell is this?
+2,68,Ses05M_script01_1b_M,anger,The business?  The business doesn't inspire me.
+2,69,Ses05M_script01_1b_F,anger,Must you be inspired?
+2,70,Ses05M_script01_1b_M,anger,"Yeah, I'd like one hour a day.  If I have to grub for money all day long, I'd like to go home to something beautiful.  I'd like a family.  I'd like some kids."
+2,71,Ses05M_script01_1b_M,neutral,"I'd like to build something that's my own.  And Annie is in the center of that.  Now, where do I find it?"
+2,72,Ses05M_script01_1b_F,anger,You don't want to think like that.
+2,73,Ses05M_script01_1b_M,neutral,"Well, you help me stay here."
+2,74,Ses05M_script01_1b_F,frustration,"All right.  But don't think like that because what the hell did we work for, Chris?  All of this, all of it, it's all just for you."
+2,75,Ses05M_script01_1b_M,frustration,"I know that, mom.  Just you help me stay here."
+2,76,Ses05M_script01_1b_F,neutral,"Don't think like that, do you hear me?"
+2,77,Ses05M_script01_1b_M,anger,"Well, I am thinking like that."
+2,78,Ses05M_script01_1b_F,frustration,"I don't understand you, do I?"
+2,79,Ses05M_script01_1b_M,anger,"No, you don't.  I'm a pretty tough guy."
+2,80,Ses05M_script01_1b_F,neutral,"Yeah, I can see that."
+3,0,Ses02F_script01_1_F,neutral,What's he gonna say?  Maybe we ought to tell him before he sees it.
+3,1,Ses02F_script01_1_M,neutral,He saw it.
+3,2,Ses02F_script01_1_F,neutral,"How could he see it?  I was the first one up, he was still in bed."
+3,3,Ses02F_script01_1_M,neutral,He was out here when it broke.
+3,4,Ses02F_script01_1_F,neutral,When?
+3,5,Ses02F_script01_1_M,neutral,About four this morning.  I heard it cracking and I woke up and looked out. He was standing right here when it cracked.
+3,6,Ses02F_script01_1_F,neutral,What was he doing out here at four in the morning?
+3,7,Ses02F_script01_1_M,neutral,"I don't know.  When it cracked, he ran back in the house and cried in the kitchen."
+3,8,Ses02F_script01_1_F,sadness,Did you talk to him?
+3,9,Ses02F_script01_1_M,neutral,No.  I thought it was best to leave him alone.
+3,10,Ses02F_script01_1_F,sadness,He cried hard?
+3,11,Ses02F_script01_1_M,neutral,I could hear him right through the floor of my room.
+3,12,Ses02F_script01_1_F,sadness,What was he doing out here at that hour?
+3,13,Ses02F_script01_1_F,neutral,He's dreaming about him again.  He's walking around at night.
+3,14,Ses02F_script01_1_M,neutral,I guess he is.
+3,15,Ses02F_script01_1_F,neutral,He's getting just like after he died.  What is the meaning of that?
+3,16,Ses02F_script01_1_M,neutral,"I don't know the meaning of it.  But, I know one thing Mom, we made a terrible mistake with Dad."
+3,17,Ses02F_script01_1_F,neutral,What?
+3,18,Ses02F_script01_1_M,neutral,"Being dishonest with him.  I mean, that sort of thing always pays off and now it's paying off."
+3,19,Ses02F_script01_1_F,neutral,What you mean dishonest?
+3,20,Ses02F_script01_1_M,neutral,You know that Larry's not coming back and I know it.  Why do we allow him to go on thinking that we believe with him?
+3,21,Ses02F_script01_1_F,frustration,What do you want to do argue with him?
+3,22,Ses02F_script01_1_M,neutral,"No, I don't want to argue with him, but it's about time he realized that nobody believes Larry's alive anymore?"
+3,23,Ses02F_script01_1_M,anger,Why shouldn't he dream of him and walk the nights waiting for him?  Do we contradict him?  Do we say straight out that we don't have any hope anymore?  That we haven't had hope for years now?
+3,24,Ses02F_script01_1_F,frustration,You can't say that to him.
+3,25,Ses02F_script01_1_M,frustration,We've got to say it to him.
+3,26,Ses02F_script01_1_F,frustration,Can you prove it?  How can you prove it?
+3,27,Ses02F_script01_1_M,anger,"For God sakes, it's been three years.  Nobody comes back after three years.  It's insane."
+3,28,Ses02F_script01_1_F,frustration,"To you it is and to me, but not to him.  I mean, you can talk yourself blue in the face, but he--there's no body and no grave so where are you?"
+3,29,Ses02F_script01_1_M,neutral,"Sit down, Mom.  I want to talk to you."
+3,30,Ses02F_script01_1_F,neutral,"Trouble is the God damn newspapers.  Every month or so a boy turns up out of nowhere so, you know, the next one is gonna be Larry."
+3,31,Ses02F_script01_1_M,frustration,All right.  All right.  Listen to me.  You know why I brought Annie here don't you?
+3,32,Ses02F_script01_1_F,neutral,Why?
+3,33,Ses02F_script01_1_M,neutral,You know.
+3,34,Ses02F_script01_1_F,sadness,"I've got an idea, but what's the story?"
+3,35,Ses02F_script01_1_M,neutral,I'm gonna ask her to marry me.
+3,36,Ses02F_script01_1_F,neutral,"Well, that's only your business, Chris."
+3,37,Ses02F_script01_1_M,frustration,You know it's not only my business.
+3,38,Ses02F_script01_1_F,anger,What do you want me to do?  You're old enough to know your own mind.
+3,39,Ses02F_script01_1_M,frustration,So it's all right then?
+3,40,Ses02F_script01_1_M,frustration,I'll go ahead with it?
+3,41,Ses02F_script01_1_F,neutral,"Well, you want to make sure that your father isn't going to--"
+3,42,Ses02F_script01_1_M,anger,"Well, then it isn't just my business--"
+3,43,Ses02F_script01_1_F,neutral,I'm just saying that--
+3,44,Ses02F_script01_1_M,neutral,"Ah, sometimes you infuriate me.  You know that?  I mean, isn't it your business too if I tell Dad and flips--freaks out about it?  I mean, you have such a talent for ignoring things."
+3,45,Ses02F_script01_1_F,neutral,I ignore what I gotta ignore.  The girl is Larry's girl.
+3,46,Ses02F_script01_1_M,anger,She's not Larry's girl.
+3,47,Ses02F_script01_1_F,frustration,"From your father's point of view, he isn't dead.  And you've no right to take his girl."
+3,48,Ses02F_script01_1_F,frustration,"And you can go on from there if you know where to go, but I don't know where to go.  See, I don't know.  Now what can I do for you?"
+3,49,Ses02F_script01_1_M,frustration,"I don't know why, but, every time I reach out for something that I want, I have to pull back 'cause someone else will suffer.  My whole bloody life.  Time after time after time."
+3,50,Ses02F_script01_1_F,neutral,You're a considerate fellow.  There's nothing wrong with that.
+3,51,Ses02F_script01_1_M,anger,To hell with that.
+3,52,Ses02F_script01_1_F,neutral,[BREATHING] Have you asked Annie yet?
+3,53,Ses02F_script01_1_M,neutral,I wanted to get this settled first.
+3,54,Ses02F_script01_1_F,neutral,"Well, how do you know she'll marry you?  Maybe she feels the same way your father does."
+3,55,Ses02F_script01_1_M,sadness,"Well, if she does, then that's the end of it.  But from her letters, I think she's forgotten him.  I'll find out.  And then we'll thrash it out with Dad, right?  Mom, don't avoid me."
+3,56,Ses02F_script01_1_F,sadness,"Trouble is, you don't see enough women."
+3,57,Ses02F_script01_1_F,frustration,You never did.
+3,58,Ses02F_script01_1_M,neutral,"So what, I'm not fast with women."
+3,59,Ses02F_script01_1_F,frustration,I just don't see why it has to be Annie.
+3,60,Ses02F_script01_1_M,neutral,Because it is.
+3,61,Ses02F_script01_1_F,frustration,"Well, that's a good answer, but it doesn't answer anything.  I mean, you've been away for--at war.  It's been five years."
+3,62,Ses02F_script01_1_M,neutral,"I can't help it.  I know her best.  I mean, I grew up next door to her."
+3,63,Ses02F_script01_1_M,frustration,"These years when I think of a wife, I think of Annie.  What do you want, a diagram?"
+3,64,Ses02F_script01_1_F,frustration,"I don't want a diagram.  Umm-- He thinks he's coming back, Chris.  You marry that girl and you're pronouncing him dead."
+3,65,Ses02F_script01_1_F,frustration,"I mean, what's gonna happen to your father?  Do you know?  I don't."
+3,66,Ses02F_script01_1_M,frustration,"All right.  All right, then, Mom."
+3,67,Ses02F_script01_1_F,frustration,I just--give it some more thought.
+3,68,Ses02F_script01_1_M,frustration,I've given it three years of thought.  I thought that if I waited Dad would forget about Larry and we could have a regular wedding and everything happy.
+3,69,Ses02F_script01_1_M,neutral,"But if I can't--if that can't happen here, then I'll have to get out."
+3,70,Ses02F_script01_1_F,neutral,What the hell is this?
+3,71,Ses02F_script01_1_M,neutral,I'll get out.  I'll get married and go live some place else.  Maybe New York.
+3,72,Ses02F_script01_1_F,anger,Are you crazy?
+3,73,Ses02F_script01_1_M,anger,I've been a good son too long.  A good sucker.  I'm through with it.
+3,74,Ses02F_script01_1_F,anger,What about the business?  What the hell is this?
+3,75,Ses02F_script01_1_M,anger,The business?  The business doesn't inspire me.
+3,76,Ses02F_script01_1_F,anger,Must you be inspired?
+3,77,Ses02F_script01_1_M,anger,"Yes.  I like it an hour a day.  If I'm gonna grub for my money all day long, at least in the evening I want it beautiful."
+3,78,Ses02F_script01_1_M,neutral,"I want a family.  I want kids.  I want something that I can give myself to.  Annie's in the middle of that.  Now, where do I find it?"
+3,79,Ses02F_script01_1_F,neutral,"Tell me, you'd leave the business?"
+3,80,Ses02F_script01_1_M,neutral,"Yes, on this I would."
+3,81,Ses02F_script01_1_F,anger,"Well, you don't want to think like that."
+3,82,Ses02F_script01_1_M,neutral,Then help me stay here.
+3,83,Ses02F_script01_1_F,neutral,"All right, but just don't go thinkin' like that 'cause otherwise what did we work for?  I mean, the whole thing is for you, Chris.  The whole shootin' match is for you."
+3,84,Ses02F_script01_1_M,frustration,"I know.  I know, Mom.  Just help me stay here."
+3,85,Ses02F_script01_1_F,frustration,"All right.  Just-- just don't go thinkin' that way, you hear me?"
+3,86,Ses02F_script01_1_M,neutral,I am thinkin' that way.
+3,87,Ses02F_script01_1_F,frustration,"I don't understand you, do I?"
+3,88,Ses02F_script01_1_M,neutral,"No, you don't.  I'm a pretty tough guy."
+3,89,Ses02F_script01_1_F,sadness,I can see that.
+4,0,Ses02M_impro07_M,neutral,"[BREATHING] So, you know I've been hearing back from some colleges."
+4,1,Ses02M_impro07_F,neutral,"Oh, yeah? Have you gotten letters yet?"
+4,2,Ses02M_impro07_M,neutral,Yeah. And guess who accepted me?
+4,3,Ses02M_impro07_F,neutral,"Um, I don't know, where?"
+4,4,Ses02M_impro07_M,neutral,U.S.C..
+4,5,Ses02M_impro07_F,neutral,"Oh, U.S.C.? Oh my Gosh, that's awesome, that was your top choice, right?"
+4,6,Ses02M_impro07_F,neutral,"Oh my Gosh, that's so cool."
+4,7,Ses02M_impro07_M,neutral,"Yeah, oh. I - You have no-"
+4,8,Ses02M_impro07_M,neutral,"God, I-I got this big packet you know, in the mail and it's like-"
+4,9,Ses02M_impro07_M,neutral,"yes, this is [LAUGHTER], it says U.S.C., like registrar, I mean like, I got-I got some like little letters before you know, it's like oh rejection"
+4,10,Ses02M_impro07_F,neutral,"[LAUGHTER] It's gotta be it, like-"
+4,11,Ses02M_impro07_F,neutral,"Oh my Gosh, that's so cool."
+4,12,Ses02M_impro07_M,neutral,"but big packet, big packet is nice"
+4,13,Ses02M_impro07_F,neutral,big packet is gotta be the real thing. yeah
+4,14,Ses02M_impro07_M,neutral,"So it's like, yes, rip it open and there it is big - oh, yes."
+4,15,Ses02M_impro07_F,neutral,"Oh my Gosh. I thought there was like, maybe going to be some, like I don't know if you are going to get in or not, so I'm really glad that you did."
+4,16,Ses02M_impro07_F,neutral,That's so cool.
+4,17,Ses02M_impro07_M,neutral,"Yeah. I know, I know."
+4,18,Ses02M_impro07_M,happiness,it was you know I wasn't too sure I mean you know it was kind of last minute for like the application
+4,19,Ses02M_impro07_M,happiness,and everything like but
+4,20,Ses02M_impro07_F,neutral,"Yeah, totally."
+4,21,Ses02M_impro07_M,happiness,"it was good, yeah. I mean-"
+4,22,Ses02M_impro07_F,neutral,So you're going to be right here in Los Angeles; that is so cool.
+4,23,Ses02M_impro07_M,neutral,"I know, I know, yea. It'll be interesting you know, I've never -- I mean getting out of Vegas and everything but LA"
+4,24,Ses02M_impro07_M,neutral,I'm looking forward to it.
+4,25,Ses02M_impro07_F,neutral,So can we hang out?
+4,26,Ses02M_impro07_M,neutral,"Hey, yes, you know that's - that's what I'm coming for."
+4,27,Ses02M_impro07_F,neutral,Yay.
+4,28,Ses02M_impro07_M,neutral,You're half the reason I'm going. [LAUGHTER]
+4,29,Ses02M_impro07_F,neutral,"Oh, yay. Thank you. [LAUGHTER]."
+4,30,Ses02M_impro07_F,happiness,No but that's an awesome school. That's so cool.
+4,31,Ses02M_impro07_M,neutral,"I know ahh- yeah-, I'm definitely looking forward to it, and I mean they had a great football season last year"
+4,32,Ses02M_impro07_F,happiness,"Oh, totally totally."
+4,33,Ses02M_impro07_M,neutral,"You know what I mean, I bet the home games, are just like nuts you know."
+4,34,Ses02M_impro07_F,happiness,you get to like be a part of that.
+4,35,Ses02M_impro07_F,happiness,"Like you get to be a part of that. Like the, like the- Like a cult."
+4,36,Ses02M_impro07_M,neutral,What?
+4,37,Ses02M_impro07_M,neutral,[LAUGHTER] I know. I mean part of-
+4,38,Ses02M_impro07_F,happiness,"[LAUGHTER] like a- like a- [LAUGHTER] No, but I mean like everywhere you go people know who you are."
+4,39,Ses02M_impro07_M,neutral,Yeah. Right. A cult. I'm looking forward to being in the cult.
+4,40,Ses02M_impro07_M,neutral,"Right I know, like you, it won't hurt, I mean national champions last year, wow, you know"
+4,41,Ses02M_impro07_M,neutral,Maybe we'll do it again this year.
+4,42,Ses02M_impro07_F,happiness,So you know what you are going to do there?
+4,43,Ses02M_impro07_M,happiness,"What's that? ahh Well, you know I'm I'm thinking um I'm leaning towards like communications"
+4,44,Ses02M_impro07_M,happiness,"I-I don't know. Kind of a broad,"
+4,45,Ses02M_impro07_F,happiness,"Okay. They have a lot of good schools, right?"
+4,46,Ses02M_impro07_M,happiness,"yeah, I mean a lot-a lot  of good stuff oh, yeah, I mean it's- it's just a really good school; so really, whatever I pick I can't go wrong. I mean I'm just"
+4,47,Ses02M_impro07_M,happiness,"I'm looking forward to getting there. I mean, God, the campus is cool, you know it's like all just very confined I mean just you know it's a college campus you know it's like"
+4,48,Ses02M_impro07_F,happiness,"Yes, it's intimate."
+4,49,Ses02M_impro07_M,neutral,"It's college- oh my God it's college, [GARBAGE] so it's like crazy."
+4,50,Ses02M_impro07_F,neutral,I know. It's so cool.
+4,51,Ses02M_impro07_M,neutral,"Oh man. So, I don't know you know, we'll see - we'll see how it goes and, yeah, I'm looking forward to it"
+4,52,Ses02M_impro07_F,neutral,"Fair for you, Wow, oh my Gosh."
+4,53,Ses02M_impro07_M,neutral,I mean you got to - you got to show me the ropes 'cause I've never been there before so I mean you know your way around already and- [LAUGHTER]
+4,54,Ses02M_impro07_F,happiness,I will do the best I can.
+4,55,Ses02M_impro07_F,neutral,"Well, there are all kinds of awesome secrets so you'll really enjoy it. It's really great. I'm so glad."
+4,56,Ses02M_impro07_M,happiness,"Oh, alright."
+4,57,Ses02M_impro07_M,neutral,"I'm-I'm looking forward to that. [BREATHING] man, So yeah, I think I'm going to come out a little early so I mean I'll give you a call and we'll definitely-"
+4,58,Ses02M_impro07_F,neutral,Yay
+4,59,Ses02M_impro07_F,neutral,"Okay. Yes, totally come visit"
+4,60,Ses02M_impro07_F,happiness,"and we'll explore and you going to have such a good time, you're going to fit in so well, it's going to be awesome"
+4,61,Ses02M_impro07_M,neutral,"[LAUGHTER] Thanks, yes, thanks, yes That'll be cool."
+4,62,Ses02M_impro07_F,happiness,So Congratulations. That's awesome.
+5,0,Ses01M_impro07_M,neutral,Check this out.  You know how I've told you I've been really into like softball recently?
+5,1,Ses01M_impro07_F,neutral,Yeah.
+5,2,Ses01M_impro07_M,neutral,"Well, this is totally random, I got this full ride scholarship to go to U.S.C next year to play softball."
+5,3,Ses01M_impro07_F,neutral,[LAUGHTER]. For softball? That's unbelievable. Is it slow pitch?
+5,4,Ses01M_impro07_M,neutral,For softball.  They're going to pay me to go to school. Isn't that awesome?
+5,5,Ses01M_impro07_M,neutral,"Yeah.  Well, I don't--well yeah I can pitch, I'm not like the pitcher though. I'm like the pinch hitter guy I mostly just hit.  But I guess I'm going to have to... Yeah, and then I play shortstop too but... It's so ex- The good news is I get to stay here."
+5,6,Ses01M_impro07_F,neutral,Uh huh.
+5,7,Ses01M_impro07_F,neutral,Pinch hitting softball.
+5,8,Ses01M_impro07_F,neutral,That is incredible.
+5,9,Ses01M_impro07_F,neutral,That's amazing. They pay for everything?
+5,10,Ses01M_impro07_M,neutral,"I know. For softball, yeah."
+5,11,Ses01M_impro07_F,neutral,"Your housing, books, everything? That is incredible."
+5,12,Ses01M_impro07_M,neutral,"Yeah, everything. Every like- free ride and I get to, you know, like be on like a Trojans sports team too. And it's like cool. Isn't it awesome?"
+5,13,Ses01M_impro07_F,neutral,That is incredible. Do you get like a per diem?
+5,14,Ses01M_impro07_M,happiness,"I don't know. I should ask. Yeah, I will."
+5,15,Ses01M_impro07_F,neutral,You should...You should look into that.
+5,16,Ses01M_impro07_F,neutral,"That is amazing, congratulations. Good for you."
+5,17,Ses01M_impro07_M,neutral,Thank you.
+5,18,Ses01M_impro07_M,neutral,But I don't know I want to live in the housing that they give me though 'cause I think I want to you know like get like a nicer place.
+5,19,Ses01M_impro07_F,neutral,Oh.
+5,20,Ses01M_impro07_F,neutral,"Yeah, that you probably. You should see one of these Victorian houses around by."
+5,21,Ses01M_impro07_M,neutral,Where should I move?
+5,22,Ses01M_impro07_M,neutral,"That's a really good idea. Or I could go to like Santa Monica. Go beach. Venice beach, yeah a little dirty though. I don't want to go to Venice beach. But - Malibu. All right."
+5,23,Ses01M_impro07_F,neutral,Oh. Venice beach.
+5,24,Ses01M_impro07_F,neutral,"Oh, you don't like that. You're west-sider?"
+5,25,Ses01M_impro07_F,neutral,"Okay. That would be way too much of a commute you can't do that. Especially- I know especially from--I don't know, what I was going to say, I don't know."
+5,26,Ses01M_impro07_M,happiness,Professional softball player Malibu. [LAUGHTER]
+5,27,Ses01M_impro07_M,neutral,From where? Huh? Well I'm from San Francisco.
+5,28,Ses01M_impro07_F,neutral,I don't know. Commuting from what Malibu that would be ridiculous.
+5,29,Ses01M_impro07_M,happiness,"Oh yeah, that would be.  Well, depends on what type of car you had, though too. I guess it would be worth it. helicopter. Yeah, helicopter.  There is a helipad there, right? Yeah, exactly."
+5,30,Ses01M_impro07_F,neutral,Oh yeah. He'd drop you right off at practice?
+5,31,Ses01M_impro07_F,neutral,Do you--are you one of those like four a clock in the morning practices?  Is it--that's more like swimming and- --ballet and things like that.
+5,32,Ses01M_impro07_M,neutral,Yeah. I think it's in the afternoon 'cause I mean can't be too early 'cause then you can't see the ball.
+5,33,Ses01M_impro07_F,neutral,They have those neon--softballs.  They're like day-glow you can see them anywhere.
+5,34,Ses01M_impro07_M,neutral,"Yeah, but no. Well, they have a night games but you know there's more like night games they're not like morning games, you know. I guess it's kind of same thing."
+5,35,Ses01M_impro07_F,neutral,I'm surprised you don't know that.
+5,36,Ses01M_impro07_F,neutral,Oh. That is incredible. Is it--
+5,37,Ses01M_impro07_F,neutral,"do they have a--is it a co-ed softball team?  I mean... Really? You know, I didn't even know that they have that."
+5,38,Ses01M_impro07_M,neutral,No it's all boys. All boys' softball team.
+5,39,Ses01M_impro07_M,happiness,They do it's--believe me it's huge.
+5,40,Ses01M_impro07_F,neutral,Who do you play? Like do--are you like... nationally ranked?
+5,41,Ses01M_impro07_M,neutral,I just got into it. I just kind of fell into it. Literally I was walking around and...
+5,42,Ses01M_impro07_F,neutral,That is unbelievable.
+5,43,Ses01M_impro07_M,happiness,It's pretty wild.
+5,44,Ses01M_impro07_F,neutral,I would put that right up there with--ping-pong.
+5,45,Ses01M_impro07_M,neutral,"Yeah, well I doubt [GARBAGE] ping pong [GARBAGE]"
+5,46,Ses01M_impro07_F,neutral,I mean not to denigrate what you are doing.  I think that's great.
+5,47,Ses01M_impro07_M,neutral,Oh you mean it's not really sport that what you're saying?
+5,48,Ses01M_impro07_F,neutral,"No, no.  I love softball. I played softball all the time."
+5,49,Ses01M_impro07_M,neutral,It's totally a sport. What are you talking about?
+5,50,Ses01M_impro07_M,neutral,"What, just 'cause I don't play regular baseball doesn't mean I'm like any less of like a sports guy."
+5,51,Ses01M_impro07_F,neutral,I am not saying you should be. I'm not no. I think it's great I think you should be incredibly proud yourself especially because you're going to U.S.C for free for doing it. For free.
+5,52,Ses01M_impro07_M,neutral,For free that's really what it's about. I mean who cares I mean if I have to play softball all the time?
+5,53,Ses01M_impro07_M,neutral,But they got to like drive around in a bus--that would suck.
+5,54,Ses01M_impro07_F,neutral,Oh really? With the whole team?
+5,55,Ses01M_impro07_M,neutral,Yeah we have like away games and stuff.
+5,56,Ses01M_impro07_F,neutral,What are your teammates like? I'm sure you don't know yet? What kind of people play softball?
+5,57,Ses01M_impro07_M,neutral,They're nice.
+5,58,Ses01M_impro07_M,neutral,"Like, you know like police officers, like--kind of heavyset guys. Mustaches, yeah. It's that kind of-"
+5,59,Ses01M_impro07_F,neutral,Oh really?
+5,60,Ses01M_impro07_F,neutral,Cool. You don't seem like you'd fit in there.
+5,61,Ses01M_impro07_M,neutral,That kind of...They're okay.  No I'm like- I'm kind of like the odd man out I'm like...
+5,62,Ses01M_impro07_F,neutral,"Oh, cool."
+5,63,Ses01M_impro07_M,neutral,But you know I'm like [GARBAGE].
+5,64,Ses01M_impro07_F,happiness,You're like the rookie? The new kid.
+5,65,Ses01M_impro07_M,neutral,Yeah.
+5,66,Ses01M_impro07_F,happiness,Just watch in five years you'll be like on the force. You carry around donuts in your back pocket... [LAUGHTER]
+5,67,Ses01M_impro07_M,happiness,I'm going to have a mustache...On the force...
+5,68,Ses01M_impro07_M,happiness,Pull over..
+6,0,Ses01M_impro04_F,neutral,You seem kind of down.
+6,1,Ses01M_impro04_M,neutral,I'm just mad.
+6,2,Ses01M_impro04_F,neutral,How come?
+6,3,Ses01M_impro04_M,frustration,It's--I've been trying to find this job I can't get any job.
+6,4,Ses01M_impro04_M,frustration,It's not fair.
+6,5,Ses01M_impro04_F,neutral,What do you mean?
+6,6,Ses01M_impro04_M,frustration,"I mean I've been looking for a job for like three years and I can't get a job.  I mean like, it's America, right?  I should be able to get a job."
+6,7,Ses01M_impro04_F,neutral,There's a lot of people looking for jobs.
+6,8,Ses01M_impro04_M,frustration,"I guess.  But three years?  I mean, I like--I went to college even, I mean I didn't finish but I went for like a little bit.  It's not fair, I don't know."
+6,9,Ses01M_impro04_F,neutral,"I don't know, I mean, I just don't think..."
+6,10,Ses01M_impro04_M,frustration,"I mean I've been sending out my resumes and doing everything I can do but nothing is happening.  You know, it's like I can't and I can't keep living on loans anymore like this.  I'm going to--I mean eventually I'm going to have to pay it back. I'm just kind of freaking out, I don't know."
+6,11,Ses01M_impro04_F,neutral,Did you ever think it might be your attitude that's...
+6,12,Ses01M_impro04_M,neutral,"What's my--like what do you mean ""my attitude""?"
+6,13,Ses01M_impro04_F,neutral,"I don't know just sometimes you get kind of... No, I'm not saying that.  I just--"
+6,14,Ses01M_impro04_M,neutral,Do I have an attitude problem?
+6,15,Ses01M_impro04_M,frustration,"No, well maybe it's because I'm like frustrated 'cause I can't get a job, you know."
+6,16,Ses01M_impro04_F,neutral,...has anyone ever just said anything like that to you before?
+6,17,Ses01M_impro04_M,frustration,"Like it's really hard to like shake that off when you go into like audition a room or whatever, you know what I mean?"
+6,18,Ses01M_impro04_F,neutral,"Right, sure."
+6,19,Ses01M_impro04_F,neutral,"But I mean you kind of got to, you got to fake it 'til you feel it, right?"
+6,20,Ses01M_impro04_M,frustration,"I guess I just getting really hard to fake, you know."
+6,21,Ses01M_impro04_F,neutral,I'm just saying that if I was looking to hire somebody in the--or kind of... No. No. No.
+6,22,Ses01M_impro04_M,frustration,"Are you hiring? Wait, do you know of a job? Seriously, do you know, like do you know of anything though?  Like, oh please, do you know of anything?"
+6,23,Ses01M_impro04_F,neutral,No.  I'm just saying though that if I was a person who was hiring somebody I-- --would not hire someone who was angry or upset.
+6,24,Ses01M_impro04_M,frustration,Yeah.
+6,25,Ses01M_impro04_M,frustration,I come across angry?
+6,26,Ses01M_impro04_F,neutral,No.
+6,27,Ses01M_impro04_M,anger,What?
+6,28,Ses01M_impro04_F,neutral,"Well, you know a little.  If you were to listen to--"
+6,29,Ses01M_impro04_M,frustration,"Okay.  You're my friend you can tell me stuff.  You can tell me honestly stuff, okay?  Please."
+6,30,Ses01M_impro04_F,neutral,I just don't want you to fly off the handle.
+6,31,Ses01M_impro04_M,frustration,"Okay, I'm not flying off the handle I don't think I'm flying off the handle here at all."
+6,32,Ses01M_impro04_F,neutral,You kind of have a short fuse.
+6,33,Ses01M_impro04_M,frustration,I have a short fuse?
+6,34,Ses01M_impro04_F,neutral,Yeah.
+6,35,Ses01M_impro04_M,anger,"Okay. Okay no, no, no, no okay no, I need to hear this more. Come on, bring it."
+6,36,Ses01M_impro04_F,neutral,"Like this, right now we're trying have a conversation."
+6,37,Ses01M_impro04_F,neutral,We're trying to have a conversation and you seem extremely hostile. You keep cutting me off.
+6,38,Ses01M_impro04_M,neutral,"Well, it's 'cause I can't get a job, okay?"
+6,39,Ses01M_impro04_M,frustration,I'm not always right I'm just--
+6,40,Ses01M_impro04_F,neutral,I can't finish the sentence with you without you jumping in...
+6,41,Ses01M_impro04_F,neutral,...and you're always right.
+6,42,Ses01M_impro04_M,neutral,fine okay.
+6,43,Ses01M_impro04_F,neutral,You have an excuse for everything.
+6,44,Ses01M_impro04_M,frustration,[BREATHING]
+6,45,Ses01M_impro04_F,neutral,I'm just saying that maybe you should take in some information before you produce more of your own.
+6,46,Ses01M_impro04_M,anger,I'm like a sponge I'm like soaked up with all this information for like three years I'm just dying for a job to like put it in to.
+6,47,Ses01M_impro04_F,neutral,[BREATHING]
+6,48,Ses01M_impro04_F,frustration,That's -.
+6,49,Ses01M_impro04_M,frustration,"You know, and like I don't think it's that much to ask. I know."
+6,50,Ses01M_impro04_F,neutral,"Well, what kind of field are you looking to go into?"
+6,51,Ses01M_impro04_M,neutral,That's it.
+7,0,Ses01M_script01_3_F,neutral,The only one I know still love his parents.
+7,1,Ses01M_script01_3_M,happiness,"Yeah, that kind of went out of style didn't it?"
+7,2,Ses01M_script01_3_F,neutral,Oh it's not bad thing it's good thing.
+7,3,Ses01M_script01_3_F,neutral,"You know it's nice here, the air is sweet."
+7,4,Ses01M_script01_3_M,happiness,You're not sorry you came?
+7,5,Ses01M_script01_3_F,sadness,"Not sorry, no.  I can't stay here."
+7,6,Ses01M_script01_3_M,sadness,Why not?
+7,7,Ses01M_script01_3_F,neutral,For one thing your mother as much as told me to go.
+7,8,Ses01M_script01_3_M,neutral,Well.
+7,9,Ses01M_script01_3_F,sadness,[BREATHING] And then you've been kind of...
+7,10,Ses01M_script01_3_M,neutral,What?
+7,11,Ses01M_script01_3_F,sadness,You've been kind of embarrassed ever since I got here.
+7,12,Ses01M_script01_3_M,neutral,"I was kind of planning on sneaking up on you, you know over like a course of a week or so. They just take for granted that we're already set."
+7,13,Ses01M_script01_3_F,neutral,"I knew they would, your mother anyway."
+7,14,Ses01M_script01_3_M,neutral,You did?
+7,15,Ses01M_script01_3_F,neutral,From her point of view why else would I come?
+7,16,Ses01M_script01_3_M,neutral,Yeah--
+7,17,Ses01M_script01_3_M,neutral,"So then would you want to?  I mean I guess, you kind of have to know, maybe that's why I asked you to come."
+7,18,Ses01M_script01_3_F,neutral,Well I guess that's why I came.
+7,19,Ses01M_script01_3_M,happiness,"Ann, I love you.  I love you."
+7,20,Ses01M_script01_3_M,neutral,I love you a great deal.
+7,21,Ses01M_script01_3_M,neutral,I'm sorry I don't really have much of an imagination.
+7,22,Ses01M_script01_3_F,neutral,"Chris,"
+7,23,Ses01M_script01_3_M,neutral,"I'm sorry I'm embarrassing you, aren't I?  See, I didn't want to do it here I didn't on this porch, with this ring--I didn't want to win you away from anything."
+7,24,Ses01M_script01_3_F,neutral,"I've been ready a long, long time."
+7,25,Ses01M_script01_3_M,neutral,So then he's gone.  You sure?
+7,26,Ses01M_script01_3_F,neutral,I almost got married two years ago.
+7,27,Ses01M_script01_3_M,neutral,Why didn't you?
+7,28,Ses01M_script01_3_F,neutral,You started to write me.
+7,29,Ses01M_script01_3_M,neutral,You felt something that far back?
+7,30,Ses01M_script01_3_F,neutral,Everyday since.
+7,31,Ses01M_script01_3_M,neutral,why didn't you let me know?
+7,32,Ses01M_script01_3_F,neutral,"Because I was waiting for you, Chris.  Till then you never wrote me and then when you did, well, you sure can be ambiguous you know."
+7,33,Ses01M_script01_3_M,neutral,"Oh Annie, why don't you go ahead and give me a kiss, come on just a..."
+7,34,Ses01M_script01_3_M,neutral,I kissed you.  I kissed Annie.
+7,35,Ses01M_script01_3_F,happiness,I'll never forgive you for waiting so long.  All I did was sit around and wonder if I was crazy for thinking about you.
+7,36,Ses01M_script01_3_M,happiness,I kissed you.
+7,37,Ses01M_script01_3_F,neutral,"Like Larry's brother.  Do what like you, Chris."
+7,38,Ses01M_script01_3_F,sadness,"Chris, what's the matter?"
+7,39,Ses01M_script01_3_M,sadness,Do you want to go somewhere?  Let's go.
+7,40,Ses01M_script01_3_F,sadness,"No, what is it?  Is your mother?"
+7,41,Ses01M_script01_3_M,sadness,"No, no, it's nothing like that."
+7,42,Ses01M_script01_3_F,neutral,"Well, then what?  You know, even in your letter you seem kind of ashamed."
+7,43,Ses01M_script01_3_M,sadness,I don't know it's--it's complicated. But it's going from me now.
+7,44,Ses01M_script01_3_F,sadness,You got to tell me.
+7,45,Ses01M_script01_3_M,sadness,I don't know.
+7,46,Ses01M_script01_3_M,sadness,It's kind of all mixed up with all these other things.
+7,47,Ses01M_script01_3_F,sadness,Wouldn't work like this.
+7,48,Ses01M_script01_3_M,sadness,you know over seas I was in command of the company?
+7,49,Ses01M_script01_3_F,sadness,"Yeah, sure."
+7,50,Ses01M_script01_3_M,sadness,Well I lost them.
+7,51,Ses01M_script01_3_F,sadness,How many?
+7,52,Ses01M_script01_3_M,sadness,Pretty much all.
+7,53,Ses01M_script01_3_F,sadness,[BREATHING]. Geez.
+7,54,Ses01M_script01_3_M,sadness,"Takes awhile to toss something like that off.  I mean they weren't just men, you know."
+7,55,Ses01M_script01_3_M,sadness,"For instance, there was this one time when this kid--it had been raining for like several days and he gave me his last pair of dry socks."
+7,56,Ses01M_script01_3_M,sadness,He just put it in my pocket that's the kind of guys I had.
+7,57,Ses01M_script01_3_M,sadness,"They didn't die they killed themselves for each other and I mean that exactly, you know a little more selfish and they'll all be here today..."
+7,58,Ses01M_script01_3_M,sadness,"And I had this idea as I was watching them go down like everything was being destroyed, you know.  But I felt like this one new thing was being made, you know it's kind of like this.  This monument..."
+7,59,Ses01M_script01_3_M,sadness,"You know, that they were bringing something on to this earth, a kind of sacrifice you know."
+7,60,Ses01M_script01_3_M,sadness,"I thought I would change everything you know, and I got back here and it was- it was like nothing had changed at all..."
+7,61,Ses01M_script01_3_M,sadness,You know.  I went to work with dad and I started that whole rat race again...
+7,62,Ses01M_script01_3_M,sadness,And no one had changed it was just like sort of random bus accident to them.
+7,63,Ses01M_script01_3_M,sadness,Driving my new car and I felt guilty you know opening my bank book seeing a new refrigerator.
+7,64,Ses01M_script01_3_M,sadness,'Cause you can take those things out of a war.  But you have to realize that those things came out of the love that a man can have for another man...
+7,65,Ses01M_script01_3_M,sadness,And if you can't see that then it's just loot and there's blood all over it.
+7,66,Ses01M_script01_3_M,sadness,I felt ashamed and I didn't want any part of it.  I guess I included you too.
+7,67,Ses01M_script01_3_F,sadness,Do you still feel that way?
+7,68,Ses01M_script01_3_M,sadness,I want you to know Annie.
+7,69,Ses01M_script01_3_F,neutral,"'Cause you mustn't feel that way.  Everything you have, you have a right to..."
+7,70,Ses01M_script01_3_F,neutral,Everything Chris do you understand that?  To me too...
+7,71,Ses01M_script01_3_F,neutral,And your money there's nothing wrong in your money.  Your father put hundreds of planes into the air.  You should be proud of that a man should be paid for that.
+7,72,Ses01M_script01_3_M,neutral,Annie...
+7,73,Ses01M_script01_3_M,happiness,I'm going to make a fortune for you.
+7,74,Ses01M_script01_3_F,happiness,What would I do with a fortune?
+8,0,Ses02F_script01_3_F,neutral,You're the only one I know who loves his parents.
+8,1,Ses02F_script01_3_M,neutral,"I know, it went out of style, didn't it?"
+8,2,Ses02F_script01_3_F,neutral,It's all right.  It's a good thing.
+8,3,Ses02F_script01_3_F,neutral,"You know, it's lovely here, the air is sweet."
+8,4,Ses02F_script01_3_M,neutral,You're not sorry you came?
+8,5,Ses02F_script01_3_F,neutral,"No, not sorry.  Um, but, I'm- I'm not gonna stay."
+8,6,Ses02F_script01_3_M,neutral,Why?
+8,7,Ses02F_script01_3_F,neutral,"Well, for one thing, your mother as much as told me to go."
+8,8,Ses02F_script01_3_M,neutral,Oh.
+8,9,Ses02F_script01_3_F,neutral,"You saw that.  I mean and then, well, you've been kind of, um--"
+8,10,Ses02F_script01_3_M,neutral,What?
+8,11,Ses02F_script01_3_F,neutral,"Well, kind of embarrassed ever since I got here."
+8,12,Ses02F_script01_3_M,neutral,"The trouble is, I planned on sort of sneaking up on you over a period of a week or so.  But, they take it for granted that we're all set."
+8,13,Ses02F_script01_3_F,neutral,"I knew they would, your mother anyway."
+8,14,Ses02F_script01_3_F,neutral,"Well,"
+8,15,Ses02F_script01_3_F,sadness,"from her point of view, why else would I come?"
+8,16,Ses02F_script01_3_M,neutral,"Oh.  Would you want to?  I guess you know, this is why I asked you to come."
+8,17,Ses02F_script01_3_F,neutral,I--I guess this is why I came.
+8,18,Ses02F_script01_3_M,neutral,"Anne, I love you.  I love you a great deal.  I love you."
+8,19,Ses02F_script01_3_M,neutral,I have no imagination.  That's all I know to tell you.
+8,20,Ses02F_script01_3_M,neutral,I'm embarrassing you and I didn't want to tell it to you here.  I wanted some place we'd never been before.  A place where we'd be brand new to each other.
+8,21,Ses02F_script01_3_M,neutral,"You feel it's wrong here, don't you?  This yard, this chair.  I want you to be ready for me.  I don't want to have to win you away from anything."
+8,22,Ses02F_script01_3_F,neutral,"Oh, Chris, I've been ready for a long, long time."
+8,23,Ses02F_script01_3_M,neutral,And he's gone forever.  You're sure?
+8,24,Ses02F_script01_3_F,happiness,I almost got married two years ago.
+8,25,Ses02F_script01_3_M,neutral,Why didn't you?
+8,26,Ses02F_script01_3_F,happiness,You started to write me and--
+8,27,Ses02F_script01_3_M,neutral,You felt something that far back?
+8,28,Ses02F_script01_3_F,happiness,Every day since.
+8,29,Ses02F_script01_3_M,neutral,"Anne, why didn't you let me know?"
+8,30,Ses02F_script01_3_F,neutral,"Well, I was waiting for you.  I mean, till then you never wrote and when you did, I mean, what did you say?  You can sure be ambiguous sometimes."
+8,31,Ses02F_script01_3_M,neutral,"Give me a kiss, Anne.  Give me a-"
+8,32,Ses02F_script01_3_M,neutral,"oh God, I kissed you.  I kissed Annie.  How long--how long I've been waiting to kiss you."
+8,33,Ses02F_script01_3_F,happiness,I will never forgive you.  Why did you wait all these years?  All I did was sit and wonder if I was crazy for thinking of you.
+8,34,Ses02F_script01_3_M,neutral,"Oh, Annie, we're gonna live now.  I'm gonna make you so happy."
+8,35,Ses02F_script01_3_F,neutral,Not like that you're not.
+8,36,Ses02F_script01_3_M,neutral,I kissed you.
+8,37,Ses02F_script01_3_F,neutral,"Like Larry's brother.  Do it like you, Chris.  What is it?"
+8,38,Ses02F_script01_3_M,neutral,Let's drive someplace.  I want to be alone with you.
+8,39,Ses02F_script01_3_F,neutral,"No.  What is it, your mother?"
+8,40,Ses02F_script01_3_M,sadness,No.  Nothing like that.
+8,41,Ses02F_script01_3_F,sadness,"Then, what's wrong?  I mean, even in your letters there was some--something ashamed."
+8,42,Ses02F_script01_3_M,sadness,"Yeah, I suppose I have been.  But it's going from me."
+8,43,Ses02F_script01_3_F,sadness,You've gotta tell me.
+8,44,Ses02F_script01_3_M,sadness,I don't know how to start.
+8,45,Ses02F_script01_3_F,sadness,It wouldn't work this way.
+8,46,Ses02F_script01_3_M,sadness,"It's all mixed up with so many other things.  You remember overseas, I was in command of a company?"
+8,47,Ses02F_script01_3_F,sadness,"Yeah, sure."
+8,48,Ses02F_script01_3_M,sadness,"Well, I lost them."
+8,49,Ses02F_script01_3_F,sadness,How many?
+8,50,Ses02F_script01_3_M,sadness,Just about all.
+8,51,Ses02F_script01_3_F,sadness,"Oh, gee."
+8,52,Ses02F_script01_3_M,sadness,It takes some time for a guy to toss that off.  'Cause they weren't just men.
+8,53,Ses02F_script01_3_M,sadness,"For instance, one time, it had been raining several days and this kid came to me and gave me his last pair of dry socks.  I put them in pocket.  It's only a little thing, but that's the kind of guys I had."
+8,54,Ses02F_script01_3_M,sadness,"They didn't die, they killed themselves for each other.  I mean that exactly.  A little more selfish and they'd have been here today."
+8,55,Ses02F_script01_3_M,sadness,"I got this idea watching them go down.  Everything was being destroyed, see, but it seemed that there was one new thing being made.  A sort of responsibility.  Man for man."
+8,56,Ses02F_script01_3_M,sadness,"You know what I mean?  To show that, to bring that onto the Earth again, like some kind of monument and everyone would feel it standing behind him and it would make a difference to him."
+8,57,Ses02F_script01_3_M,sadness,Then I came back and it was incredible.  There was no meaning in it here.  The whole thing to them seemed like sort of a bus accident.  I went to work with Dad and that rat race again.
+8,58,Ses02F_script01_3_M,sadness,"And I felt what you said, ashamed somehow 'cause nobody was changed at all.  It seemed to make suckers out of a lot of guys.  I felt wrong to be alive to open the new bank book, drive the new car, see the new refrigerator."
+8,59,Ses02F_script01_3_M,sadness,"I mean, you can take those things out of a war, but when you drive that car, you've gotta know that it came out of the love a man can have for a man.  You've gotta be a little better because of it."
+8,60,Ses02F_script01_3_M,sadness,Because otherwise all you have is really loot and there's blood on it.  And I didn't want to take any of it.  And I guess that included you.
+8,61,Ses02F_script01_3_F,sadness,You still feel that way?
+8,62,Ses02F_script01_3_M,neutral,I want you now Annie.
+8,63,Ses02F_script01_3_F,neutral,"'Cause you mustn't feel that way.  Because you have a right to everything that you have.  Do you understand that?  Everything, Chris, and me too."
+8,64,Ses02F_script01_3_F,neutral,"I mean, and your money, there's nothing wrong with your money.  I mean, your father put hundreds of planes in the air.  A man should be paid for that."
+8,65,Ses02F_script01_3_M,neutral,"I know Annie.  Annie, I'm gonna make a fortune for you."
+8,66,Ses02F_script01_3_F,happiness,What'll I do with a fortune?
+9,0,Ses02M_impro05_M,neutral,Hi. Um-
+9,1,Ses02M_impro05_F,neutral,"Hi, can I help you?"
+9,2,Ses02M_impro05_M,neutral,It seems that uh- my-my bag didn't make it out on the carousel.
+9,3,Ses02M_impro05_F,neutral,"Oh, did you check? Did you make sure as it went around the second time that it-"
+9,4,Ses02M_impro05_M,neutral,"Yes, yes, it's gone around like you know twenty times. It's been about a half hour."
+9,5,Ses02M_impro05_F,neutral,"Okay. Well, um- the f."
+9,6,Ses02M_impro05_F,neutral,"Actually I'm looking here at the information, the flight that you were on we had some trouble with some of the baggage, it looks like a few peoples' bags didn't make it through. Um, so-"
+9,7,Ses02M_impro05_M,neutral,Okay. So what-what do I have to get you know
+9,8,Ses02M_impro05_F,neutral,"Well, you can fill out this paperwork um- and if for some reason it shows up, we can bring it to you, but-"
+9,9,Ses02M_impro05_M,neutral,"For some reason, so you think it won't show up?"
+9,10,Ses02M_impro05_F,neutral,"Well, sometimes it's just late baggage or misplaced baggage and it comes out but it seems to be here and just I'm reading off of this that"
+9,11,Ses02M_impro05_F,neutral,Uh- it didn't make it into the second plane so it looks like there - they don't actually know what happened to it.
+9,12,Ses02M_impro05_M,neutral,What? What? How does that happen?
+9,13,Ses02M_impro05_F,neutral,"Um, well, sometimes there is just difficulties with loading on to the plane. Uh- There can be a theft or uh- some sort of you know mishap with a cart or something."
+9,14,Ses02M_impro05_M,frustration,I really - I really need that bag.
+9,15,Ses02M_impro05_F,neutral,"I- I- I understand, but um."
+9,16,Ses02M_impro05_M,neutral,there are- I have important things in that bag. I've got
+9,17,Ses02M_impro05_F,neutral,Okay
+9,18,Ses02M_impro05_M,frustration,"I mean -- I've been away for a while and- and now I've- I've gifts for- for you know friends and family I mean, I got stuff in the there"
+9,19,Ses02M_impro05_F,neutral,Right.
+9,20,Ses02M_impro05_M,neutral,It's worth a lot.
+9,21,Ses02M_impro05_F,neutral,"I understand that. Um- So I'm going to put down here that you looking for your baggage, but we actually can't, uh this bag is likely not going to show up so what we're going to do-"
+9,22,Ses02M_impro05_M,frustration,"Not going to show - well isn't like - wouldn't it just be at the airport, that, like, if it didn't get on the other plane"
+9,23,Ses02M_impro05_M,frustration,can they check there?
+9,24,Ses02M_impro05_F,neutral,"Sometimes it gets stolen, sometimes it gets misplaced on another plane and"
+9,25,Ses02M_impro05_M,neutral,on another-
+9,26,Ses02M_impro05_F,neutral,"they - they, it gets shipped to somewhere else and then it's stuck somewhere and then we have no way of tracking that."
+9,27,Ses02M_impro05_F,neutral,So we'll- what we'll do
+9,28,Ses02M_impro05_M,anger,"But we have the tags on. I mean like it wouldn't you know, if it got stuck somewhere it's like well this is nobodies bag I mean maybe you know look on the tag and"
+9,29,Ses02M_impro05_M,frustration,see where it came from originally. I mean it seems like-
+9,30,Ses02M_impro05_F,neutral,Right. Like I said sometimes a theft and things happen like that but we are willing to reim-reimburse you.
+9,31,Ses02M_impro05_M,neutral,Theft?
+9,32,Ses02M_impro05_F,neutral,"Um, so."
+9,33,Ses02M_impro05_M,anger,"Theft? Don't you know like all these people that are work - you keep like an eye on them, how can they get away with-"
+9,34,Ses02M_impro05_F,neutral,"We have very tight security but we -uh- there are times when we just can't uh make sure there aren't absolutely no human error, you know"
+9,35,Ses02M_impro05_F,neutral,I'm sorry there is no guarantee on baggage.
+9,36,Ses02M_impro05_M,frustration,This is unbelievable. I've got
+9,37,Ses02M_impro05_M,anger,you don't realize the stuff that I've got in that - I really need to get the suitcase okay
+9,38,Ses02M_impro05_F,neutral,"I understand, so-"
+9,39,Ses02M_impro05_M,frustration,"so if it's back there or something, if there is something you can do"
+9,40,Ses02M_impro05_M,frustration,"I need you to tell me because I really need to get the bag, okay?"
+9,41,Ses02M_impro05_F,neutral,"all right, We've already checked back here for your baggage"
+9,42,Ses02M_impro05_F,neutral,and we will continue to look for it and because your paper-
+9,43,Ses02M_impro05_M,frustration,You've already checked? Can you check again? [garbage]
+9,44,Ses02M_impro05_F,frustration,"I've already looked, thank you very much and because we've filled out paperwork if it shows up we will send it to you but otherwise what we can do is reimburse you for fifty dollar."
+9,45,Ses02M_impro05_M,neutral,Fifty- fifty dollars? Come on you have got to be joking.
+9,46,Ses02M_impro05_F,neutral,"Well, it's- it's just sort of help with the fact uh that you lost some of your possessions and we rather do that than-"
+9,47,Ses02M_impro05_M,frustration,"Uh huh, yea, lost some of my possessions, yes, so if I lost maybe a shoe that was in the suitcase and like a carry-on"
+9,48,Ses02M_impro05_M,frustration,"that might be like fifty dollars okay, but this - I- [garbage] I had like thousands of dollars worth of stuff in that suitcase."
+9,49,Ses02M_impro05_F,neutral,The airline can't afford to give you everything that is in that suitcase. and so-
+9,50,Ses02M_impro05_M,anger,The a- what? Talking about a core they can't afford it? I mean-
+9,51,Ses02M_impro05_F,neutral,Well because lots of people get their baggage lost and we don't want to have false claims or anything like that so we have
+9,52,Ses02M_impro05_F,neutral,"we can give you fifty dollar to sort of make up for it, to compensate, and we can definitely let you know if it shows up but likely, more than likely-"
+9,53,Ses02M_impro05_M,anger,I mean you're not helping me here. What do I have to do here? Do I need to sue the airline company is that what I should do
+9,54,Ses02M_impro05_M,frustration,because this is ridiculous?
+9,55,Ses02M_impro05_F,neutral,I'm sorry. I don't- I-
+9,56,Ses02M_impro05_F,frustration,I don't believe you should sue the airline company but we do have a policy uh- in which we can reimburse you and that's all we can do and I'm sorry I've done everything I can-
+9,57,Ses02M_impro05_M,frustration,All right. I'm sick- I'm sick of this all right. I'm sick of you and keep your fifty dollar.
+9,58,Ses02M_impro05_F,frustration,There's other people waiting-
+9,59,Ses02M_impro05_F,neutral,Fine.
+10,0,Ses01F_impro01_F,neutral,Excuse me.
+10,1,Ses01F_impro01_M,frustration,Do you have your forms?
+10,2,Ses01F_impro01_F,neutral,Yeah.
+10,3,Ses01F_impro01_M,frustration,Let me see them.
+10,4,Ses01F_impro01_F,neutral,Is there a problem?
+10,5,Ses01F_impro01_M,frustration,Who told you to get in this line?
+10,6,Ses01F_impro01_F,neutral,You did.
+10,7,Ses01F_impro01_F,neutral,You were standing at the beginning and you directed me.
+10,8,Ses01F_impro01_M,frustration,Okay. But I didn't tell you to get in this line if you are filling out this particular form.
+10,9,Ses01F_impro01_F,neutral,Well what's the problem?  Let me change it.
+10,10,Ses01F_impro01_M,frustration,This form is a Z.X.four.
+10,11,Ses01F_impro01_M,frustration,"You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID."
+10,12,Ses01F_impro01_F,frustration,What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.
+10,13,Ses01F_impro01_M,frustration,No. I need another set of ID to prove this is actually you.
+10,14,Ses01F_impro01_F,frustration,How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?
+10,15,Ses01F_impro01_M,frustration,I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.
+10,16,Ses01F_impro01_F,frustration,I'm here to get an ID.
+10,17,Ses01F_impro01_M,frustration,"No.  I need another ID, a separate one."
+10,18,Ses01F_impro01_F,frustration,Like what?  Like a birth certificate?
+10,19,Ses01F_impro01_M,frustration,"A birth certificate, a passport...a student ID; didn't you go to school?  Anything?"
+10,20,Ses01F_impro01_F,neutral,Who the hell has a birth certificate?
+10,21,Ses01F_impro01_F,frustration,"Yes but my wallet was stolen, I don't have anything.  I don't have any credit cards, I don't have my ID.  Don't you have things on file here?"
+10,22,Ses01F_impro01_M,frustration,"Yeah.  We keep it on file, but we need an ID to access that file."
+10,23,Ses01F_impro01_F,anger,That's out of control.
+10,24,Ses01F_impro01_M,anger,I don't understand why this is so complicated for people when they get here.  It's just a simple form.  I just need an ID.
+10,25,Ses01F_impro01_F,frustration,How long have you been working here?
+10,26,Ses01F_impro01_M,neutral,Actually too long.
+10,27,Ses01F_impro01_F,neutral,"Clearly.  You know, do you have like a supervisor or something?"
+10,28,Ses01F_impro01_M,anger,Yeah.  Do you want to see my supervisor?  Huh? Yeah.  Do you want to see my supervisor?  Fine.  I'll be right back.
+10,29,Ses01F_impro01_F,frustration,That would - I would appreciate that.  Yeah.
+11,0,Ses05M_script01_3_F,neutral,You're the only one I know who loves his parents.
+11,1,Ses05M_script01_3_M,neutral,"I know.  It's going out of style, isn't it?"
+11,2,Ses05M_script01_3_F,happiness,It's all right.  It's a good thing.  It's lovely here.  The air is sweet.
+11,3,Ses05M_script01_3_M,neutral,"So, you're not sorry I came?"
+11,4,Ses05M_script01_3_F,neutral,No.  But I'm not going to stay.
+11,5,Ses05M_script01_3_M,neutral,Why?
+11,6,Ses05M_script01_3_F,neutral,"Well, your mother, first of all, pretty much told me to leave."
+11,7,Ses05M_script01_3_M,neutral,Well-
+11,8,Ses05M_script01_3_F,neutral,You saw that.  And well you've been --
+11,9,Ses05M_script01_3_M,neutral,What?
+11,10,Ses05M_script01_3_F,neutral,You've been sort of embarrassed since I got here.
+11,11,Ses05M_script01_3_M,neutral,"Well, I planned on kind of sneaking up on you in a period of a week or so, but they all take it for granted that we're set."
+11,12,Ses05M_script01_3_F,neutral,"I figured they would, your mother at least."
+11,13,Ses05M_script01_3_M,neutral,How did you know?
+11,14,Ses05M_script01_3_F,neutral,"Well, from her perspective, I mean, why else would I come here?"
+11,15,Ses05M_script01_3_M,neutral,"Well, so would you want to?  I mean, I guess you know that's why I asked you to come."
+11,16,Ses05M_script01_3_F,neutral,"Yes, that's why I came."
+11,17,Ses05M_script01_3_M,neutral,"Annie, I love you.  I love you a great deal.  I love you. -I"
+11,18,Ses05M_script01_3_M,neutral,"I don't know what to say.  I have no imagination.  That's all I have to say to you.  God, I'm embarrassing you. I-I didn't want to do this here. I- I wanted to do it someplace different, someplace where we could be new to each other."
+11,19,Ses05M_script01_3_M,neutral,"You feel it's wrong here, don't you; this yard, this chair?  I want you to be ready for me, Annie. I- I don't want to win you away from anything."
+11,20,Ses05M_script01_3_F,happiness,"Oh, Chris I've been ready for a long time."
+11,21,Ses05M_script01_3_M,neutral,So he's gone forever then?  You sure?
+11,22,Ses05M_script01_3_F,sadness,I almost got married two years ago.
+11,23,Ses05M_script01_3_M,neutral,Why didn't you?
+11,24,Ses05M_script01_3_F,neutral,You started to write me.
+11,25,Ses05M_script01_3_M,happiness,You felt something that far back?
+11,26,Ses05M_script01_3_F,happiness,Everyday since.
+11,27,Ses05M_script01_3_M,neutral,"Annie, why didn't you call me or tell me?"
+11,28,Ses05M_script01_3_F,neutral,"Well, I mean, until then you never wrote and when you did, what did you say?  I mean, you sure can be ambiguous."
+11,29,Ses05M_script01_3_M,neutral,"Give me a kiss, Annie.  Give me a --"
+11,30,Ses05M_script01_3_M,neutral,"oh, God I kissed Annie.  I kissed Annie. I can't How long have I waited to do that?"
+11,31,Ses05M_script01_3_F,neutral,I'll never forgive you.  Why did you wait so long?  All this time I've sat around wondering if I was crazy for thinking of you.
+11,32,Ses05M_script01_3_M,neutral,"Oh, Annie, we're gonna live now.  I'm going to make you so happy."
+11,33,Ses05M_script01_3_F,neutral,Not like that you're not.
+11,34,Ses05M_script01_3_M,neutral,I kissed you.
+11,35,Ses05M_script01_3_F,sadness,"Like Larry's brother.  Do it like you, Chris.  What's the matter?"
+11,36,Ses05M_script01_3_M,sadness,Lets go for a ride.  I I- I want to be alone with you.
+11,37,Ses05M_script01_3_F,neutral,"No.  Chris, what is it?  Is it your mother?"
+11,38,Ses05M_script01_3_M,sadness,"No, nothing like that."
+11,39,Ses05M_script01_3_F,neutral,You have to tell me.
+11,40,Ses05M_script01_3_F,sadness,Even in your letters there was something ashamed.
+11,41,Ses05M_script01_3_M,sadness,"Yeah, I suppose I have been.  But it's going for me."
+11,42,Ses05M_script01_3_F,sadness,You have to tell me.
+11,43,Ses05M_script01_3_M,neutral,I don't I don't know where to start.
+11,44,Ses05M_script01_3_F,sadness,It wouldn't work like this.
+11,45,Ses05M_script01_3_M,sadness,It's so mixed up with so many other things.
+11,46,Ses05M_script01_3_M,neutral,"You remember when I was overseas, I was in command of a company?"
+11,47,Ses05M_script01_3_F,neutral,"Yeah, sure."
+11,48,Ses05M_script01_3_M,sadness,I lost them.
+11,49,Ses05M_script01_3_F,sadness,How many?
+11,50,Ses05M_script01_3_M,sadness,Just about all.
+11,51,Ses05M_script01_3_M,sadness,"It- It takes time to toss something like that off,I mean, because they weren't just men."
+11,52,Ses05M_script01_3_M,neutral,"For instance, there was this time, and it had been raining for several days, and this kid came up to me and he gave me his last pair of dry socks, just put them in my pocket."
+11,53,Ses05M_script01_3_M,sadness,I know it's it's just a little thing but that's just the kind of guys I had.  They didn't die.  They killed themselves for each other.
+11,54,Ses05M_script01_3_M,sadness,"I mean that exactly, anymore selfish -- just a little bit more selfish and they would have been here today. And it gave me an idea as I was watching them all go down."
+11,55,Ses05M_script01_3_M,neutral,"Everything was being destroyed see, but I felt like something new was being created at the same time.  Like it kind of -- responsibility.  You know, man to man.  Do you understand what I'm saying?"
+11,56,Ses05M_script01_3_M,neutral,"And and to see that again, to to bring that back on the earth again, like- like a monument that that would stand behind these men and and and it would make a difference to them."
+11,57,Ses05M_script01_3_M,sadness,It was and then I went home.  And it was incredible.  It didn't have any meaning there.
+11,58,Ses05M_script01_3_M,neutral,"I mean, the whole thing was like some kind of bus accident to them."
+11,59,Ses05M_script01_3_M,neutral,So I went back to work for my dad and that whole rat race again.
+11,60,Ses05M_script01_3_M,sadness,"I felt what you said, ashamed somehow because nobody had changed at all."
+11,61,Ses05M_script01_3_M,frustration,"It seemed to make suckers out of so many guys.  And I-I felt wrong to be alive; to to open that bank book, to to drive that car, the new car, and look at that new refrigerator. I mean,"
+11,62,Ses05M_script01_3_M,frustration,"you can take those things out of the war, but if you're gonna drive that car you've got to know that that came from the love a man can have from a man. And you've got to be a little bit better because of that.  Because if you're not, then it's all just loot and there's blood on it and I didn't want any of it."
+11,63,Ses05M_script01_3_M,sadness,And I guess that included you.
+11,64,Ses05M_script01_3_F,sadness,Do you still feel like that?
+11,65,Ses05M_script01_3_M,sadness,"I want you now, Annie."
+11,66,Ses05M_script01_3_F,sadness,"Because you can't feel like that anymore, Chris.  Because everything you have, you have a right to, me included."
+11,67,Ses05M_script01_3_F,neutral,"And you father, he put hundreds of planes in the air and you should be proud.  A man should be paid for that."
+11,68,Ses05M_script01_3_M,neutral,"Oh, Annie,"
+11,69,Ses05M_script01_3_F,happiness,[LAUGHTER] What will I do with a fortune?
+11,70,Ses05M_script01_3_M,happiness,Annie I am going to make you a fortune.
