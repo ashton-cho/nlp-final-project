@@ -1,0 +1,9 @@
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "meld" -uq "False" -mt "baseline"
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "meld" -uq "True" -mt "baseline"
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "meld" -uq "False" -mt "CRF"
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "meld" -uq "True" -mt "CRF"
+
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "iemocap" -uq "False" -mt "baseline"
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "iemocap" -uq "True" -mt "baseline"
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "iemocap" -uq "False" -mt "CRF"
+python train.py -tr -wp 0 -bsz 1 -acc_step 8 -lr 1e-4 -ptmlr 1e-5 -dpt 0.3 -tsk "iemocap" -uq "True" -mt "CRF"
